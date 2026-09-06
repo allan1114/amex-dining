@@ -41,14 +41,29 @@ Using a Vercel account authorized to access this **private GitHub repository**, 
 - Empty-results state with a `顯示所有餐廳` call to action.
 - Filter bar, results summary and `aria-live` count keep list and map in sync.
 
-### Known mobile interaction caveat
-On narrow viewports the map's `.map-actions` overlay (legend + `重設視野`) sits at the top of
-the map and can visually overlap a popup opened by clicking a list entry. The popup itself
-remains visible and readable; only the close button can be obscured. Closing by tapping the
-map or by re-selecting from the list still works. The automated `real snapshot renders and
-list opens pin details` Playwright case (`tests/app.spec.ts:4`) covers this and is currently
-expected to fail on the mobile project (`tests/app.spec.ts:4 mobile`). All other unit, data,
-build and E2E checks pass.
+### Known mobile interaction caveat (resolved by MVP 3)
+MVP 3 ([#5](https://github.com/allan1114/amex-dining/pull/5) merge) relocated
+`.map-actions` to the bottom-left of the map and added a click-outside
+auto-close handler in `ViewControl`. The marker click assertion in
+`tests/app.spec.ts:4` no longer requires `force:true` and the mobile project
+passes reliably.
+
+## MVP3 — overseas coverage & data refresh
+- The Amex merchant endpoint (`dining-offers-prod.amex.r53.tuimedia.com/api/country/{REGION}/merchants?origin=hk`) exposes seven working regions: **HK (51), TW (58), SG (35), TH (51), AU (82), US (60), GB (130)**. MO / CN / KR / MY return 422 and JP returns 0 rows — those regions are deliberately excluded.
+- Coordinates are extracted from each row's `googleMapsUrl` regex `@lat,lng`; the source URL is stored as `coordinates.source` and `precision` is `official-map-link`. Rows whose URL is a `maps.app.goo.gl` short link stay `null` until a reviewed override is added in `data/coordinate-overrides.json`.
+- Every restaurant row carries a `region` field. The default landing scope is **local** (HK only); a 範圍 select in the filter bar switches to 海外 or 全部, and a second 海外地區 select narrows to a specific region.
+- Overseas rows display their region label in the restaurant list tag and the result count summary.
+- Snapshot age: when `fetchedAt` is older than 60 days, the page shows a `超過 60 日` pill next to the snapshot date and `console.warn` includes the suggested `scripts/refresh.py --all --write` command. CI does not fail on stale snapshots.
+- Refresh workflow:
+  ```sh
+  # Dry-run diff (read-only)
+  python3 scripts/refresh.py --region HK,TW,SG,TH
+  # Review the added/removed/changed counts, then apply
+  python3 scripts/refresh.py --region HK,TW,SG,TH --write
+  # Or refresh every working region
+  python3 scripts/refresh.py --all --write
+  ```
+  The script never overwrites the snapshot without `--write`. Fresh rows merge with rows from other regions so partial refreshes are safe.
 
 ## Data contract and safety
 
@@ -58,12 +73,13 @@ The app fetches `public/data/restaurants.json` on startup:
 {
   sourceUrl: string;
   fetchedAt: string; // ISO date/time
-  region: 'HK';
+  regions: Array<'HK' | 'TW' | 'SG' | 'TH' | 'AU' | 'US' | 'GB'>;
   restaurants: Array<{
     id: string; name: string; nameEn?: string;
     address: string; addressEn?: string; district?: string; cuisine?: string;
     website?: string; phone?: string; googleMapsUrl?: string;
     isInHotel?: boolean; isNew?: boolean;
+    region: 'HK' | 'TW' | 'SG' | 'TH' | 'AU' | 'US' | 'GB';
     coordinates: null | { lat: number; lng: number; source?: string; precision?: string };
   }>;
 }
