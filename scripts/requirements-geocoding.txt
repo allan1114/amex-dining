@@ -1,0 +1,3 @@
+# Optional: only needed to rebuild reviewed HK1980 building coordinates.
+# Ordinary imports and validation use Python's standard library.
+pyproj==3.8.0

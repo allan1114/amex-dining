@@ -1,0 +1,611 @@
+{
+  "a81d8168-5e9c-4a7a-bdfc-f1cde759c610": {
+    "nameEn": "aera",
+    "addressEn": "G/F, 6 Stewart Road",
+    "query": "史釗域道6號",
+    "candidate": {
+      "addressZH": "史釗域道   6號",
+      "nameZH": "",
+      "districtZH": "灣仔區",
+      "x": 836263.0,
+      "y": 815569.0,
+      "nameEN": "",
+      "addressEN": "6 STEWART ROAD  ",
+      "districtEN": "Wan Chai District"
+    },
+    "coordinates": {
+      "lat": 22.2789881,
+      "lng": 114.1768258,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8F%B2%E9%87%97%E5%9F%9F%E9%81%936%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "e1fb7684-184f-4440-9cad-f8a4c66c518f": {
+    "nameEn": "ANA TEN",
+    "addressEn": "Shop OTE 304, 3/F, Ocean Terminal, Harbour City",
+    "query": "海運大廈",
+    "candidate": {
+      "addressZH": "海港城",
+      "nameZH": "海運大廈",
+      "districtZH": "油尖旺區",
+      "x": 835358.0,
+      "y": 817370.0,
+      "nameEN": "Ocean Terminal",
+      "addressEN": "HARBOUR CITY",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.295252,
+      "lng": 114.1680434,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B5%B7%E9%81%8B%E5%A4%A7%E5%BB%88",
+      "precision": "building"
+    }
+  },
+  "18367c0a-4cf2-4faa-b217-382c627992a5": {
+    "nameEn": "Angelini",
+    "addressEn": "Mezzanine Level, Kowloon Shangri-La, 64 Mody Road",
+    "query": "麼地道64號",
+    "candidate": {
+      "addressZH": "麼地道   64號",
+      "nameZH": "香格里拉",
+      "districtZH": "油尖旺區",
+      "x": 836285.0,
+      "y": 817563.0,
+      "nameEN": "Shangri-La",
+      "addressEN": "64 MODY ROAD  ",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.2969952,
+      "lng": 114.1770393,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%BA%BC%E5%9C%B0%E9%81%9364%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "9b64d2a9-8b7e-437a-a7df-9ff01cad0082": {
+    "nameEn": "Cantina",
+    "addressEn": "1/F, Block 1, Tai Kwun, 10 Hollywood Road",
+    "query": "荷李活道10號",
+    "candidate": {
+      "addressZH": "荷李活道   10號",
+      "nameZH": "中區警署",
+      "districtZH": "中西區",
+      "x": 833924.0,
+      "y": 815850.0,
+      "nameEN": "Central Police Station Compound",
+      "addressEN": "10 HOLLYWOOD ROAD  ",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2815241,
+      "lng": 114.1541297,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%9310%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "7a0f2cfb-1d92-4148-b185-7b2180f50b77": {
+    "nameEn": "Chesa",
+    "addressEn": "1/F,  The Peninsula Hong Kong, Salisbury Road",
+    "query": "半島酒店",
+    "candidate": {
+      "addressZH": "",
+      "nameZH": "半島酒店",
+      "districtZH": "油尖旺區",
+      "x": 835742.0,
+      "y": 817371.0,
+      "nameEN": "The Peninsula",
+      "addressEN": "",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.2952612,
+      "lng": 114.1717699,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97",
+      "precision": "building"
+    }
+  },
+  "df881dc8-8210-40b3-b707-0c6a0f092b95": {
+    "nameEn": "Estro",
+    "addressEn": "2/F, 1 Duddell Street",
+    "query": "都爹利街1號",
+    "candidate": {
+      "addressZH": "都爹利街   1號",
+      "nameZH": "都爹利街一號",
+      "districtZH": "中西區",
+      "x": 834253.0,
+      "y": 815698.0,
+      "nameEN": "1 Duddell Street",
+      "addressEN": "1 DUDDELL STREET  ",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2801519,
+      "lng": 114.1573223,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%83%BD%E7%88%B9%E5%88%A9%E8%A1%971%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "8a8239e5-600b-44ec-84f4-f62777c7d792": {
+    "nameEn": "Gaddi's",
+    "addressEn": "1/F, The Peninsula Hong Kong, Salisbury Road",
+    "query": "半島酒店",
+    "candidate": {
+      "addressZH": "",
+      "nameZH": "半島酒店",
+      "districtZH": "油尖旺區",
+      "x": 835742.0,
+      "y": 817371.0,
+      "nameEN": "The Peninsula",
+      "addressEN": "",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.2952612,
+      "lng": 114.1717699,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97",
+      "precision": "building"
+    }
+  },
+  "42b681c1-50a2-4bfa-a1cd-92b97d32bea1": {
+    "nameEn": "Gaia Ristorante",
+    "addressEn": "Unit 01-05, G/F, Grand Millennium Plaza, 181 Queen’s Road",
+    "query": "皇后大道中181號",
+    "candidate": {
+      "addressZH": "皇后大道中   181號|永樂街   31號",
+      "nameZH": "新紀元廣場",
+      "districtZH": "中西區",
+      "x": 833859.0,
+      "y": 816265.0,
+      "nameEN": "Grand Millennium Plaza",
+      "addressEN": "181 QUEEN'S ROAD CENTRAL|31 WING LOK STREET",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2852717,
+      "lng": 114.1534984,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD181%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "76c9aff3-223d-4dc3-aa51-986c6b27a841": {
+    "nameEn": "Giando Italian Restaurant & Bar",
+    "addressEn": "Shop 1, G/F, Tower 1, Starcrest, 9 Star Street",
+    "query": "星街9號",
+    "candidate": {
+      "addressZH": "星街   9號",
+      "nameZH": "星域軒",
+      "districtZH": "灣仔區",
+      "x": 835306.0,
+      "y": 815275.0,
+      "nameEN": "STARCREST",
+      "addressEN": "9 STAR STREET  ",
+      "districtEN": "Wan Chai District"
+    },
+    "coordinates": {
+      "lat": 22.2763328,
+      "lng": 114.1675401,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%98%9F%E8%A1%979%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "e9e714b7-0b38-476e-9570-72891d85a604": {
+    "nameEn": "Kanizen",
+    "addressEn": "Shop 105, 1/F, Lee Garden One, 33 Hysan Avenue",
+    "query": "利園一期",
+    "candidate": {
+      "addressZH": "希慎道   33號",
+      "nameZH": "利園一期",
+      "districtZH": "灣仔區",
+      "x": 837064.0,
+      "y": 815509.0,
+      "nameEN": "Lee Garden One",
+      "addressEN": "33 HYSAN AVENUE  ",
+      "districtEN": "Wan Chai District"
+    },
+    "coordinates": {
+      "lat": 22.2784461,
+      "lng": 114.184598,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%88%A9%E5%9C%92%E4%B8%80%E6%9C%9F",
+      "precision": "building"
+    }
+  },
+  "1c1d94bb-045b-4901-8eb1-54c5c2c7cd6a": {
+    "nameEn": "LPM Restaurant & Bar",
+    "addressEn": "H Queen's, 23-29 Stanley Street",
+    "query": "H QUEEN'S",
+    "candidate": {
+      "addressZH": "皇后大道中   80號",
+      "nameZH": "H Queen's",
+      "districtZH": "中西區",
+      "x": 834041.0,
+      "y": 816019.0,
+      "nameEN": "H Queen's",
+      "addressEN": "80 QUEEN'S ROAD CENTRAL  ",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2830504,
+      "lng": 114.1552647,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=H+QUEEN%27S",
+      "precision": "building"
+    }
+  },
+  "22a31b46-0a38-447d-8805-b968153541f6": {
+    "nameEn": "Morton's of Chicago",
+    "addressEn": "4/F, The Sheraton Hong Kong Hotel & Towers, 20 Nathan Road",
+    "query": "彌敦道20號",
+    "candidate": {
+      "addressZH": "彌敦道   20號",
+      "nameZH": "香港喜來登酒店",
+      "districtZH": "油尖旺區",
+      "x": 835841.0,
+      "y": 817371.0,
+      "nameEN": "Sheraton Hong Kong Hotel & Towers",
+      "addressEN": "20 NATHAN ROAD  ",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.2952612,
+      "lng": 114.1727306,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%BD%8C%E6%95%A6%E9%81%9320%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "1ece4725-c014-460a-92cf-ad20adb0c616": {
+    "nameEn": "MOSU Hong Kong",
+    "addressEn": "3/F, M+, 38 Museum Drive, West Kowloon Cultural District",
+    "query": "博物館道38號",
+    "candidate": {
+      "addressZH": "博物館道   38號",
+      "nameZH": "M＋",
+      "districtZH": "油尖旺區",
+      "x": 834441.0,
+      "y": 817991.0,
+      "nameEN": "M+",
+      "addressEN": "38 MUSEUM DRIVE  ",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.3008593,
+      "lng": 114.1591439,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%81%9338%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "3d0ae885-e796-4d19-88f1-d763ecd22090": {
+    "nameEn": "Nadaman (Island Shangri-la)",
+    "addressEn": "7/F, Island Shangri-La, Supreme Court Road",
+    "query": "港島香格里拉",
+    "candidate": {
+      "addressZH": "太古廣場",
+      "nameZH": "港島香格里拉大酒店",
+      "districtZH": "中西區",
+      "x": 834975.0,
+      "y": 815348.0,
+      "nameEN": "Island Shangri-La Hotel",
+      "addressEN": "PACIFIC PLACE",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2769918,
+      "lng": 114.1643283,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B8%AF%E5%B3%B6%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89",
+      "precision": "building"
+    }
+  },
+  "0887d0ab-970a-482f-a4d1-b9f9a54f5564": {
+    "nameEn": "Nadaman (Kowloon Shangri-la)",
+    "addressEn": "Lower Level 2, Kowloon Shangri-La, 64 Mody Road",
+    "query": "麼地道64號",
+    "candidate": {
+      "addressZH": "麼地道   64號",
+      "nameZH": "香格里拉",
+      "districtZH": "油尖旺區",
+      "x": 836285.0,
+      "y": 817563.0,
+      "nameEN": "Shangri-La",
+      "addressEN": "64 MODY ROAD  ",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.2969952,
+      "lng": 114.1770393,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%BA%BC%E5%9C%B0%E9%81%9364%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "aeda57f1-b1ae-466f-9c28-f160e55aafe4": {
+    "nameEn": "ODDS",
+    "addressEn": "Shop G2, G/F, Standard Chartered Bank Building, 4-4A Des Voeux Road Central",
+    "query": "渣打銀行大廈",
+    "candidate": {
+      "addressZH": "德輔道中   4-4A號",
+      "nameZH": "渣打銀行大廈",
+      "districtZH": "中西區",
+      "x": 834420.0,
+      "y": 815710.0,
+      "nameEN": "Standard Chartered Bank Building",
+      "addressEN": "4-4A DES VOEUX ROAD CENTRAL  ",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2802604,
+      "lng": 114.1589427,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%A4%A7%E5%BB%88",
+      "precision": "building"
+    }
+  },
+  "77e4a899-48d1-41cf-9f8d-671c15a7df85": {
+    "nameEn": "One Harbour Road",
+    "addressEn": "7-8/F, Grand Hyatt, 1 Harbour Road",
+    "query": "香港君悅酒店",
+    "candidate": {
+      "addressZH": "",
+      "nameZH": "君悅酒店",
+      "districtZH": "灣仔區",
+      "x": 835784.0,
+      "y": 815838.0,
+      "nameEN": "Grand Hyatt Hotel",
+      "addressEN": "",
+      "districtEN": "Wan Chai District"
+    },
+    "coordinates": {
+      "lat": 22.2814173,
+      "lng": 114.1721779,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A6%99%E6%B8%AF%E5%90%9B%E6%82%85%E9%85%92%E5%BA%97",
+      "precision": "building"
+    }
+  },
+  "dd18f2f7-3db6-4cd2-8baa-2ec2d66dd123": {
+    "nameEn": "PENNA",
+    "addressEn": "Shop 314, Level 3, Cityplaza, 18 Taikoo Shing Road",
+    "query": "太古城道18號",
+    "candidate": {
+      "addressZH": "香港太古城太古城道18號",
+      "nameZH": "太古城中心",
+      "districtZH": "東區",
+      "x": 840438.0,
+      "y": 816333.0,
+      "nameEN": "Cityplaza",
+      "addressEN": "18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+      "districtEN": "Eastern District"
+    },
+    "coordinates": {
+      "lat": 22.2858824,
+      "lng": 114.2173386,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A4%AA%E5%8F%A4%E5%9F%8E%E9%81%9318%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "6bc89497-43f3-4bdb-b0be-3d7fad135958": {
+    "nameEn": "Prohibition Grill house & Cocktail bar",
+    "addressEn": "G/F, ( Portion C) at Club Wing, Ocean Park Marriott Hotel, 180 Wong Chuk Hang Road",
+    "query": "香港海洋公園萬豪酒店",
+    "candidate": {
+      "addressZH": "香港香港仔黃竹坑道180號 地庫(部份),地下低層(部份),地下(部份), 1-3字樓,5-6字樓及天台",
+      "nameZH": "香港海洋公園萬豪酒店",
+      "districtZH": "南區",
+      "x": 836144.85044428,
+      "y": 812097.44515681,
+      "nameEN": "HONG KONG OCEAN PARK MARRIOTT HOTEL",
+      "addressEN": "B/F (Portion), LG/F(Portion), G/F(Portion), 1F-3/F, 5/F-6/F, and R/F, 180 Wong Chuk Hang Road, Aberdeen, Hong Kong.",
+      "districtEN": "Southern District"
+    },
+    "coordinates": {
+      "lat": 22.2476377,
+      "lng": 114.1756797,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A6%99%E6%B8%AF%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97",
+      "precision": "building"
+    }
+  },
+  "2ae9f678-8797-4ee3-8b9f-31b21d57b0ba": {
+    "nameEn": "Quinary",
+    "addressEn": "G/F, 56-58 Hollywood Road, Soho",
+    "query": "荷李活道56號",
+    "candidate": {
+      "addressZH": "卑利街   38-44號|荷李活道   54-58號",
+      "nameZH": "中發大廈",
+      "districtZH": "中西區",
+      "x": 833793.0,
+      "y": 815983.0,
+      "nameEN": "Felicity Building",
+      "addressEN": "38-44 PEEL STREET|54-58 HOLLYWOOD ROAD",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.282725,
+      "lng": 114.1528583,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%9356%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "fa4c65dd-b1fa-4737-abaa-8ea650cea675": {
+    "nameEn": "Roganic",
+    "addressEn": "Shop 402 - 403, 4/F, Lee Garden One, 33 Hysan Avenue",
+    "query": "利園一期",
+    "candidate": {
+      "addressZH": "希慎道   33號",
+      "nameZH": "利園一期",
+      "districtZH": "灣仔區",
+      "x": 837064.0,
+      "y": 815509.0,
+      "nameEN": "Lee Garden One",
+      "addressEN": "33 HYSAN AVENUE  ",
+      "districtEN": "Wan Chai District"
+    },
+    "coordinates": {
+      "lat": 22.2784461,
+      "lng": 114.184598,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%88%A9%E5%9C%92%E4%B8%80%E6%9C%9F",
+      "precision": "building"
+    }
+  },
+  "fe4944ed-69d1-4785-a984-db6a0e0a6b63": {
+    "nameEn": "SPIGA",
+    "addressEn": "3/F, LHT Tower, 31 Queen’s Road Central",
+    "query": "陸海通大廈",
+    "candidate": {
+      "addressZH": "戲院里   1-7號|皇后大道中   31-31A號",
+      "nameZH": "陸海通大廈",
+      "districtZH": "中西區",
+      "x": 834183.0,
+      "y": 815918.0,
+      "nameEN": "LHT Tower",
+      "addressEN": "1-7 THEATRE LANE|31-31A QUEEN'S ROAD CENTRAL",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2821385,
+      "lng": 114.1566428,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%99%B8%E6%B5%B7%E9%80%9A%E5%A4%A7%E5%BB%88",
+      "precision": "building"
+    }
+  },
+  "55ebf8f4-31b2-4230-a908-6e1a43c321e5": {
+    "nameEn": "The Orient",
+    "addressEn": "Shop OTE401, 4/F, Ocean Terminal, Harbour City",
+    "query": "海運大廈",
+    "candidate": {
+      "addressZH": "海港城",
+      "nameZH": "海運大廈",
+      "districtZH": "油尖旺區",
+      "x": 835358.0,
+      "y": 817370.0,
+      "nameEN": "Ocean Terminal",
+      "addressEN": "HARBOUR CITY",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.295252,
+      "lng": 114.1680434,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B5%B7%E9%81%8B%E5%A4%A7%E5%BB%88",
+      "precision": "building"
+    }
+  },
+  "274ada71-aef5-4419-a6a6-9f7d2ae3a4ec": {
+    "nameEn": "The Savory Project",
+    "addressEn": "G/F, 4 Staunton Street, Soho",
+    "query": "士丹頓街4號",
+    "candidate": {
+      "addressZH": "士丹頓街   2-4號",
+      "nameZH": "",
+      "districtZH": "中西區",
+      "x": 833826.0,
+      "y": 815856.0,
+      "nameEN": "",
+      "addressEN": "2-4 STAUNTON STREET  ",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2815782,
+      "lng": 114.1531788,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A3%AB%E4%B8%B9%E9%A0%93%E8%A1%974%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "9ebf9160-52b3-48e7-b039-03c9e6349c4a": {
+    "nameEn": "The Sky Boss",
+    "addressEn": "Shop B2, 101/F, International Commerce Centre, 1 Austin Road West",
+    "query": "環球貿易廣場",
+    "candidate": {
+      "addressZH": "",
+      "nameZH": "環球貿易廣場",
+      "districtZH": "油尖旺區",
+      "x": 834561.0,
+      "y": 818268.0,
+      "nameEN": "INTERNATIONAL COMMERCE CENTRE",
+      "addressEN": "",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.3033609,
+      "lng": 114.1603082,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%92%B0%E7%90%83%E8%B2%BF%E6%98%93%E5%BB%A3%E5%A0%B4",
+      "precision": "building"
+    }
+  },
+  "1b8b9b4d-6910-4d9e-84cb-ff5796bd6d98": {
+    "nameEn": "The Steakhouse",
+    "addressEn": "G/F, Regent Hong Kong, 18 Salisbury Road",
+    "query": "梳士巴利道18號",
+    "candidate": {
+      "addressZH": "梳士巴利道   18號",
+      "nameZH": "香港麗晶酒店",
+      "districtZH": "油尖旺區",
+      "x": 835962.0,
+      "y": 817166.0,
+      "nameEN": "Regent Hong Kong",
+      "addressEN": "18 SALISBURY ROAD  ",
+      "districtEN": "Yau Tsim Mong District"
+    },
+    "coordinates": {
+      "lat": 22.29341,
+      "lng": 114.1739049,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%A2%B3%E5%A3%AB%E5%B7%B4%E5%88%A9%E9%81%9318%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "46199bcf-6512-4321-979b-fc16b3071197": {
+    "nameEn": "VEA Restaurant",
+    "addressEn": "30/F, The Wellington, 198 Wellington Street",
+    "query": "威靈頓街198號",
+    "candidate": {
+      "addressZH": "威靈頓街   198號",
+      "nameZH": "The Wellington",
+      "districtZH": "中西區",
+      "x": 833807.0,
+      "y": 816211.0,
+      "nameEN": "The Wellington",
+      "addressEN": "198 WELLINGTON STREET  ",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.284784,
+      "lng": 114.1529938,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97198%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "4a6822f0-281e-4c16-b3f6-38b5d64708c6": {
+    "nameEn": "Xin Rong Ji",
+    "addressEn": "1&G/F, China Overseas Building, 138 Lockhart Road",
+    "query": "駱克道138號",
+    "candidate": {
+      "addressZH": "駱克道   138號|軒尼詩道   139號",
+      "nameZH": "中國海外大廈",
+      "districtZH": "灣仔區",
+      "x": 835842.0,
+      "y": 815428.0,
+      "nameEN": "China Overseas Building",
+      "addressEN": "138 LOCKHART ROAD|139 HENNESSY ROAD",
+      "districtEN": "Wan Chai District"
+    },
+    "coordinates": {
+      "lat": 22.2777147,
+      "lng": 114.1727408,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A7%B1%E5%85%8B%E9%81%93138%E8%99%9F",
+      "precision": "building"
+    }
+  },
+  "1c1bb3a7-ed55-44a1-aa4d-d168ac102c43": {
+    "nameEn": "Zuma Hong Kong",
+    "addressEn": "Shop 601-603, 6/F & Shop 501-503, 5/F, LANDMARK ATRIUM, 15 Queen's Road Central",
+    "query": "置地廣場",
+    "candidate": {
+      "addressZH": "皇后大道中   11-19號|雪廠街   12號|德輔道中   12-16號|畢打街   5-17號",
+      "nameZH": "置地廣場",
+      "districtZH": "中西區",
+      "x": 834303.0,
+      "y": 815808.0,
+      "nameEN": "THE LANDMARK",
+      "addressEN": "11-19 QUEEN'S ROAD CENTRAL|12 ICE HOUSE STREET|12-16 DES VOEUX ROAD CENTRAL|5-17 PEDDER STREET",
+      "districtEN": "Central and Western District"
+    },
+    "coordinates": {
+      "lat": 22.2811453,
+      "lng": 114.1578073,
+      "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%BD%AE%E5%9C%B0%E5%BB%A3%E5%A0%B4",
+      "precision": "building"
+    }
+  }
+}

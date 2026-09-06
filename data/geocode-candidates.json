@@ -1,0 +1,3297 @@
+{
+  "史釗域道6號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8F%B2%E9%87%97%E5%9F%9F%E9%81%936%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "史釗域道   6號",
+        "nameZH": "",
+        "districtZH": "灣仔區",
+        "x": 836263.0,
+        "y": 815569.0,
+        "nameEN": "",
+        "addressEN": "6 STEWART ROAD  ",
+        "districtEN": "Wan Chai District"
+      }
+    ]
+  },
+  "海運大廈": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B5%B7%E9%81%8B%E5%A4%A7%E5%BB%88",
+    "candidates": [
+      {
+        "addressZH": "海港城",
+        "nameZH": "海運大廈",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Ocean Terminal",
+        "addressEN": "HARBOUR CITY",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀海港城海運大廈4樓-5樓",
+        "nameZH": "海運大廈停車場 (P5)",
+        "districtZH": "油尖旺區",
+        "x": 835320.002,
+        "y": 817356.999,
+        "nameEN": "Ocean Terminal Car Park (P5)",
+        "addressEN": "4/F - 5/F, Ocean Terminal, Harbour City, Tsim Sha Tsui, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀海港城海運大廈4樓-5樓",
+        "nameZH": "海運大廈停車場 (P5)",
+        "districtZH": "油尖旺區",
+        "x": 835320.0,
+        "y": 817357.0,
+        "nameEN": "Ocean Terminal Car Park (P5)",
+        "addressEN": "4/F - 5/F, Ocean Terminal, Harbour City, Tsim Sha Tsui, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀海運大廈",
+        "nameZH": "海運碼頭",
+        "districtZH": "油尖旺區",
+        "x": 835050.0,
+        "y": 817307.0,
+        "nameEN": "Ocean Terminal",
+        "addressEN": "Ocean Terminal, Tsim Sha Tsui, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "海運大廈大堂詢問處",
+        "nameZH": "編號177郵箱",
+        "districtZH": "油尖旺區",
+        "x": 835383.9,
+        "y": 817359.8,
+        "nameEN": "Street Posting Box No. 177",
+        "addressEN": "Ocean Terminal Concierge Counter",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈4樓",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 02040)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: HKBN Enterprise Solutions HK Limited (APID 02040)",
+        "addressEN": "4/F, Ocean Terminal, Harbour City, Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈3樓",
+        "nameZH": "已登記的WiFi 熱點: 滙港電訊有限公司 (APID 02041)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: HKBN Enterprise Solutions HK Limited (APID 02041)",
+        "addressEN": "3/F, Ocean Terminal, Harbour City, Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈2樓",
+        "nameZH": "已登記的WiFi 熱點: 滙港電訊有限公司 (APID 02042)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: HKBN Enterprise Solutions HK Limited (APID 02042)",
+        "addressEN": "2/F, Ocean Terminal, Harbour City, Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈1樓",
+        "nameZH": "已登記的WiFi 熱點: 滙港電訊有限公司 (APID 02044)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: HKBN Enterprise Solutions HK Limited (APID 02044)",
+        "addressEN": "1/F, Ocean Terminal Extension, Harbour City, Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈3樓X Plus",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08225)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08225)",
+        "addressEN": "Unit X Plus, Level 3, Ocean Terminal, Harbour City, Tsim Sha Tsui",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈地下",
+        "nameZH": "已登記的WiFi 熱點: 滙港電訊有限公司 (APID 02043)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: HKBN Enterprise Solutions HK Limited (APID 02043)",
+        "addressEN": "G/F, Ocean Terminal, Harbour City, Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈3樓X Plus店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03058)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03058)",
+        "addressEN": "Unit X Plus, 3/F, Ocean Terminal, Harbour City, 3-27 Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈3樓OT 303號店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03056)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03056)",
+        "addressEN": "Unit Shop OT 303, 3/F, Ocean Terminal, Canton Rd",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈3樓3A及3C號店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03055)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03055)",
+        "addressEN": "Unit Shop 3A & 3C, 3/F LCX, Ocean Terminal, Canton Rd",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈3樓F13號X Plus店",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05338)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05338)",
+        "addressEN": "Unit F13, XPLUS, L3/F, Ocean Terminal, Harbour City, Tsim Sha Tsui",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀廣東道海運大廈地下OT G61號店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03057)",
+        "districtZH": "油尖旺區",
+        "x": 835358.0,
+        "y": 817370.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03057)",
+        "addressEN": "Unit Shop OT G61, G/F, Ocean Terminal, Harbour City, 17 Canton Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍尖沙咀海港城海運大廈二階OT207-208號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 周大福",
+        "districtZH": "油尖旺區",
+        "x": 835312.3,
+        "y": 817344.3,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Chow Tai Fook",
+        "addressEN": "FT 207-8 2/F OCEAN TERMINAL (OT201-OT209) 5 CANTON ROAD,HARBOUR CITY,TSIM SHA TSUI KOWLOON",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "麼地道64號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%BA%BC%E5%9C%B0%E9%81%9364%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "麼地道   64號",
+        "nameZH": "香格里拉",
+        "districtZH": "油尖旺區",
+        "x": 836285.0,
+        "y": 817563.0,
+        "nameEN": "Shangri-La",
+        "addressEN": "64 MODY ROAD  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀東麼地道64號",
+        "nameZH": "九龍香格里拉",
+        "districtZH": "油尖旺區",
+        "x": 836285.7,
+        "y": 817564.3,
+        "nameEN": "KOWLOON SHANGRI-LA, HONG KONG",
+        "addressEN": "64 Mody Road,Tsim Sha Tsui East, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "麼地道   64號",
+        "nameZH": "九龍香格里拉大酒店 (別稱)",
+        "districtZH": "油尖旺區",
+        "x": 836285.0,
+        "y": 817563.0,
+        "nameEN": "Kowloon Shangri-La (Other Name)",
+        "addressEN": "64 MODY ROAD  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀麼地道66號尖沙咀中心地下G64-66號店",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05671)",
+        "districtZH": "油尖旺區",
+        "x": 836366.0,
+        "y": 817651.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05671)",
+        "addressEN": "Unit G64-66, G/F, Tsim Sha Tsui Centre, 66 Mody Rd, Tsim Sha Tsui East",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "荷李活道10號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%9310%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "荷李活道   10號",
+        "nameZH": "大館",
+        "districtZH": "中西區",
+        "x": 833911.0,
+        "y": 815819.0,
+        "nameEN": "Tai Kwun",
+        "addressEN": "10 HOLLYWOOD ROAD  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "荷李活道   10號",
+        "nameZH": "中區警署",
+        "districtZH": "中西區",
+        "x": 833924.0,
+        "y": 815850.0,
+        "nameEN": "Central Police Station Compound",
+        "addressEN": "10 HOLLYWOOD ROAD  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號，大館－古蹟及藝術館",
+        "nameZH": "賽馬會文物保育有限公司",
+        "districtZH": "中西區",
+        "x": 833907.98332511,
+        "y": 815831.91854716,
+        "nameEN": "The Jockey Club CPS Limited",
+        "addressEN": "Tai Kwun, 10 Hollywood Road, Central, Hong Kong.",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號，大館－古蹟及藝術館",
+        "nameZH": "賽馬會文物保育有限公司",
+        "districtZH": "中西區",
+        "x": 833907.98332511,
+        "y": 815831.91854716,
+        "nameEN": "The Jockey Club CPS Limited",
+        "addressEN": "Tai Kwun, 10 Hollywood Road, Central, Hong Kong.",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號，大館－古蹟及藝術館",
+        "nameZH": "賽馬會文物保育有限公司",
+        "districtZH": "中西區",
+        "x": 833907.98332511,
+        "y": 815831.91854716,
+        "nameEN": "The Jockey Club CPS Limited",
+        "addressEN": "Tai Kwun, 10 Hollywood Road, Central, Hong Kong.",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號，大館－古蹟及藝術館",
+        "nameZH": "賽馬會文物保育有限公司",
+        "districtZH": "中西區",
+        "x": 833907.98332511,
+        "y": 815831.91854716,
+        "nameEN": "The Jockey Club CPS Limited",
+        "addressEN": "Tai Kwun, 10 Hollywood Road, Central, Hong Kong.",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號，大館－古蹟及藝術館",
+        "nameZH": "賽馬會文物保育有限公司",
+        "districtZH": "中西區",
+        "x": 833907.98332511,
+        "y": 815831.91854716,
+        "nameEN": "The Jockey Club CPS Limited",
+        "addressEN": "Tai Kwun, 10 Hollywood Road, Central, Hong Kong.",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號",
+        "nameZH": "前中央裁判司署",
+        "districtZH": "中西區",
+        "x": 833956.0298,
+        "y": 815801.648,
+        "nameEN": "Former Central Magistracy",
+        "addressEN": "No. 10 Hollywood Road, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號",
+        "nameZH": "前域多利監獄",
+        "districtZH": "中西區",
+        "x": 833906.0525,
+        "y": 815780.435799999,
+        "nameEN": "Former Victoria Prison Compound",
+        "addressEN": "No. 10 Hollywood Road, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號",
+        "nameZH": "前中區警署",
+        "districtZH": "中西區",
+        "x": 833923.1097,
+        "y": 815848.178200001,
+        "nameEN": "Former Central Police Station Compound",
+        "addressEN": "No. 10 Hollywood Road, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環荷李活道10號大館01座地下二層01-LG205舖",
+        "nameZH": "中區警區警察服務中心",
+        "districtZH": "中西區",
+        "x": 833925.0,
+        "y": 815886.0,
+        "nameEN": "Police Services Centre, Central District",
+        "addressEN": "Shop 01-LG205, LG2/F, Block 01, Taikwun, No. 10 Hollywood Road, Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道10號大館01座地下二層01-LG205舖",
+        "nameZH": "中區警區警察服務中心",
+        "districtZH": "中西區",
+        "x": 833922.90320692,
+        "y": 815881.76882433,
+        "nameEN": "Police Services Centre, Central District",
+        "addressEN": "Shop 01-LG205, LG2/F, Block 01, Taikwun, No. 10 Hollywood Road, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "荷李活道   10號",
+        "nameZH": "中區警署 (前稱)",
+        "districtZH": "中西區",
+        "x": 833924.0,
+        "y": 815850.0,
+        "nameEN": "CENTRAL POLICE STATION (Previous Name)",
+        "addressEN": "10 HOLLYWOOD ROAD  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "荷李活道   1-13號",
+        "nameZH": "華懋荷李活中心",
+        "districtZH": "中西區",
+        "x": 833953.0,
+        "y": 815899.0,
+        "nameEN": "Chinachem Hollywood Centre",
+        "addressEN": "1-13 HOLLYWOOD ROAD  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環荷李活道69號The Soho 10-13字樓",
+        "nameZH": "THE SOHO",
+        "districtZH": "中西區",
+        "x": 833782.4,
+        "y": 816042.2,
+        "nameEN": "THE SOHO",
+        "addressEN": "10/F-13/F, The Soho,69 Hollywood Road,Central, Hong Kong.",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "半島酒店": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97",
+    "candidates": [
+      {
+        "addressZH": "",
+        "nameZH": "半島酒店",
+        "districtZH": "油尖旺區",
+        "x": 835742.0,
+        "y": 817371.0,
+        "nameEN": "The Peninsula",
+        "addressEN": "",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀梳士巴利道半島酒店",
+        "nameZH": "半島酒店",
+        "districtZH": "油尖旺區",
+        "x": 835751.3,
+        "y": 817373.1,
+        "nameEN": "THE PENINSULA HONG KONG",
+        "addressEN": "The Peninsula Hong Kong,Salisbury Road,Tsim Sha Tsui, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "港鐵尖沙咀站TST12號舖(近半島酒店)",
+        "nameZH": "7-11便利店-尖沙咀",
+        "districtZH": "油尖旺區",
+        "x": 835786.0,
+        "y": 817633.0,
+        "nameEN": "7-Eleven-Tsim Sha Tsui",
+        "addressEN": "Kiosk No. TST 12 at Unpaid Concourse of MTR Tsim Sha Tsui Station",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀梳士巴利道半島酒店30樓",
+        "nameZH": "已登記的WiFi 熱點: 香港上海大酒店管理服務有限公司 (APID 06731)",
+        "districtZH": "油尖旺區",
+        "x": 835742.0,
+        "y": 817371.0,
+        "nameEN": "Registered WiFi Access Points: HSH Management Services Limited (APID 06731)",
+        "addressEN": "30/F, The Peninsula Hotel, Salisbury Road",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "都爹利街1號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%83%BD%E7%88%B9%E5%88%A9%E8%A1%971%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "都爹利街   1號",
+        "nameZH": "都爹利街一號",
+        "districtZH": "中西區",
+        "x": 834253.0,
+        "y": 815698.0,
+        "nameEN": "1 Duddell Street",
+        "addressEN": "1 DUDDELL STREET  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "都爹利街   1號",
+        "nameZH": "浙江第一銀行中心 (前稱)",
+        "districtZH": "中西區",
+        "x": 834253.0,
+        "y": 815698.0,
+        "nameEN": "Chekiang First Bank Centre (Previous Name)",
+        "addressEN": "1 DUDDELL STREET  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環都爹利街1號19樓",
+        "nameZH": "APTORUMMEDICALLIMITED",
+        "districtZH": "中西區",
+        "x": 834249.49575607,
+        "y": 815701.03789391,
+        "nameEN": "APTORUM MEDICAL LIMITED",
+        "addressEN": "19/F, 1 DUDDELL STREET, CENTRAL, HK",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環都爹利街13號樂成行閣樓M1號舖",
+        "nameZH": "CLUB C +",
+        "districtZH": "中西區",
+        "x": 834189.4807456,
+        "y": 815654.4590798,
+        "nameEN": "CLUB C +",
+        "addressEN": "Shop M1, M/F, Baskerville House, 13 Duddell Street, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "都爹利街11號律敦治中心1層109號舖The MIX",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05122)",
+        "districtZH": "中西區",
+        "x": 834222.7,
+        "y": 815680.9,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05122)",
+        "addressEN": "Unit Unit 109, 1/F, Block The MIX, Ruttonjee Centre, 11 Duddell St",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "皇后大道中181號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD181%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "皇后大道中   181號|永樂街   31號",
+        "nameZH": "新紀元廣場",
+        "districtZH": "中西區",
+        "x": 833859.0,
+        "y": 816265.0,
+        "nameEN": "Grand Millennium Plaza",
+        "addressEN": "181 QUEEN'S ROAD CENTRAL|31 WING LOK STREET",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港上環皇后大道中181號新紀元廣場低座14樓",
+        "nameZH": "香港中旅證件服務港島中心",
+        "districtZH": "中西區",
+        "x": 833863.0,
+        "y": 816279.0,
+        "nameEN": "香港中旅證件服務港島中心",
+        "addressEN": "14/F Low Block, Grand Millennium Plaza, 181 Queen’s Road Central, HK",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港皇后大道中181-183號新紀元廣場低座地下",
+        "nameZH": "上環服務中心 中西區家居照顧及支援服務隊",
+        "districtZH": "中西區",
+        "x": 833851.7039196,
+        "y": 816280.0450375,
+        "nameEN": "Sheung Wan Service Centre Central & Western Home Care and Support Services Team",
+        "addressEN": "G/F, Low Block, Grand Millennium Plaza, 181-183 Queen's Road Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環皇后大道中181號新紀元廣場",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05046)",
+        "districtZH": "中西區",
+        "x": 833859.0,
+        "y": 816265.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05046)",
+        "addressEN": "Unit Shop 202-203, 2/F, Block Low Block, Grand Millennium Plaza, 181 Queen's Rd Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環皇后大道中181號新紀元廣場",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 02852)",
+        "districtZH": "中西區",
+        "x": 833859.0,
+        "y": 816265.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 02852)",
+        "addressEN": "Unit Units 208-214, 2/F, Block Low Block, Grand Millennium Plaza, 181 Queen's Road Central",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "星街9號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%98%9F%E8%A1%979%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "星街   9號",
+        "nameZH": "星域軒",
+        "districtZH": "灣仔區",
+        "x": 835306.0,
+        "y": 815275.0,
+        "nameEN": "STARCREST",
+        "addressEN": "9 STAR STREET  ",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "景星街   9號",
+        "nameZH": "",
+        "districtZH": "灣仔區",
+        "x": 836020.0,
+        "y": 815024.0,
+        "nameEN": "",
+        "addressEN": "9 KING SING STREET  ",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "木星街   9號",
+        "nameZH": "永昇中心",
+        "districtZH": "灣仔區",
+        "x": 837860.0,
+        "y": 816378.0,
+        "nameEN": "Jupiter Tower",
+        "addressEN": "9 JUPITER STREET  ",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "景星街9號地下",
+        "nameZH": "三星汽車有限公司",
+        "districtZH": "灣仔區",
+        "x": 836020.83431195,
+        "y": 815023.40572326,
+        "nameEN": "THREE STAR MOTOR COMPANY LIMITED",
+        "addressEN": "G/F, No. 9, King Ming Road",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "香港北角水星街2-9號耀星華庭地下2-9號舖",
+        "nameZH": "惠康超級市場-水星街",
+        "districtZH": "灣仔區",
+        "x": 837831.0,
+        "y": 816337.0,
+        "nameEN": "Wellcome Supermarket-Mercury Street",
+        "addressEN": "Shop 2-9, G/F Supernova Stand, 28 Mercury Street, North Point, H.K.",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "水星街   9-11號",
+        "nameZH": "鉅利大廈",
+        "districtZH": "灣仔區",
+        "x": 837859.0,
+        "y": 816321.0,
+        "nameEN": "Kui Lee Building",
+        "addressEN": "9-11 MERCURY STREET  ",
+        "districtEN": "Wan Chai District"
+      }
+    ]
+  },
+  "利園一期": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%88%A9%E5%9C%92%E4%B8%80%E6%9C%9F",
+    "candidates": [
+      {
+        "addressZH": "希慎道   33號",
+        "nameZH": "利園一期",
+        "districtZH": "灣仔區",
+        "x": 837064.0,
+        "y": 815509.0,
+        "nameEN": "Lee Garden One",
+        "addressEN": "33 HYSAN AVENUE  ",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "香港銅鑼灣希慎道33號",
+        "nameZH": "利園一期",
+        "districtZH": "灣仔區",
+        "x": 837064.81990281,
+        "y": 815506.44631139,
+        "nameEN": "Lee Garden Phase 1",
+        "addressEN": "33 Hysan Avenue, Causeway Bay, Hong Kong",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "香港 灣仔區 希慎道33號",
+        "nameZH": "利園一期停車場",
+        "districtZH": "灣仔區",
+        "x": 837069.368,
+        "y": 815520.738,
+        "nameEN": "LEE GARDEN ONE CAR PARK",
+        "addressEN": "33 HYSAN AVENUE, Wan Chai District, Hong Kong",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "香港 灣仔區 希慎道33號",
+        "nameZH": "利園一期停車場",
+        "districtZH": "灣仔區",
+        "x": 837069.0,
+        "y": 815521.0,
+        "nameEN": "LEE GARDEN ONE CAR PARK",
+        "addressEN": "33 HYSAN AVENUE, Wan Chai District, Hong Kong",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "香港銅鑼灣希慎道33號利園一期34樓3404室",
+        "nameZH": "安盛金融有限公司",
+        "districtZH": "灣仔區",
+        "x": 837114.01058165,
+        "y": 815505.99979325,
+        "nameEN": "AXA China Region Insurance Company Limited",
+        "addressEN": "Room 3404, 34/F, Lee Garden One, 33 Hysan Avenue, Causeway Bay, Hong Kong",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "銅鑼灣希慎道33號利園第1期",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 04379)",
+        "districtZH": "灣仔區",
+        "x": 837076.8,
+        "y": 815496.5,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 04379)",
+        "addressEN": "Unit Shop 305 & 306, Lee Gardens One, 33 Hysan Avenue",
+        "districtEN": "Wan Chai District"
+      }
+    ]
+  },
+  "H QUEEN'S": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=H+QUEEN%27S",
+    "candidates": [
+      {
+        "addressZH": "皇后大道中   80號",
+        "nameZH": "H Queen's",
+        "districtZH": "中西區",
+        "x": 834041.0,
+        "y": 816019.0,
+        "nameEN": "H Queen's",
+        "addressEN": "80 QUEEN'S ROAD CENTRAL  ",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "彌敦道20號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%BD%8C%E6%95%A6%E9%81%9320%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "彌敦道   20號",
+        "nameZH": "香港喜來登酒店",
+        "districtZH": "油尖旺區",
+        "x": 835841.0,
+        "y": 817371.0,
+        "nameEN": "Sheraton Hong Kong Hotel & Towers",
+        "addressEN": "20 NATHAN ROAD  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍彌敦道625及639號雅蘭中心地下G20-22號舖萬寧",
+        "nameZH": "九龍彌敦道625及639號雅蘭中心",
+        "districtZH": "油尖旺區",
+        "x": 835494.51435199,
+        "y": 819901.73641072,
+        "nameEN": "Grand Plaza, 625 & 639 Nathan Road, Kowloon",
+        "addressEN": "Mannings Shop G20-22, G/F, Grand Plaza, 625 & 639 Nathan Road, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "彌敦道   19-21號",
+        "nameZH": "九龍酒店",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "The Kowloon Hotel",
+        "addressEN": "19-21 NATHAN ROAD  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍油麻地彌敦道 385 號平安大樓一樓",
+        "nameZH": "銀杏館 (油麻地店．越老)",
+        "districtZH": "油尖旺區",
+        "x": 835673.28469898,
+        "y": 818851.52736245,
+        "nameEN": "Viet Street (Yau Ma Tei)",
+        "addressEN": "Shop 20, 1/F, Alhambra Building, 385 Nathan Road, Yau Ma Tei, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道88號 安樂大廈6字樓B室",
+        "nameZH": "ATLAS 2.0",
+        "districtZH": "油尖旺區",
+        "x": 835801.16744486,
+        "y": 817785.43982538,
+        "nameEN": "ATLAS 2.0",
+        "addressEN": "Flat B, 6/F, Comfort Building, 88 Nathan Road, Tsim Sha Tsui, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍油尖旺區彌敦道19-21號九龍酒店商場1樓01-100單位",
+        "nameZH": "九龍半島醫學中心",
+        "districtZH": "油尖旺區",
+        "x": 835752.73062408,
+        "y": 817441.6478318,
+        "nameEN": "KPM Healthcare Centre",
+        "addressEN": "UNIT 01-100, 1/F, THE KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN ROAD, YAU TSIM MONG DISTRICT, KOWLOON",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835716.72840059,
+        "y": 817425.64834458,
+        "nameEN": "KPM HEALTH CENTRE",
+        "addressEN": "1/F, KOWLOON HOTEL, 19-21 NATHAN RD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, KOWLOON HOTEL, 19-21 NATHAN RD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, KOWLOON HOTEL, 19-21 NATHAN RD, TSIM SHA TSUI, , KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835720.31138628,
+        "y": 817425.05118031,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, KOWLOON HOTEL, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓",
+        "nameZH": "九龍半島醫學中心",
+        "districtZH": "油尖旺區",
+        "x": 835738.22631479,
+        "y": 817425.05118029,
+        "nameEN": "KPM HEALTH CENTRE",
+        "addressEN": "1/F, THE KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835719.714222,
+        "y": 817428.03700173,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN RD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, THE KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓",
+        "nameZH": "九龍半島醫學中心",
+        "districtZH": "油尖旺區",
+        "x": 835743.60079335,
+        "y": 817425.64834458,
+        "nameEN": "KPM HEALTHCARE CENTRE",
+        "addressEN": "1/F, THE KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓全層",
+        "nameZH": "九龍半島醫學中心",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "KPM",
+        "addressEN": "1/F, THE KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓全層",
+        "nameZH": "九龍半島醫學中心",
+        "districtZH": "油尖旺區",
+        "x": 835715.61134287,
+        "y": 817424.68723928,
+        "nameEN": "KPM HEALTH CENTRE",
+        "addressEN": "1/F, THE KOWLOON HOTEL, SHOPPING ARCADE, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店商場1樓全層",
+        "nameZH": "九龍半島醫學有限公司",
+        "districtZH": "油尖旺區",
+        "x": 835713.74257917,
+        "y": 817425.64834458,
+        "nameEN": "KPM HEALTH LIMITED",
+        "addressEN": "1/F, KOWLOON HOTEL SHOPPING ARCADE, 19-21 NATHAN RD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道19-21號九龍酒店B2層05號舖",
+        "nameZH": "健匯醫療中心",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "POLYHEALTH MEDICAL CENTRE",
+        "addressEN": "SHOP 05, THE SECOND BASEMENT, KOWLOON HOTEL, 19-21 NATHAN ROAD, TSIM SHA TSUI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道100號The ONE 20層",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05467)",
+        "districtZH": "油尖旺區",
+        "x": 835832.57128464,
+        "y": 817877.41284271,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05467)",
+        "addressEN": "20/F, The One, 100 Nathan Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道19-21號九龍酒店",
+        "nameZH": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 00855)",
+        "districtZH": "油尖旺區",
+        "x": 835718.0,
+        "y": 817422.0,
+        "nameEN": "Registered WiFi Access Points: HGC Global Communications Limited (APID 00855)",
+        "addressEN": "Unit Window Café, 2/F, The Kowloon Hotel, 19-21 Nathan Road",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍彌敦道636號招商永隆銀行中心地下20號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 蘇寧",
+        "districtZH": "油尖旺區",
+        "x": 835539.1,
+        "y": 819915.6,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: SUNING",
+        "addressEN": "Shop 20, G/F, Bank Centre Mall, 636 Nathan Road, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道100號The ONE17-21層食肆",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08304)",
+        "districtZH": "油尖旺區",
+        "x": 835825.1,
+        "y": 817883.6,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08304)",
+        "addressEN": "L17-L21/F, Fine Dinning, The One",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道19-21號九龍酒店商場G01-02號舖",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05519)",
+        "districtZH": "油尖旺區",
+        "x": 835741.5,
+        "y": 817424.2,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05519)",
+        "addressEN": "Unit Shop G01-02, Kowloon Hotel Shopping Arcade, 19-21 Nathan Rd, TST",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道132號美麗華商場G20-21,G26及G30號店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03230)",
+        "districtZH": "油尖旺區",
+        "x": 835785.0,
+        "y": 817970.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03230)",
+        "addressEN": "Unit Shop G20-21,G26&G30, Miramar Shopping Centre, 132 Nathan Rd",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道132號美麗華商場地下G31-2號店",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05531)",
+        "districtZH": "油尖旺區",
+        "x": 835785.0,
+        "y": 817970.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05531)",
+        "addressEN": "Unit Shop G31-2, G/F, Miramar Shopping Centre, 1-23 Kimberley Rd, Tsim Sha Tsui",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀彌敦道 36-44 號 CKE 重慶站 購物商場二樓 2-383, 2-385-7, 2-396-397 號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 屈臣氏",
+        "districtZH": "油尖旺區",
+        "x": 835809.3,
+        "y": 817508.4,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Watsons",
+        "addressEN": "Shop 2-383, 2-385-7, 2-396-397, 2/F of Chungking Mansion, Nos. 36-44 Nathan Road, KL",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "M+": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=M%2B",
+    "candidates": [
+      {
+        "addressZH": "九龍油麻地香港西九龍站",
+        "nameZH": "香港西九龍站-M進出口",
+        "districtZH": "油尖旺區",
+        "x": 834968.0,
+        "y": 818278.0,
+        "nameEN": "Hong Kong West Kowloon Station-M Access",
+        "addressEN": "Hong Kong West Kowloon Station, Yau Ma Tei, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍油麻地彌敦道385號平安大樓6字樓11室",
+        "nameZH": "B. A. & M.",
+        "districtZH": "油尖旺區",
+        "x": 835653.8,
+        "y": 818855.3,
+        "nameEN": "B. A. & M.",
+        "addressEN": "Flat 11, 6/F, Alhambra Building, 385 Nathan Road, Yau Ma Tei, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍佐敦庇利金街14-20號富利商業大廈3樓A室",
+        "nameZH": "MY PLACE",
+        "districtZH": "油尖旺區",
+        "x": 835688.21380605,
+        "y": 818318.40894838,
+        "nameEN": "MY PLACE",
+        "addressEN": "Flat A, 3/F, Fu Lee Commercial Building, 14 – 20 Pilkem Street, Jordan, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "新界馬灣",
+        "nameZH": "馬灣窰",
+        "districtZH": "荃灣區",
+        "x": 824042.0,
+        "y": 823233.0,
+        "nameEN": "Ma Wan Kiln",
+        "addressEN": "Ma Wan, New Territories",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "元朗落馬洲落馬洲路100號",
+        "nameZH": "落馬洲分區警署",
+        "districtZH": "元朗區",
+        "x": 826328.0,
+        "y": 841336.0,
+        "nameEN": "Lok Ma Chau Division",
+        "addressEN": "100 Lok Ma Chau Road, Lok Ma Chau, Yuen Long",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "落馬洲站",
+        "nameZH": "落馬洲站",
+        "districtZH": "元朗區",
+        "x": 824821.9751287,
+        "y": 841711.9719886,
+        "nameEN": "Lok Ma Chau Station",
+        "addressEN": "Lok Ma Chau Station",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "落馬洲站",
+        "nameZH": "落馬洲站",
+        "districtZH": "元朗區",
+        "x": 824824.11893111,
+        "y": 841689.37993171,
+        "nameEN": "Lok Ma Chau Station",
+        "addressEN": "Lok Ma Chau Station",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "落馬洲站",
+        "nameZH": "落馬洲站",
+        "districtZH": "元朗區",
+        "x": 824824.11893111,
+        "y": 841689.37993171,
+        "nameEN": "Lok Ma Chau Station",
+        "addressEN": "Lok Ma Chau Station",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "馬鞍山路200號",
+        "nameZH": "馬鞍山分區警署",
+        "districtZH": "沙田區",
+        "x": 842063.0,
+        "y": 831421.0,
+        "nameEN": "Ma On Shan Division",
+        "addressEN": "200 Ma On Shan Road, Sha Tin",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "沙田馬鞍山鞍駿街十二號",
+        "nameZH": "馬鞍山公園",
+        "districtZH": "沙田區",
+        "x": 841796.00362331,
+        "y": 831881.48681948,
+        "nameEN": "Ma On Shan Park",
+        "addressEN": "No. 12, On Chun Street, Ma On Shan, Sha Tin",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山海濱長廊位於馬鞍山沿海一帶(由錦泰苑至海典居)",
+        "nameZH": "馬鞍山海濱長廊",
+        "districtZH": "沙田區",
+        "x": 840664.13729209,
+        "y": 829799.28574807,
+        "nameEN": "Ma On Shan Promenade",
+        "addressEN": "Located along the coast of Ma On Shan(from Kam Tai Court to Villa Oceania)",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山海濱長廊位於馬鞍山沿海一帶(由錦泰苑至海典居)",
+        "nameZH": "馬鞍山海濱長廊",
+        "districtZH": "沙田區",
+        "x": 840994.35241288,
+        "y": 830784.9333468,
+        "nameEN": "Ma On Shan Promenade",
+        "addressEN": "Located along the coast of Ma On Shan(from Kam Tai Court to Villa Oceania)",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山海濱長廊位於馬鞍山沿海一帶(由錦泰苑至海典居)",
+        "nameZH": "馬鞍山海濱長廊",
+        "districtZH": "沙田區",
+        "x": 842132.62492813,
+        "y": 831954.69681201,
+        "nameEN": "Ma On Shan Promenade",
+        "addressEN": "Located along the coast of Ma On Shan(from Kam Tai Court to Villa Oceania)",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山站",
+        "nameZH": "馬鞍山站",
+        "districtZH": "沙田區",
+        "x": 841908.19800309,
+        "y": 831718.84165295,
+        "nameEN": "Ma On Shan Station",
+        "addressEN": "Ma On Shan Station",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山站",
+        "nameZH": "馬鞍山站",
+        "districtZH": "沙田區",
+        "x": 841904.88414166,
+        "y": 831719.38955831,
+        "nameEN": "Ma On Shan Station",
+        "addressEN": "Ma On Shan Station",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬灣島珀欣路36號",
+        "nameZH": "馬灣消防局",
+        "districtZH": "荃灣區",
+        "x": 824230.0,
+        "y": 823174.0,
+        "nameEN": "Ma Wan Fire Station ",
+        "addressEN": "36 Pak Yan Road, Ma Wan Island, New Territories",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "新界馬灣島珀欣路36號",
+        "nameZH": "馬灣消防局",
+        "districtZH": "荃灣區",
+        "x": 824228.71814397,
+        "y": 823176.47233768,
+        "nameEN": "Ma Wan Fire Station ",
+        "addressEN": "36 Pak Yan Road, Ma Wan Island, NT",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "新界馬灣",
+        "nameZH": "馬灣刻石",
+        "districtZH": "荃灣區",
+        "x": 823703.0,
+        "y": 823272.0,
+        "nameEN": "Ma Wan Rock Inscription",
+        "addressEN": "Ma Wan, New Territories",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "馬灣鄉事會路一號",
+        "nameZH": "馬灣鄉事委員會",
+        "districtZH": "荃灣區",
+        "x": 824105.7923964,
+        "y": 823565.59308142,
+        "nameEN": "Ma Wan Rural Committee",
+        "addressEN": "Ma Wan, 1 Ma Wan Rural Committee Road",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "油麻地廣東道603號",
+        "nameZH": "油麻地大樓",
+        "districtZH": "油尖旺區",
+        "x": 835408.32157313,
+        "y": 818821.17054885,
+        "nameEN": "Yau Ma Tei Depot",
+        "addressEN": "603 Canton Road, Yau Ma Tei",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "油麻地友翔道3號",
+        "nameZH": "油麻地分區警署",
+        "districtZH": "油尖旺區",
+        "x": 835121.0,
+        "y": 819021.0,
+        "nameEN": "Yau Ma Tei Division",
+        "addressEN": "3 Yau Cheung Road, Yau Ma Tei",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍油麻地甘肅街20號",
+        "nameZH": "油麻地街市",
+        "districtZH": "油尖旺區",
+        "x": 835484.37398927,
+        "y": 818830.05853639,
+        "nameEN": "YAU MA TEI MARKET",
+        "addressEN": "20 KANSU STREET, YAU MA TEI, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "油麻地站",
+        "nameZH": "油麻地站",
+        "districtZH": "油尖旺區",
+        "x": 835629.80697293,
+        "y": 819316.71960308,
+        "nameEN": "Yau Ma Tei Station",
+        "addressEN": "Yau Ma Tei Station",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "油麻地站",
+        "nameZH": "油麻地站",
+        "districtZH": "油尖旺區",
+        "x": 835629.97974499,
+        "y": 819317.88738701,
+        "nameEN": "Yau Ma Tei Station",
+        "addressEN": "Yau Ma Tei Station",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "油麻地站",
+        "nameZH": "油麻地站",
+        "districtZH": "油尖旺區",
+        "x": 835629.77242586,
+        "y": 819316.65091084,
+        "nameEN": "Yau Ma Tei Station",
+        "addressEN": "Yau Ma Tei Station",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "油麻地窩打老道6號",
+        "nameZH": "油麻地劇院",
+        "districtZH": "油尖旺區",
+        "x": 835477.3,
+        "y": 819291.0,
+        "nameEN": "Yau Ma Tei Theatre",
+        "addressEN": "6 Waterloo Road, Yau Ma Tei",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港新界沙田馬鞍山鞍祿街18號新港城中心二樓及三樓",
+        "nameZH": "千色-馬鞍山店",
+        "districtZH": "沙田區",
+        "x": 842012.0,
+        "y": 831694.0,
+        "nameEN": "Citistore-Ma On Shan Store",
+        "addressEN": "L2 & L3, MOSTown, 18 On Luk Street, Ma On Shan, NT",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬灣珀麗道8號",
+        "nameZH": "啟思幼稚園(馬灣) (K552747A)",
+        "districtZH": "荃灣區",
+        "x": 824342.24171105,
+        "y": 823791.41960646,
+        "nameEN": "Creative Kindergarten (Ma Wan) (K552747A)",
+        "addressEN": "8 Pak Lai Road, Ma Wan, New Territories",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "九龍油麻地石壁道1A地下",
+        "nameZH": "油麻地家品店",
+        "districtZH": "油尖旺區",
+        "x": 835728.37310413,
+        "y": 819059.19124204,
+        "nameEN": "Family Stores (Yau Ma Tei)",
+        "addressEN": "G/F., 1A Cliff Road, Yaumatei, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "落馬洲邊境管制站",
+        "nameZH": "落馬洲管制站",
+        "districtZH": "元朗區",
+        "x": 825691.0,
+        "y": 841087.0,
+        "nameEN": "Lok Ma Chau Control Point",
+        "addressEN": "Lok Ma Chau Border Crossing Point",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "禁區",
+        "nameZH": "落馬洲行動基地",
+        "districtZH": "元朗區",
+        "x": 827265.21264112,
+        "y": 842448.7475461,
+        "nameEN": "Lok Ma Chau Operational Base",
+        "addressEN": "Close Area",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "沙田馬鞍山鞍山里1號",
+        "nameZH": "馬鞍山救護站",
+        "districtZH": "沙田區",
+        "x": 842069.08846209,
+        "y": 831138.90663485,
+        "nameEN": "Ma On Shan Ambulance Depot",
+        "addressEN": "1 On Shan Lane, Ma On Shan, NT",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬鞍山鞍山里1號",
+        "nameZH": "馬鞍山救護站",
+        "districtZH": "沙田區",
+        "x": 842059.0,
+        "y": 831138.0,
+        "nameEN": "Ma On Shan Ambulance Depot ",
+        "addressEN": "1 On Shan Lane, Ma On Shan, New Territories",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬鞍山鞍山里1號",
+        "nameZH": "馬鞍山消防局",
+        "districtZH": "沙田區",
+        "x": 842037.0,
+        "y": 831099.0,
+        "nameEN": "Ma On Shan Fire Station ",
+        "addressEN": "1 On Shan Lane, Ma On Shan, New Territories",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山鞍駿街14號",
+        "nameZH": "馬鞍山圖書館",
+        "districtZH": "沙田區",
+        "x": 841768.2,
+        "y": 831848.3,
+        "nameEN": "Ma On Shan Public Library",
+        "addressEN": "14 On Chun Street, Ma On Shan",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "沙田馬鞍山鞍駿街十四號",
+        "nameZH": "馬鞍山公共圖書館",
+        "districtZH": "沙田區",
+        "x": 841764.10621476,
+        "y": 831832.75152011,
+        "nameEN": "Ma On Shan Public Library",
+        "addressEN": "14 On Chun Street, Ma On Shan, Sha Tin",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬鞍山恆康街1號",
+        "nameZH": "馬鞍山遊樂場",
+        "districtZH": "沙田區",
+        "x": 841632.82140324,
+        "y": 831125.51121456,
+        "nameEN": "Ma On Shan Recreation Ground",
+        "addressEN": "1 Hang Hong Street, Ma On Shan, N.T.",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界西貢",
+        "nameZH": "馬鞍山特別地區",
+        "districtZH": "大埔區",
+        "x": 844267.0,
+        "y": 830215.0,
+        "nameEN": "MA ON SHAN SPECIAL AREA",
+        "addressEN": "Sai Kung, NT",
+        "districtEN": "Tai Po District"
+      },
+      {
+        "addressZH": "馬鞍山鞍駿街14號",
+        "nameZH": "馬鞍山體育館",
+        "districtZH": "沙田區",
+        "x": 841705.15697089,
+        "y": 831872.7103658,
+        "nameEN": "Ma On Shan Sports Centre",
+        "addressEN": "14 On Chun Street, Ma On Shan, N.T.",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "馬鞍山鞍駿街14號",
+        "nameZH": "馬鞍山體育館",
+        "districtZH": "沙田區",
+        "x": 841680.5422317,
+        "y": 831827.57449963,
+        "nameEN": "Ma On Shan Sports Centre",
+        "addressEN": "14 On Chun Street, Ma On Shan, N.T.",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬鞍山恆康街1號",
+        "nameZH": "馬鞍山運動場",
+        "districtZH": "沙田區",
+        "x": 841504.63403616,
+        "y": 831299.19003906,
+        "nameEN": "Ma On Shan Sports Ground",
+        "addressEN": "1 Hang Hong Street, Ma On Shan, N.T.",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "新界馬灣",
+        "nameZH": "馬灣古代稅關遺址",
+        "districtZH": "荃灣區",
+        "x": 823749.0,
+        "y": 823274.0,
+        "nameEN": "Ma Wan Old Customs Station",
+        "addressEN": "Ma Wan, New Territories",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "香港新界馬灣珀欣路33號",
+        "nameZH": "馬灣公園挪亞方舟",
+        "districtZH": "荃灣區",
+        "x": 824401.0,
+        "y": 823248.0,
+        "nameEN": "Ma Wan Park Noah's Ark",
+        "addressEN": "33 Pak Yan Road, Ma Wan, New Territories, Hong Kong",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "新界荃灣馬灣珀麗路",
+        "nameZH": "馬灣東灣泳灘",
+        "districtZH": "荃灣區",
+        "x": 824399.47671009,
+        "y": 823541.32448496,
+        "nameEN": "Ma Wan Tung Wan Beach",
+        "addressEN": "Pak Lai Road, Ma Wan, Tsuen Wan, New Territories",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "新界元朗落馬洲香港鐵路落馬洲站",
+        "nameZH": "港鐵落馬洲站",
+        "districtZH": "元朗區",
+        "x": 824829.0,
+        "y": 841649.0,
+        "nameEN": "MTR Lok Ma Chau Station",
+        "addressEN": "Mass Transit Railway Lok Ma Chau Station, Lok Ma Chau, Yuen Long, NT",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "新界馬鞍山香港鐵路馬鞍山站",
+        "nameZH": "港鐵馬鞍山站",
+        "districtZH": "沙田區",
+        "x": 841941.0,
+        "y": 831729.0,
+        "nameEN": "MTR Ma On Shan Station",
+        "addressEN": "Mass Transit Railway Ma On Shan Station, Ma On Shan, NT",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "九龍油麻地",
+        "nameZH": "港鐵油麻地站",
+        "districtZH": "油尖旺區",
+        "x": 835628.0,
+        "y": 819317.0,
+        "nameEN": "MTR Yau Ma Tei Station",
+        "addressEN": "Yau Ma Tei, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍油麻地彌敦道 385 號平安大樓一樓",
+        "nameZH": "銀杏館 (油麻地店．越老)",
+        "districtZH": "油尖旺區",
+        "x": 835673.28469898,
+        "y": 818851.52736245,
+        "nameEN": "Viet Street (Yau Ma Tei)",
+        "addressEN": "Shop 20, 1/F, Alhambra Building, 385 Nathan Road, Yau Ma Tei, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "新界馬鞍山恆錦街1號恆安商場4樓407號舖",
+        "nameZH": "和悅會(馬鞍山)",
+        "districtZH": "沙田區",
+        "x": 841528.92837166,
+        "y": 830823.32762655,
+        "nameEN": "Woopie Club (Ma On Shan)",
+        "addressEN": "Shop No. 407, Fourth Floor, Heng On Shopping Centre, Heng On Estate, Shatin, New Territories",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "九龍窩打老道44號",
+        "nameZH": "油麻地救護站",
+        "districtZH": "油尖旺區",
+        "x": 835714.38142133,
+        "y": 819328.12170942,
+        "nameEN": "Yau Ma Tei Ambulance Depot",
+        "addressEN": "44 Waterloo Road, Yau Ma Tei, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "港島香格里拉": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B8%AF%E5%B3%B6%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89",
+    "candidates": [
+      {
+        "addressZH": "香港金鐘道88號太古廣場",
+        "nameZH": "港島香格里拉",
+        "districtZH": "中西區",
+        "x": 834983.4,
+        "y": 815374.3,
+        "nameEN": "ISLAND SHANGRI-LA, HONG KONG",
+        "addressEN": "Pacific Place, 88 Queensway, Hong Kong.",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "太古廣場",
+        "nameZH": "港島香格里拉大酒店",
+        "districtZH": "中西區",
+        "x": 834975.0,
+        "y": 815348.0,
+        "nameEN": "Island Shangri-La Hotel",
+        "addressEN": "PACIFIC PLACE",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "渣打銀行大廈": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%A4%A7%E5%BB%88",
+    "candidates": [
+      {
+        "addressZH": "德輔道中   4-4A號",
+        "nameZH": "渣打銀行大廈",
+        "districtZH": "中西區",
+        "x": 834420.0,
+        "y": 815710.0,
+        "nameEN": "Standard Chartered Bank Building",
+        "addressEN": "4-4A DES VOEUX ROAD CENTRAL  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港仔大道   198-200號",
+        "nameZH": "香港仔渣打銀行大廈",
+        "districtZH": "南區",
+        "x": 834005.0,
+        "y": 812323.0,
+        "nameEN": "香港仔渣打銀行大廈",
+        "addressEN": "198-200 ABERDEEN MAIN ROAD  ",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "皇后大道西   102-106號",
+        "nameZH": "西營盤渣打銀行大廈",
+        "districtZH": "中西區",
+        "x": 833110.0,
+        "y": 816358.0,
+        "nameEN": "Chartered Bank Building",
+        "addressEN": "102-106 QUEEN'S ROAD WEST  ",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "寧遠街   10-20號",
+        "nameZH": "新蒲崗渣打銀行大廈",
+        "districtZH": "黃大仙區",
+        "x": 838167.0,
+        "y": 821671.0,
+        "nameEN": "The Standard Chartered Bank Building, San Po Kong",
+        "addressEN": "10-20 NING YUEN STREET  ",
+        "districtEN": "Wong Tai Sin District"
+      },
+      {
+        "addressZH": "新蒲崗寧遠街10-20號渣打銀行大廈地下E號舖",
+        "nameZH": "OK便利店-新蒲崗渣打銀行大廈",
+        "districtZH": "黃大仙區",
+        "x": 838175.0,
+        "y": 821678.0,
+        "nameEN": "Circle K-The Standard Chartered Bank Building, San Po Kong",
+        "addressEN": "Shop E, G/F., Chartered Bank Building, Nos. 10-20 Ning Yuen Street, San Po Kong, Kowloon",
+        "districtEN": "Wong Tai Sin District"
+      },
+      {
+        "addressZH": "香港香港仔大道198-200號渣打銀行大廈4樓A室",
+        "nameZH": "香港仔坊會南區改善家居及社區照顧服務",
+        "districtZH": "南區",
+        "x": 834009.73064662,
+        "y": 812330.97187678,
+        "nameEN": "Aberdeen Kai-fong Welfare Association",
+        "addressEN": "Flat A, 4/F, 198-200 Aberdeen Main Road, Aberdeen, Hong Kong",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "九龍新蒲崗新蒲崗渣打銀行大廈",
+        "nameZH": "上帝五旬節會-安提阿堂",
+        "districtZH": "黃大仙區",
+        "x": 838166.0,
+        "y": 821674.0,
+        "nameEN": "The Pentecostal Church of God - Antioch Church",
+        "addressEN": "The Standard Chartered Bank Building, San Po Kong, San Po Kong, KLN",
+        "districtEN": "Wong Tai Sin District"
+      },
+      {
+        "addressZH": "九龍新蒲崗新蒲崗渣打銀行大廈",
+        "nameZH": "中國基督教播道會新福堂",
+        "districtZH": "黃大仙區",
+        "x": 838167.0,
+        "y": 821671.0,
+        "nameEN": "Evangelical Free Church of China San Po Kong Church",
+        "addressEN": "The Standard Chartered Bank Building, San Po Kong, San Po Kong, KLN",
+        "districtEN": "Wong Tai Sin District"
+      },
+      {
+        "addressZH": "香港香港仔香港仔渣打銀行大廈",
+        "nameZH": "基督教香港信義會香港仔堂",
+        "districtZH": "南區",
+        "x": 834005.0,
+        "y": 812323.0,
+        "nameEN": "The Evangelical Lutheran Church of Hong Kong Aberdeen Lutheran Church",
+        "addressEN": "The Standard Chartered Bank Building, Aberdeen, Aberdeen, HK",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "皇后大道中渣打銀行大廈對面",
+        "nameZH": "編號59郵箱",
+        "districtZH": "中西區",
+        "x": 834413.8,
+        "y": 815675.8,
+        "nameEN": "Street Posting Box No. 59",
+        "addressEN": "Opposite Standard Chartered Bank Building, Queen's Road Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "新蒲崗寧遠街10-20號渣打銀行大廈地下E舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: OK便利店",
+        "districtZH": "黃大仙區",
+        "x": 838174.42420929,
+        "y": 821677.44462935,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Circle K",
+        "addressEN": "ShopE, G/F., Chartered Bank Building, Nos.10-20 Ning Yuen Street, San Po Kong, Kowloon",
+        "districtEN": "Wong Tai Sin District"
+      },
+      {
+        "addressZH": "香港中環德輔道中4-4A號渣打銀行大廈地下G1號舖及1樓",
+        "nameZH": "Wi-Fi.HK 熱點位置: 渣打銀行",
+        "districtZH": "中西區",
+        "x": 834433.8,
+        "y": 815727.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Standard Chartered Bank",
+        "addressEN": "Shop G1, G/F & 1/F, Standard Chartered Bank Building, 4-4A Des Voeux Road Central, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "香港君悅酒店": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A6%99%E6%B8%AF%E5%90%9B%E6%82%85%E9%85%92%E5%BA%97",
+    "candidates": [
+      {
+        "addressZH": "",
+        "nameZH": "君悅酒店",
+        "districtZH": "灣仔區",
+        "x": 835784.0,
+        "y": 815838.0,
+        "nameEN": "Grand Hyatt Hotel",
+        "addressEN": "",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "九龍佐敦彌敦道242號 立信大廈3字樓A室",
+        "nameZH": "香港佐敦賓館",
+        "districtZH": "油尖旺區",
+        "x": 835760.73937913,
+        "y": 818462.38526076,
+        "nameEN": "香港佐敦賓館",
+        "addressEN": "Flat A, 3/F, National Court, 242 Nathan Road, Jordan, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍佐敦彌敦道242號立信大廈3字樓H室",
+        "nameZH": "香港佐敦賓館H",
+        "districtZH": "油尖旺區",
+        "x": 835759.4,
+        "y": 818469.3,
+        "nameEN": "香港佐敦賓館H",
+        "addressEN": "Flat H, 3/F, National Court, 242 Nathan Road, Jordan, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "新界葵芳興芳路223號新都會廣場1座45樓4511B-4515室",
+        "nameZH": "香港小童群益會 安兒牽 - 保護兒童支援服務",
+        "districtZH": "葵青區",
+        "x": 831095.87219556,
+        "y": 824311.25086236,
+        "nameEN": "The Boys' & Girls' Clubs Association of Hong Kong CARE Link - Child Protection Support Service Support Service 香港小童群益會",
+        "addressEN": "Room 4511B-4515, 45/F, Metroplaza Tower 1, 223 Hing Fong Road, Kwai Fong, New Territories",
+        "districtEN": "Kwai Tsing District"
+      },
+      {
+        "addressZH": "九龍尖沙咀彌敦道58號美麗都大廈14字樓E座E1室",
+        "nameZH": "香港中華鼎美精品賓館",
+        "districtZH": "油尖旺區",
+        "x": 835822.2,
+        "y": 817606.7,
+        "nameEN": "香港中華鼎美精品賓館",
+        "addressEN": "Flat E1,14/F, Block E,Mirador Mansion, 58 Nathan Road, Tsim Sha Tsui, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港",
+        "districtZH": "中西區",
+        "x": 834346.0,
+        "y": 816198.0,
+        "nameEN": "Hong Kong",
+        "addressEN": "",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "13 Pokfulam Village, H.K. 87 Pokfulam Village, H.K.",
+        "nameZH": "香港明愛 薄扶林社區發展計劃",
+        "districtZH": "南區",
+        "x": 832210.62760123,
+        "y": 813453.61011304,
+        "nameEN": "Caritas-Hong Kong Pokfulam Community Development Project",
+        "addressEN": "香港薄扶林村 13 號 香港薄扶林村 87 號",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港仔",
+        "districtZH": "南區",
+        "x": 834022.6,
+        "y": 812515.359,
+        "nameEN": "Aberdeen",
+        "addressEN": "",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港島",
+        "districtZH": "灣仔區",
+        "x": 838320.0,
+        "y": 813550.0,
+        "nameEN": "Hong Kong Island",
+        "addressEN": "",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "香港站",
+        "nameZH": "香港站",
+        "districtZH": "中西區",
+        "x": 834341.3929947,
+        "y": 816199.38464767,
+        "nameEN": "Hong Kong Station",
+        "addressEN": "Hong Kong Station",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港站",
+        "nameZH": "香港站",
+        "districtZH": "中西區",
+        "x": 834340.84009834,
+        "y": 816198.83505829,
+        "nameEN": "Hong Kong Station",
+        "addressEN": "Hong Kong Station",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港站",
+        "nameZH": "香港站",
+        "districtZH": "中西區",
+        "x": 834341.53120259,
+        "y": 816199.38463061,
+        "nameEN": "Hong Kong Station",
+        "addressEN": "Hong Kong Station",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港站",
+        "nameZH": "香港站",
+        "districtZH": "中西區",
+        "x": 834341.39297773,
+        "y": 816199.24723326,
+        "nameEN": "Hong Kong Station",
+        "addressEN": "Hong Kong Station",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港站",
+        "nameZH": "香港站",
+        "districtZH": "中西區",
+        "x": 834343.27513962,
+        "y": 816199.02087847,
+        "nameEN": "Hong Kong Station",
+        "addressEN": "Hong Kong Station",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港大學",
+        "districtZH": "中西區",
+        "x": 832167.0,
+        "y": 816011.0,
+        "nameEN": "The University of Hong Kong",
+        "addressEN": "",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港大學",
+        "districtZH": "中西區",
+        "x": 832010.0,
+        "y": 816130.0,
+        "nameEN": "HKU",
+        "addressEN": "",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港中文大學",
+        "districtZH": "沙田區",
+        "x": 838899.0,
+        "y": 831401.0,
+        "nameEN": "THE CHINESE UNIVERSITY OF HONG KONG",
+        "addressEN": "",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港科技大學",
+        "districtZH": "西貢區",
+        "x": 845361.0,
+        "y": 821900.0,
+        "nameEN": "THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "addressEN": "",
+        "districtEN": "Sai Kung District"
+      },
+      {
+        "addressZH": "香港中環昃臣道1號香港會所大廈",
+        "nameZH": "香港會",
+        "districtZH": "中西區",
+        "x": 834636.0,
+        "y": 815849.8,
+        "nameEN": "THE HONG KONG CLUB",
+        "addressEN": "The Hong Kong Club Building,1 Jackson Road, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港墳場",
+        "districtZH": "灣仔區",
+        "x": 836528.0,
+        "y": 814662.0,
+        "nameEN": "HONG KONG CEMETERY",
+        "addressEN": "",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港槍會",
+        "districtZH": "荃灣區",
+        "x": 828535.0,
+        "y": 827994.0,
+        "nameEN": "HONG KONG GUN CLUB",
+        "addressEN": "",
+        "districtEN": "Tsuen Wan District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港鐵倉",
+        "districtZH": "東區",
+        "x": 843090.0,
+        "y": 814990.0,
+        "nameEN": "HONG KONG SCRAP YARD",
+        "addressEN": "",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港香港仔香港仔大道203號 香港仔市政大廈",
+        "nameZH": "香港仔街市",
+        "districtZH": "南區",
+        "x": 833959.22464405,
+        "y": 812284.3049828,
+        "nameEN": "ABERDEEN MARKET",
+        "addressEN": "ABERDEEN MUNICIPAL SERVICES BUILDING, 203 ABERDEEN MAIN ROAD, ABERDEEN, HK",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港仔香港仔大道203號香港仔街市1樓",
+        "nameZH": "綠在香港仔",
+        "districtZH": "南區",
+        "x": 833961.6,
+        "y": 812276.2,
+        "nameEN": "GREEN@ABERDEEN",
+        "addressEN": "1/F, Aberdeen Market, 203 Aberdeen Main Road, Aberdeen",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港仔香港仔大道203號 香港仔市政大廈",
+        "nameZH": "香港仔街市 ",
+        "districtZH": "南區",
+        "x": 833962.5,
+        "y": 812311.8,
+        "nameEN": "Aberdeen Market",
+        "addressEN": "ABERDEEN MUNICIPAL SERVICES BUILDING, 203 ABERDEEN MAIN ROAD, ABERDEEN",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港香港仔田灣街20號6樓",
+        "nameZH": "香港明愛明愛香港仔社區中心",
+        "districtZH": "南區",
+        "x": 833436.30729307,
+        "y": 812328.8511851,
+        "nameEN": "Caritas – Hong Kong Caritas Community Centre – Aberdeen",
+        "addressEN": "2/F, 20 Tin Wan Street, Aberdeen, Hong Kong",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港中環紅棉路19號",
+        "nameZH": "香港公園",
+        "districtZH": "中西區",
+        "x": 834749.10895683,
+        "y": 815380.31953838,
+        "nameEN": "Hong Kong Park",
+        "addressEN": "19 Cotton Tree Drive, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環紅棉路19號",
+        "nameZH": "香港公園",
+        "districtZH": "中西區",
+        "x": 834648.37585592,
+        "y": 815415.48593863,
+        "nameEN": "Hong Kong Park",
+        "addressEN": "19 Cotton Tree Drive, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港神託會",
+        "nameZH": "香港神託會",
+        "districtZH": "觀塘區",
+        "x": 840992.0,
+        "y": 819956.0,
+        "nameEN": "Stewards",
+        "addressEN": "Stewards",
+        "districtEN": "Kwun Tong District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港仔中心",
+        "districtZH": "南區",
+        "x": 833925.0,
+        "y": 812194.0,
+        "nameEN": "ABERDEEN CENTRE",
+        "addressEN": "",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港仔海峽",
+        "districtZH": "南區",
+        "x": 834800.0,
+        "y": 811100.0,
+        "nameEN": "Aberdeen Channel",
+        "addressEN": "",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港仔隧道",
+        "districtZH": "南區",
+        "x": 836010.57484,
+        "y": 812348.5133,
+        "nameEN": "ABERDEEN TUNNEL",
+        "addressEN": "",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港禮賓府",
+        "districtZH": "中西區",
+        "x": 834253.0,
+        "y": 815561.0,
+        "nameEN": "GOVERNMENT HOUSE",
+        "addressEN": "",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港仔大道",
+        "districtZH": "南區",
+        "x": 834055.27048,
+        "y": 812300.59475,
+        "nameEN": "ABERDEEN MAIN ROAD",
+        "addressEN": "",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港狗公園",
+        "districtZH": "元朗區",
+        "x": 828866.423,
+        "y": 835834.268,
+        "nameEN": "Hong Kong K-9 Club",
+        "addressEN": "",
+        "districtEN": "Yuen Long District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港摩天輪",
+        "districtZH": "中西區",
+        "x": 834710.0,
+        "y": 816271.0,
+        "nameEN": "Hong Kong Observation Wheel",
+        "addressEN": "",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港科學園",
+        "districtZH": "沙田區",
+        "x": 839983.0,
+        "y": 831692.0,
+        "nameEN": "HONG KONG SCIENCE PARK",
+        "addressEN": "",
+        "districtEN": "Sha Tin District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港太空館",
+        "districtZH": "油尖旺區",
+        "x": 835752.0,
+        "y": 817258.0,
+        "nameEN": "Hong Kong Space Museum",
+        "addressEN": "",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港觀宗寺",
+        "districtZH": "北區",
+        "x": 832157.0,
+        "y": 839161.0,
+        "nameEN": "Hong Kong Kun Chung Temple",
+        "addressEN": "",
+        "districtEN": "North District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港藝術館",
+        "districtZH": "油尖旺區",
+        "x": 835763.0,
+        "y": 817172.0,
+        "nameEN": "Hong Kong Museum Of Art",
+        "addressEN": "",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港聖公廟",
+        "districtZH": "屯門區",
+        "x": 814880.0,
+        "y": 830464.0,
+        "nameEN": "Hong Kong Sheng Kung Temple",
+        "addressEN": "",
+        "districtEN": "Tuen Mun District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港遊艇會",
+        "districtZH": "灣仔區",
+        "x": 836836.0,
+        "y": 816119.0,
+        "nameEN": "ROYAL HONG KONG YACHT CLUB",
+        "addressEN": "",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港木球會",
+        "districtZH": "灣仔區",
+        "x": 837970.0,
+        "y": 813310.0,
+        "nameEN": "The Hong Kong Cricket Club",
+        "addressEN": "",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港賽馬會",
+        "districtZH": "中西區",
+        "x": 834521.0,
+        "y": 815961.0,
+        "nameEN": "The HongKong Jockey Club",
+        "addressEN": "",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港賽馬會",
+        "districtZH": "灣仔區",
+        "x": 836620.0,
+        "y": 814832.0,
+        "nameEN": "The Hong Kong Jockey Club",
+        "addressEN": "",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "",
+        "nameZH": "香港盆栽會",
+        "districtZH": "北區",
+        "x": 829554.0,
+        "y": 839833.0,
+        "nameEN": "HONG KONG ARTISTIC POT PLANTS ASSOCIATION LTD",
+        "addressEN": "",
+        "districtEN": "North District"
+      },
+      {
+        "addressZH": "香港堅道二號明愛大廈1樓135室",
+        "nameZH": "香港明愛",
+        "districtZH": "中西區",
+        "x": 833935.68592511,
+        "y": 815557.71846587,
+        "nameEN": "Caritas - Hong Kong",
+        "addressEN": "Room 135, 1/F, Caritas House, 2 Caine Road, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環紅棉路19號",
+        "nameZH": "香港氣象站網絡: 香港公園",
+        "districtZH": "中西區",
+        "x": 834736.80066793,
+        "y": 815494.50708929,
+        "nameEN": "Network of Weather Station in Hong Kong: Hong Kong Park",
+        "addressEN": "19 Cotton Tree Drive, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港黃竹坑香港仔隧道行政大樓",
+        "nameZH": "香港仔隧道",
+        "districtZH": "南區",
+        "x": 836527.05443611,
+        "y": 812740.01454584,
+        "nameEN": "Aberdeen Tunnel",
+        "addressEN": "The Administration Building, Aberdeen Tunnel, Wong Chuk Hang, Hong Kong",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港香港仔大道203號香港仔巿政大廈6樓",
+        "nameZH": "香港仔體育館",
+        "districtZH": "南區",
+        "x": 833958.15846006,
+        "y": 812254.17449053,
+        "nameEN": "Aberdeen Sports Centre",
+        "addressEN": "6th Floor, Aberdeen Municipal Services Building, No. 203 Aberdeen Main Road, Aberdeen, Hong Kong",
+        "districtEN": "Southern District"
+      }
+    ]
+  },
+  "太古城中心": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%AD%E5%BF%83",
+    "candidates": [
+      {
+        "addressZH": "英皇道   1111號",
+        "nameZH": "太古城中心",
+        "districtZH": "東區",
+        "x": 840383.0,
+        "y": 816336.0,
+        "nameEN": "Cityplaza",
+        "addressEN": "1111 KING'S ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "英皇道   1111號",
+        "nameZH": "太古城中心",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Cityplaza",
+        "addressEN": "1111 KING'S ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "英皇道   1111號",
+        "nameZH": "太古城中心一座",
+        "districtZH": "東區",
+        "x": 840489.0,
+        "y": 816313.0,
+        "nameEN": "Cityplaza One",
+        "addressEN": "1111 KING'S ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號太古城中心",
+        "nameZH": "太古城中心停車場",
+        "districtZH": "東區",
+        "x": 840438.76,
+        "y": 816424.088,
+        "nameEN": "Cityplaza Carpark",
+        "addressEN": "Cityplaza, 18 Taikoo Shing Road, Tai Koo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號太古城中心",
+        "nameZH": "太古城中心停車場",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816424.0,
+        "nameEN": "Cityplaza Carpark",
+        "addressEN": "Cityplaza, 18 Taikoo Shing Road, Tai Koo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古灣道   14號",
+        "nameZH": "太古城中心三座 (前稱)",
+        "districtZH": "東區",
+        "x": 840396.0,
+        "y": 816526.0,
+        "nameEN": "Cityplaza Three (Previous Name)",
+        "addressEN": "14 TAIKOO WAN ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古灣道   12號",
+        "nameZH": "太古城中心四座 (前稱)",
+        "districtZH": "東區",
+        "x": 840487.0,
+        "y": 816529.0,
+        "nameEN": "Cityplaza Four (Previous Name)",
+        "addressEN": "12 TAIKOO WAN ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城道太古城中心二期外",
+        "nameZH": "的士站",
+        "districtZH": "東區",
+        "x": 840448.0,
+        "y": 816358.30000019,
+        "nameEN": "Taxi Stands",
+        "addressEN": "Tai Koo Shing Road (outside City Plaza II)",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號",
+        "nameZH": "Wi-Fi.HK 熱點位置: 太古城中心",
+        "districtZH": "東區",
+        "x": 840433.1,
+        "y": 816435.5,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Cityplaza",
+        "addressEN": "18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "港鐵太古站TAK15號舖(近太古城中心)",
+        "nameZH": "7-11便利店-太古城",
+        "districtZH": "東區",
+        "x": 840334.0,
+        "y": 816196.0,
+        "nameEN": "7-Eleven-Tai Koo Shing",
+        "addressEN": "Kiosk No. TAK 15 at Unpaid Concourse of MTR Tai Koo Station",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港鰂魚涌太古城道18號太古城中心5樓",
+        "nameZH": "MOViE MOViE Cityplaza",
+        "districtZH": "東區",
+        "x": 840434.0265028,
+        "y": 816323.87034547,
+        "nameEN": "MOViE MOViE Cityplaza",
+        "addressEN": "5/F Cityplaza, 18 Taikoo Shing Road, Tai Koo, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城太古城中心南商場四樓418號舖",
+        "nameZH": "回收機構及收集點： 豐澤",
+        "districtZH": "東區",
+        "x": 840452.0,
+        "y": 816322.0,
+        "nameEN": "Recycling Organisations and Collection Points: FORTRESS",
+        "addressEN": "Shop 418, 4/F, Cityplaza South, Cityplaza, Taikoo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城太古城道18號太古城中心五樓505號舖",
+        "nameZH": "回收機構及收集點： 麥當勞",
+        "districtZH": "東區",
+        "x": 840438.0,
+        "y": 816430.0,
+        "nameEN": "Recycling Organisations and Collection Points: McDonald's",
+        "addressEN": "Shop No. 505, Level 5, Cityplaza, 18 Tai Koo Shing Road, Tai Koo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城中心一期五樓戲院",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06255)",
+        "districtZH": "東區",
+        "x": 840489.0,
+        "y": 816313.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06255)",
+        "addressEN": "5/F, Cinema, Cityplaza One, 18 Taikoo Shing Rd, Taikoo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城中心南商場 4 樓418 號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 豐澤",
+        "districtZH": "東區",
+        "x": 840485.6,
+        "y": 816336.1,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: FORTRESS",
+        "addressEN": "Shop 418, 4/F, Cityplaza South, Taikooshing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂漁涌太古城中心1期2樓250號舗",
+        "nameZH": "Wi-Fi.HK 熱點位置: G2000",
+        "districtZH": "東區",
+        "x": 840444.3,
+        "y": 816424.6,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: G2000",
+        "addressEN": "Shop 250, 2/F, Cityplaza, Taikoo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心1樓",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03882)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03882)",
+        "addressEN": "1/F, Cityplaza, 18 Taikoo Shing Road",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古太古城道18號太古城中心2樓223號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 屈臣氏酒窖",
+        "districtZH": "東區",
+        "x": 840413.4,
+        "y": 816374.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Watson's Wine",
+        "addressEN": "Shop 223, 2/F, Cityplaza, Tai Koo",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心1樓74號店",
+        "nameZH": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01440)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01440)",
+        "addressEN": "Unit 144, 1/F, Cityplaza, 18 Taikoo Shing Road",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心2樓265號店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03880)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03880)",
+        "addressEN": "Unit Shop 265, 2/F, Phase II, Cityplaza, 18 Tai Koo Shing Rd",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心1樓122號店",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06250)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06250)",
+        "addressEN": "Unit Shop 122, 1/F, Block MIX, Cityplaza, Shau Ki Wan",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心二期2樓265號",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08602)",
+        "districtZH": "東區",
+        "x": 840368.6,
+        "y": 816425.3,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08602)",
+        "addressEN": "Unit No.265, 2/F, Phase II, Cityplaza, Quarry Bay",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心二期2樓265號",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08603)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08603)",
+        "addressEN": "Unit Shop No. 265, 2/F, Cityplaza 2, Phase II, Quarry Bay",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港鰂魚涌太古灣道14號太古城中心三座5樓501室",
+        "nameZH": "Wi-Fi.HK 熱點位置: 社會福利署",
+        "districtZH": "東區",
+        "x": 840382.4,
+        "y": 816545.3,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Social Welfare Department",
+        "addressEN": "Rm 501, 5/F, Cityplaza Three, 14 Taikoo Wan Road, Quarry Bay, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心地下74號店",
+        "nameZH": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01439)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01439)",
+        "addressEN": "Unit 74, G/F, Cityplaza, 18 Taikoo Shing Road",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城太古城道18號太古城中心2期B層",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03883)",
+        "districtZH": "東區",
+        "x": 840445.3,
+        "y": 816430.6,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03883)",
+        "addressEN": "B/F, Cityplaza2, 18 Taikoo Shing Rd",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城太古城中心一座5樓",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03888)",
+        "districtZH": "東區",
+        "x": 840489.0,
+        "y": 816313.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03888)",
+        "addressEN": "5/F, Cityplaza One, 18 Taikoo Shing Road",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城太古城中心一座6樓",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06253)",
+        "districtZH": "東區",
+        "x": 840489.0,
+        "y": 816313.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06253)",
+        "addressEN": "6/F, Block Public seating at office lobb, Cityplaza One, Shau Ki Wan",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心地下005-006號店",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08605)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08605)",
+        "addressEN": "005-006, G/F, Cityplaza, 18 Taikooshing Road",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心地下005-006號店",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03881)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03881)",
+        "addressEN": "Unit Shop 005-006, G/F, Cityplaza, 18 Taikooshing Road",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城中心1樓維他自動售賣機",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08604)",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816317.0,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08604)",
+        "addressEN": "1/F, Block Vita Vending Machine, Cityplaza, 18 Taikoo Shing Road, Taikoo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港港島太古城太古城道18號太古城中心一樓124號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 屈臣氏",
+        "districtZH": "東區",
+        "x": 840506.1,
+        "y": 816403.6,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Watsons",
+        "addressEN": "Shop No.124, First Floor, Cityplaza, 18 TaiKoo Shing Rd, Taikoo Shing, Island East, HK",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港港島東太古城道18號太古城中心地下058號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: PCCW-HKT/csl專門店",
+        "districtZH": "東區",
+        "x": 840444.3,
+        "y": 816435.7,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: PCCW-HKT / csl shop",
+        "addressEN": "Shop No 058 on G/F. Cityplaza. Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城太古城中心一座5樓502號店",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06254)",
+        "districtZH": "東區",
+        "x": 840489.0,
+        "y": 816313.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06254)",
+        "addressEN": "Unit Shop 502, Cityplaza One, Taikoo Shing, Shau Ki Wan",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌太古城道18號太古城中心1層124號舖屈臣氏",
+        "nameZH": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01442)",
+        "districtZH": "東區",
+        "x": 840446.0,
+        "y": 816419.8,
+        "nameEN": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01442)",
+        "addressEN": "Unit Shop 124, 1/F, Watsons The Chemist, Cityplaza 1, 18 Tai Koo Shing Road, Tai Koo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌英皇道1111號太古城太古城中心一座5樓503號店Haagen-Dazs",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 06252)",
+        "districtZH": "東區",
+        "x": 840489.0,
+        "y": 816313.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 06252)",
+        "addressEN": "Unit Shop 503, 5/F, Block Haagen-Dazs, Cityplaza One, Taikoo Shing, Shau Ki Wan",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道 18號太古城中心第2期地下44 號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 渣打銀行",
+        "districtZH": "東區",
+        "x": 840378.0,
+        "y": 816390.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Standard Chartered Bank",
+        "addressEN": "Shop 44, G/F, Cityplaza Phase II, 18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號太古城中心第2期地下42-43號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 渣打銀行",
+        "districtZH": "東區",
+        "x": 840378.0,
+        "y": 816390.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Standard Chartered Bank",
+        "addressEN": "Shops 42-43, G/F, Cityplaza Phase II, 18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      }
+    ]
+  },
+  "香港海洋公園萬豪酒店": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A6%99%E6%B8%AF%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97",
+    "candidates": [
+      {
+        "addressZH": "香港香港仔黃竹坑道180號 地庫(部份),地下低層(部份),地下(部份), 1-3字樓,5-6字樓及天台",
+        "nameZH": "香港海洋公園萬豪酒店",
+        "districtZH": "南區",
+        "x": 836144.85044428,
+        "y": 812097.44515681,
+        "nameEN": "HONG KONG OCEAN PARK MARRIOTT HOTEL",
+        "addressEN": "B/F (Portion), LG/F(Portion), G/F(Portion), 1F-3/F, 5/F-6/F, and R/F, 180 Wong Chuk Hang Road, Aberdeen, Hong Kong.",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "南區 黃竹坑道",
+        "nameZH": "香港海洋公園萬豪酒店",
+        "districtZH": "南區",
+        "x": 836164.105,
+        "y": 812107.65,
+        "nameEN": "The Hong Kong Ocean Park Marriott Hotel",
+        "addressEN": "WONG CHUK HANG ROAD, SOUTHERN",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "黃竹坑道   180號",
+        "nameZH": "香港海洋公園萬豪酒店 (別稱)",
+        "districtZH": "南區",
+        "x": 836158.0,
+        "y": 812092.0,
+        "nameEN": "HONG KONG OCEAN PARK MARRIOTT HOTEL (Other Name)",
+        "addressEN": "180 WONG CHUK HANG ROAD  ",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "南區 黃竹坑道",
+        "nameZH": "香港海洋公園萬豪酒店",
+        "districtZH": "南區",
+        "x": 836164.0,
+        "y": 812108.0,
+        "nameEN": "The Hong Kong Ocean Park Marriott Hotel",
+        "addressEN": "WONG CHUK HANG ROAD, SOUTHERN",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港香港仔黃竹坑道180號香港海洋公園萬豪酒店Club Wing 1字樓(部份)",
+        "nameZH": "萬豪貴賓廊",
+        "districtZH": "南區",
+        "x": 836144.64435659,
+        "y": 812092.52939738,
+        "nameEN": "M CLUB",
+        "addressEN": "1/F (Portion A), Club Wing, Hong Kong Ocean Park Marriott Hotel, 180 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港海洋公園萬豪酒店",
+        "nameZH": " (別稱)",
+        "districtZH": "南區",
+        "x": 836143.0,
+        "y": 812148.0,
+        "nameEN": "Hong Kong Ocean Park Marriott Hotel Tower 1 (Other Name)",
+        "addressEN": "HONG KONG OCEAN PARK MARRIOTT HOTEL",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港海洋公園萬豪酒店",
+        "nameZH": " (別稱)",
+        "districtZH": "南區",
+        "x": 836198.0,
+        "y": 812063.0,
+        "nameEN": "Hong Kong Ocean Park Marriott Hotel Tower 2 (Other Name)",
+        "addressEN": "HONG KONG OCEAN PARK MARRIOTT HOTEL",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港海洋公園萬豪酒店",
+        "nameZH": " (別稱)",
+        "districtZH": "南區",
+        "x": 836125.0,
+        "y": 812035.0,
+        "nameEN": "Hong Kong Ocean Park Marriott Hotel Tower 3 (Other Name)",
+        "addressEN": "HONG KONG OCEAN PARK MARRIOTT HOTEL",
+        "districtEN": "Southern District"
+      },
+      {
+        "addressZH": "香港香港仔黃竹坑道一百八十號",
+        "nameZH": "Wi-Fi.HK 熱點位置: 香港海洋公園萬豪酒店",
+        "districtZH": "南區",
+        "x": 836126.4,
+        "y": 812144.4,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Hong Kong Ocean Park Marriott Hotel",
+        "addressEN": "180 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+        "districtEN": "Southern District"
+      }
+    ]
+  },
+  "荷李活道56號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%9356%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "卑利街   38-44號|荷李活道   54-58號",
+        "nameZH": "中發大廈",
+        "districtZH": "中西區",
+        "x": 833793.0,
+        "y": 815983.0,
+        "nameEN": "Felicity Building",
+        "addressEN": "38-44 PEEL STREET|54-58 HOLLYWOOD ROAD",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "陸海通大廈": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%99%B8%E6%B5%B7%E9%80%9A%E5%A4%A7%E5%BB%88",
+    "candidates": [
+      {
+        "addressZH": "戲院里   1-7號|皇后大道中   31-31A號",
+        "nameZH": "陸海通大廈",
+        "districtZH": "中西區",
+        "x": 834183.0,
+        "y": 815918.0,
+        "nameEN": "LHT Tower",
+        "addressEN": "1-7 THEATRE LANE|31-31A QUEEN'S ROAD CENTRAL",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環皇后大道中31-31A號 陸海通大廈25樓",
+        "nameZH": "陸海通大廈25樓",
+        "districtZH": "中西區",
+        "x": 834183.02382373,
+        "y": 815918.05271581,
+        "nameEN": "25th Floor, Luk Hoi Tong Building, 31-31A Queen's Road Central, Central",
+        "addressEN": "25th Floor, Luk Hoi Tong Building, 31-31A Queen's Road Central, Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港中環皇后大道中31號陸海通大廈25樓",
+        "nameZH": "Oasis Management (Hong Kong)",
+        "districtZH": "中西區",
+        "x": 834183.02382373,
+        "y": 815918.05271581,
+        "nameEN": "Oasis Management (Hong Kong)",
+        "addressEN": "25/F, LHT Tower, 31 Queen's Road Central, Central, Hong Kong",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "士丹頓街4號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A3%AB%E4%B8%B9%E9%A0%93%E8%A1%974%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "士丹頓街   2-4號",
+        "nameZH": "",
+        "districtZH": "中西區",
+        "x": 833826.0,
+        "y": 815856.0,
+        "nameEN": "",
+        "addressEN": "2-4 STAUNTON STREET  ",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "環球貿易廣場": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%92%B0%E7%90%83%E8%B2%BF%E6%98%93%E5%BB%A3%E5%A0%B4",
+    "candidates": [
+      {
+        "addressZH": "",
+        "nameZH": "環球貿易廣場",
+        "districtZH": "油尖旺區",
+        "x": 834561.0,
+        "y": 818268.0,
+        "nameEN": "INTERNATIONAL COMMERCE CENTRE",
+        "addressEN": "",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "柯士甸道西1號",
+        "nameZH": "環球貿易廣場",
+        "districtZH": "油尖旺區",
+        "x": 834679.0,
+        "y": 818306.0,
+        "nameEN": "International Commerce Centre",
+        "addressEN": "1 Austin Rd W, Tsim Sha Tsui",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍柯士甸道西 1 號環球貿易廣場（ICC） 52 樓 5201–5206 室",
+        "nameZH": "瑞禾航空資本有限公司",
+        "districtZH": "油尖旺區",
+        "x": 834549.85589179,
+        "y": 818273.43785572,
+        "nameEN": "Clover Aviation Capital Company Limited",
+        "addressEN": "Suites 5201–5206, 52/F, International Commerce Centre (ICC), 1 Austin Road West, Kowloon, Hong Kong",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "柯士甸道西 1號，環球貿易廣場 L3 郵件派遞室",
+        "nameZH": "編號355郵箱",
+        "districtZH": "油尖旺區",
+        "x": 834552.0,
+        "y": 818259.0,
+        "nameEN": "Street Posting Box No. 355",
+        "addressEN": "International Commerce Centre Mail Room, L3, 1 Austin Rd West",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀柯士甸道西1號環球貿易廣場",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 02958)",
+        "districtZH": "油尖旺區",
+        "x": 834555.0,
+        "y": 818265.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 02958)",
+        "addressEN": "100/F, International Commerce Centre, 1 Austin Road West",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀柯士甸道西1號環球貿易廣場",
+        "nameZH": "已登記的WiFi 熱點: Sunevision Super E-Network Limited (APID 07697)",
+        "districtZH": "油尖旺區",
+        "x": 834555.0,
+        "y": 818265.0,
+        "nameEN": "Registered WiFi Access Points: Sunevision Super E-Network Limited (APID 07697)",
+        "addressEN": "L3, L8, L9/F, International Commerce Centre, 1 Austin Road West",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍柯士甸道西 1 號環球貿易廣場",
+        "nameZH": "Wi-Fi.HK 熱點位置: 1樓票務大堂",
+        "districtZH": "油尖旺區",
+        "x": 834549.9,
+        "y": 818273.4,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: 1/F Ticketing Counter",
+        "addressEN": "International Commerce Centre, 1 Austin Road West, Kowloon, Hong Kong",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍柯士甸道西 1 號環球貿易廣場",
+        "nameZH": "Wi-Fi.HK 熱點位置: 100樓觀景台",
+        "districtZH": "油尖旺區",
+        "x": 834570.5,
+        "y": 818272.3,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: 100/F Observation Deck",
+        "addressEN": "International Commerce Centre, 1 Austin Road West, Kowloon, Hong Kong",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "梳士巴利道18號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%A2%B3%E5%A3%AB%E5%B7%B4%E5%88%A9%E9%81%9318%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "梳士巴利道   18號",
+        "nameZH": "維港文化匯",
+        "districtZH": "油尖旺區",
+        "x": 836076.0,
+        "y": 817269.0,
+        "nameEN": "Victoria Dockside",
+        "addressEN": "18 SALISBURY ROAD  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "梳士巴利道   18號",
+        "nameZH": "香港麗晶酒店",
+        "districtZH": "油尖旺區",
+        "x": 835962.0,
+        "y": 817166.0,
+        "nameEN": "Regent Hong Kong",
+        "addressEN": "18 SALISBURY ROAD  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀梳士巴利道18號",
+        "nameZH": "K11 MUSEA",
+        "districtZH": "油尖旺區",
+        "x": 836037.0,
+        "y": 817276.0,
+        "nameEN": "K11 MUSEA",
+        "addressEN": "Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀梳士巴利道18號 Victoria DocksideK11 Musea 8字樓(部份)",
+        "nameZH": "GENTRY CLUB",
+        "districtZH": "油尖旺區",
+        "x": 836057.34438466,
+        "y": 817261.10907184,
+        "nameEN": "GENTRY CLUB",
+        "addressEN": "8/F(Portion), K11 Musea, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "梳士巴利道18號",
+        "nameZH": "K11 人文購物藝術館",
+        "districtZH": "油尖旺區",
+        "x": 836064.619,
+        "y": 817279.828,
+        "nameEN": "K11 MUSEA",
+        "addressEN": "18 SALISBURY RD",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀梳士巴利道18號Victoria Dockside 香港瑰麗酒店55字樓(部份)及56字樓(部份)",
+        "nameZH": "CARLYLE & CO.",
+        "districtZH": "油尖旺區",
+        "x": 836058.63480381,
+        "y": 817274.0940342,
+        "nameEN": "CARLYLE & CO.",
+        "addressEN": "55/F (Portion) and 56/F (Portion), ,Rosewood Hong Kong, Victoria Dockside, ,18 Salisbury Road, Tsim Sha Tsui, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "梳士巴利道   18號",
+        "nameZH": "麗晶酒店 (前稱)",
+        "districtZH": "油尖旺區",
+        "x": 835962.0,
+        "y": 817166.0,
+        "nameEN": "Regent Hotel (Previous Name)",
+        "addressEN": "18 SALISBURY ROAD",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "梳士巴利道   18號",
+        "nameZH": "香港洲際酒店 (前稱)",
+        "districtZH": "油尖旺區",
+        "x": 835962.0,
+        "y": 817166.0,
+        "nameEN": "Intercontinental Hong Kong (Previous Name)",
+        "addressEN": "18 SALISBURY ROAD",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "梳士巴利道18號",
+        "nameZH": "K11 人文購物藝術館",
+        "districtZH": "油尖旺區",
+        "x": 836065.0,
+        "y": 817280.0,
+        "nameEN": "K11 MUSEA",
+        "addressEN": "18 SALISBURY RD",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀梳士巴利道18號維港文化匯 K11 MUSEA B2 層B201-01A鋪",
+        "nameZH": "Market Place by Jasons-維港文化匯",
+        "districtZH": "油尖旺區",
+        "x": 836105.0,
+        "y": 817305.0,
+        "nameEN": "Market Place by Jasons-Victoria Dockside",
+        "addressEN": "Shop B201-01A on Level B2 of K11 MUSEA, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, HK.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀梳士巴利道18號 Victoria Dockside K11 MUSEA L4 樓層",
+        "nameZH": "K11 Art House",
+        "districtZH": "油尖旺區",
+        "x": 836043.93789313,
+        "y": 817264.55462826,
+        "nameEN": "K11 Art House",
+        "addressEN": "Level 4, K11 MUSEA, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀梳士巴利道18號 K11 Artus,Victoria Dockside,第四層地庫-第一層地庫(部份), 地下(部份), 1-8字樓(部份), 9-21字樓, 天台-天台頂層(部份)",
+        "nameZH": "K11 ARTUS",
+        "districtZH": "油尖旺區",
+        "x": 836071.49078585,
+        "y": 817269.10621901,
+        "nameEN": "K11 ARTUS",
+        "addressEN": "B4-B1/F(Portion), G/F(Portion), 1/F-8/F(Portion), 9/F-21/F, R/F-T/F, K11 Artus, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀梳士巴利道18號Victoria Dockside香港瑰麗酒店第四層地庫-21字樓(部份), 22字樓, 23字樓(部份),24-54字樓, 55字樓(部份), 56字樓, 57字樓(部份),58-65字樓, 天台, 天台第1層-天台第2層(部份)",
+        "nameZH": "香港瑰麗酒店",
+        "districtZH": "油尖旺區",
+        "x": 836111.21514811,
+        "y": 817279.52225535,
+        "nameEN": "ROSEWOOD HONG KONG",
+        "addressEN": "B4/F-21/F(Portion),22/F,23/F(Portion),24/F-54/F, 55/F(Portion),56/F,57/F(Portion),58/F-65/F,R/F, R1-R2/F(Portion),Rosewood Hong Kong,Victoria Dockside,18 Salisbury Road,Tsim Sha Tsui, Kowloon.",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "尖沙咀梳士巴利道18號 K11 MUSEA 3樓301A號舖",
+        "nameZH": "回收機構及收集點： Sony",
+        "districtZH": "油尖旺區",
+        "x": 836055.02196717,
+        "y": 817256.65085237,
+        "nameEN": "Recycling Organisations and Collection Points: Sony",
+        "addressEN": "Shop No. 301A, Level 3, K11 MUSEA, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "威靈頓街198號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97198%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "威靈頓街   198號",
+        "nameZH": "The Wellington",
+        "districtZH": "中西區",
+        "x": 833807.0,
+        "y": 816211.0,
+        "nameEN": "The Wellington",
+        "addressEN": "198 WELLINGTON STREET  ",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "駱克道138號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A7%B1%E5%85%8B%E9%81%93138%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "駱克道   138號|軒尼詩道   139號",
+        "nameZH": "中國海外大廈",
+        "districtZH": "灣仔區",
+        "x": 835842.0,
+        "y": 815428.0,
+        "nameEN": "China Overseas Building",
+        "addressEN": "138 LOCKHART ROAD|139 HENNESSY ROAD",
+        "districtEN": "Wan Chai District"
+      },
+      {
+        "addressZH": "駱克道   137-141號|柯布連道   4A-4C號",
+        "nameZH": "香江大廈",
+        "districtZH": "灣仔區",
+        "x": 835860.0,
+        "y": 815493.0,
+        "nameEN": "Hong Kong Building",
+        "addressEN": "137-141 LOCKHART ROAD|4A-4C O'BRIEN ROAD",
+        "districtEN": "Wan Chai District"
+      }
+    ]
+  },
+  "置地廣場": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%BD%AE%E5%9C%B0%E5%BB%A3%E5%A0%B4",
+    "candidates": [
+      {
+        "addressZH": "皇后大道中   11-19號|雪廠街   12號|德輔道中   12-16號|畢打街   5-17號",
+        "nameZH": "置地廣場",
+        "districtZH": "中西區",
+        "x": 834303.0,
+        "y": 815808.0,
+        "nameEN": "THE LANDMARK",
+        "addressEN": "11-19 QUEEN'S ROAD CENTRAL|12 ICE HOUSE STREET|12-16 DES VOEUX ROAD CENTRAL|5-17 PEDDER STREET",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中西區 皇后大道中",
+        "nameZH": "置地廣場 (公爵大廈, 約克大廈 & 告羅士打大廈)",
+        "districtZH": "中西區",
+        "x": 834293.929,
+        "y": 815789.722,
+        "nameEN": "LANDMARK (EDINBURGH TOWER, YORK HOUSE & GLOUCESTER TOWER)",
+        "addressEN": "QUEEN'S ROAD CENTRAL, CENTRAL & WESTERN",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "置地廣場",
+        "nameZH": "告羅士打大廈",
+        "districtZH": "中西區",
+        "x": 834298.0,
+        "y": 815844.0,
+        "nameEN": "Gloucester Tower",
+        "addressEN": "THE LANDMARK",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環皇后大道中15號置地廣場",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 02933)",
+        "districtZH": "中西區",
+        "x": 834290.0,
+        "y": 815783.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 02933)",
+        "addressEN": "Unit Shop 321, 3/F, Landmark Atrium, 15 Queen's Road Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環德輔道中12-16號置地廣場",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 02935)",
+        "districtZH": "中西區",
+        "x": 834298.0,
+        "y": 815844.0,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 02935)",
+        "addressEN": "Unit Shop 322, 3/F, The Landmark, 12-16 Des Voeux Road Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "香港置地廣場 咖啡廳10-108號舖",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05142)",
+        "districtZH": "中西區",
+        "x": 834312.9,
+        "y": 815741.5,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05142)",
+        "addressEN": "Unit Shop 10-108, Block Cafe Landmark, The Landmark, Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環皇后大道中15號置地廣場3樓321店Pret A Manger",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08166)",
+        "districtZH": "中西區",
+        "x": 834290.0,
+        "y": 815783.0,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08166)",
+        "addressEN": "Unit 321, 3/F, Block Pret A Manger - Landmark Atrium, Landmark Atrium, 15 Queen's Road Central",
+        "districtEN": "Central and Western District"
+      },
+      {
+        "addressZH": "中環皇后大道中15號置地廣塲3層321-322, 327-333號舖",
+        "nameZH": "已登記的WiFi 熱點: Hong Kong Telecommunications (HKT) Limited (APID 05143)",
+        "districtZH": "中西區",
+        "x": 834312.9,
+        "y": 815741.5,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Telecommunications (HKT) Limited (APID 05143)",
+        "addressEN": "Unit 321-322, 327-333, 3/F, The Landmark, 15 Queen's Rd Central",
+        "districtEN": "Central and Western District"
+      }
+    ]
+  },
+  "博物館道38號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%81%9338%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "博物館道   38號",
+        "nameZH": "M＋",
+        "districtZH": "油尖旺區",
+        "x": 834441.0,
+        "y": 817991.0,
+        "nameEN": "M+",
+        "addressEN": "38 MUSEUM DRIVE  ",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍西九文化區博物館道38號M+ 13樓",
+        "nameZH": "嶺南大學@西九龍",
+        "districtZH": "油尖旺區",
+        "x": 834144.35993622,
+        "y": 818059.54883261,
+        "nameEN": "Lingnan@WestKowloon",
+        "addressEN": "13/F M+, West Kowloon Cultural District, 38 Museum Drive, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍博物館道38號西九文化區M+11樓",
+        "nameZH": "M+ LOUNGE",
+        "districtZH": "油尖旺區",
+        "x": 834442.97698393,
+        "y": 817986.38560678,
+        "nameEN": "M+ LOUNGE",
+        "addressEN": "11/F, M+, West Kowloon Cultural District, 38 Museum Drive, KLN",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍西九文化區博物館道38號M+ 15樓",
+        "nameZH": "創意薈@香港恒生大學",
+        "districtZH": "油尖旺區",
+        "x": 834438.33362392,
+        "y": 818002.59406692,
+        "nameEN": "The Create@HSUHK",
+        "addressEN": "The Create by HSUHK, 15/F, M+, West Kowloon Cultural District, 38 Museum Drive, Kowloon'",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍西九文化區博物館道38號",
+        "nameZH": "M+ 停車場",
+        "districtZH": "油尖旺區",
+        "x": 834491.87,
+        "y": 818070.578,
+        "nameEN": "M+ Car Park",
+        "addressEN": "West Kowloon Cultural District, No.38 Museum Drive, Kowloon, Hong Kong",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "香港九龍西九文化區博物館道38號",
+        "nameZH": "M+ 停車場",
+        "districtZH": "油尖旺區",
+        "x": 834492.0,
+        "y": 818071.0,
+        "nameEN": "M+ Car Park",
+        "addressEN": "West Kowloon Cultural District, No.38 Museum Drive, Kowloon, Hong Kong",
+        "districtEN": "Yau Tsim Mong District"
+      },
+      {
+        "addressZH": "九龍尖沙咀博物館道38號西九文化區M+",
+        "nameZH": "M+ 戲院",
+        "districtZH": "油尖旺區",
+        "x": 834436.47801925,
+        "y": 817995.50728078,
+        "nameEN": "M+ Cinema",
+        "addressEN": "M+, West Kowloon Cultural District, 38 Museum Drive, Kowloon",
+        "districtEN": "Yau Tsim Mong District"
+      }
+    ]
+  },
+  "太古城道18號": {
+    "url": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A4%AA%E5%8F%A4%E5%9F%8E%E9%81%9318%E8%99%9F",
+    "candidates": [
+      {
+        "addressZH": "香港太古城太古城道18號",
+        "nameZH": "太古城中心",
+        "districtZH": "東區",
+        "x": 840438.0,
+        "y": 816333.0,
+        "nameEN": "Cityplaza",
+        "addressEN": "18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號太古城中心",
+        "nameZH": "太古城中心停車場",
+        "districtZH": "東區",
+        "x": 840438.76,
+        "y": 816424.088,
+        "nameEN": "Cityplaza Carpark",
+        "addressEN": "Cityplaza, 18 Taikoo Shing Road, Tai Koo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號太古城中心",
+        "nameZH": "太古城中心停車場",
+        "districtZH": "東區",
+        "x": 840439.0,
+        "y": 816424.0,
+        "nameEN": "Cityplaza Carpark",
+        "addressEN": "Cityplaza, 18 Taikoo Shing Road, Tai Koo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港鰂魚涌太古城道18號太古城中心5樓",
+        "nameZH": "MOViE MOViE Cityplaza",
+        "districtZH": "東區",
+        "x": 840434.0265028,
+        "y": 816323.87034547,
+        "nameEN": "MOViE MOViE Cityplaza",
+        "addressEN": "5/F Cityplaza, 18 Taikoo Shing Road, Tai Koo, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城道   18D號",
+        "nameZH": "景天閣",
+        "districtZH": "東區",
+        "x": 840378.0,
+        "y": 816386.0,
+        "nameEN": "King Tien Mansion",
+        "addressEN": "18D TAIKOO SHING ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城道   18A號",
+        "nameZH": "冠天閣",
+        "districtZH": "東區",
+        "x": 840495.0,
+        "y": 816385.0,
+        "nameEN": "Kwun Tien Mansion",
+        "addressEN": "18A TAIKOO SHING ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城道   18C號",
+        "nameZH": "南天閣",
+        "districtZH": "東區",
+        "x": 840412.0,
+        "y": 816385.0,
+        "nameEN": "Nam Tien Mansion",
+        "addressEN": "18C TAIKOO SHING ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城道   18B號",
+        "nameZH": "逸天閣",
+        "districtZH": "東區",
+        "x": 840461.0,
+        "y": 816385.0,
+        "nameEN": "Yat Tien Mansion",
+        "addressEN": "18B TAIKOO SHING ROAD  ",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城太古城道18號太古城中心五樓505號舖",
+        "nameZH": "回收機構及收集點： 麥當勞",
+        "districtZH": "東區",
+        "x": 840438.0,
+        "y": 816430.0,
+        "nameEN": "Recycling Organisations and Collection Points: McDonald's",
+        "addressEN": "Shop No. 505, Level 5, Cityplaza, 18 Tai Koo Shing Road, Tai Koo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號",
+        "nameZH": "Wi-Fi.HK 熱點位置: 太古城中心",
+        "districtZH": "東區",
+        "x": 840433.1,
+        "y": 816435.5,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Cityplaza",
+        "addressEN": "18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古太古城道18號太古城中心2樓223號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 屈臣氏酒窖",
+        "districtZH": "東區",
+        "x": 840413.4,
+        "y": 816374.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Watson's Wine",
+        "addressEN": "Shop 223, 2/F, Cityplaza, Tai Koo",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城太古城道18號太古城中心2期B層",
+        "nameZH": "已登記的WiFi 熱點: 香港寬頻網絡有限公司 (APID 03883)",
+        "districtZH": "東區",
+        "x": 840445.3,
+        "y": 816430.6,
+        "nameEN": "Registered WiFi Access Points: Hong Kong Broadband Network Limited (APID 03883)",
+        "addressEN": "B/F, Cityplaza2, 18 Taikoo Shing Rd",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "太古城道18號太古城APITA2層維他自動售賣機",
+        "nameZH": "已登記的WiFi 熱點: Y5ZONE Limited (APID 08606)",
+        "districtZH": "東區",
+        "x": 840490.0,
+        "y": 816428.4,
+        "nameEN": "Registered WiFi Access Points: Y5ZONE Limited (APID 08606)",
+        "addressEN": "B, Cityplaza 2/F, Block Vita Vending Machine, APITA Taikoo (Food Square), 18 Taikoo Shing Rd, Quarry Bay",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港港島太古城太古城道18號太古城中心一樓124號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 屈臣氏",
+        "districtZH": "東區",
+        "x": 840506.1,
+        "y": 816403.6,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Watsons",
+        "addressEN": "Shop No.124, First Floor, Cityplaza, 18 TaiKoo Shing Rd, Taikoo Shing, Island East, HK",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港港島東太古城道18號太古城中心地下058號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: PCCW-HKT/csl專門店",
+        "districtZH": "東區",
+        "x": 840444.3,
+        "y": 816435.7,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: PCCW-HKT / csl shop",
+        "addressEN": "Shop No 058 on G/F. Cityplaza. Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "鰂魚涌太古城道18號太古城中心1層124號舖屈臣氏",
+        "nameZH": "已登記的WiFi 熱點: 環球全域電訊有限公司 (APID 01442)",
+        "districtZH": "東區",
+        "x": 840446.0,
+        "y": 816419.8,
+        "nameEN": "Registered WiFi Access Points: HGC Global Communications Limited (APID 01442)",
+        "addressEN": "Unit Shop 124, 1/F, Watsons The Chemist, Cityplaza 1, 18 Tai Koo Shing Road, Tai Koo Shing",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道 18號太古城中心第2期地下44 號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 渣打銀行",
+        "districtZH": "東區",
+        "x": 840378.0,
+        "y": 816390.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Standard Chartered Bank",
+        "addressEN": "Shop 44, G/F, Cityplaza Phase II, 18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道18號太古城中心第2期地下42-43號舖",
+        "nameZH": "Wi-Fi.HK 熱點位置: 渣打銀行",
+        "districtZH": "東區",
+        "x": 840378.0,
+        "y": 816390.8,
+        "nameEN": "Wi-Fi.HK Hotspot Locations: Standard Chartered Bank",
+        "addressEN": "Shops 42-43, G/F, Cityplaza Phase II, 18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+        "districtEN": "Eastern District"
+      },
+      {
+        "addressZH": "香港太古城太古城道25號富山閣地下G15-G16及怡山閣地下G18號舖",
+        "nameZH": "惠康超級市場-太古城2",
+        "districtZH": "東區",
+        "x": 840533.0,
+        "y": 816340.0,
+        "nameEN": "Wellcome Supermarket-Tai Koo Shing 2",
+        "addressEN": "Shop G15-G16, G/F, Kam / Fu Shan Mansion, Kao Shan Terrace, No. 5 Tai Fung Avenue, Taikoo Shing, Hong Kong.",
+        "districtEN": "Eastern District"
+      }
+    ]
+  }
+}

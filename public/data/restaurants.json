@@ -1,0 +1,1028 @@
+{
+  "sourceUrl": "https://www.americanexpress.com/zh-hk/benefits/diningbenefit/",
+  "apiUrl": "https://dining-offers-prod.amex.r53.tuimedia.com/api/country/HK/merchants?origin=hk",
+  "fetchedAt": "2026-09-06T06:11:13.961674+00:00",
+  "region": "HK",
+  "restaurants": [
+    {
+      "id": "ae46fb71-4ffd-42b9-b6ff-5b3dff985782",
+      "name": "天外天",
+      "nameEn": "Above & Beyond",
+      "address": "科學館道17號 唯港薈28樓",
+      "addressEn": "28/F, Hotel Icon, 17 Science Museum Road",
+      "district": "尖沙咀",
+      "cuisine": "中菜",
+      "website": "https://www.hotel-icon.com/dining/above-beyond",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Above+%26+Beyond,+28%2FF%2C+Hotel+Icon%2C+17+Science+Museum+Road,+Tsim+Sha+Tsui/@22.3008527,114.1796986",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.3008527,
+        "lng": 114.1796986,
+        "source": "https://www.google.com/maps/search/Above+%26+Beyond,+28%2FF%2C+Hotel+Icon%2C+17+Science+Museum+Road,+Tsim+Sha+Tsui/@22.3008527,114.1796986",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "a81d8168-5e9c-4a7a-bdfc-f1cde759c610",
+      "name": "aera",
+      "nameEn": "aera",
+      "address": "史釗域道6號地舖",
+      "addressEn": "G/F, 6 Stewart Road",
+      "district": "灣仔",
+      "cuisine": "西式",
+      "website": "https://inline.app/booking/Restaurant/Aera",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=aera,+G%2FF%2C+6+Stewart+Rd,+Wan+Chai&query_place_id=ChIJH2lCa78BBDQRxlkymyttKJQ",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2789881,
+        "lng": 114.1768258,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8F%B2%E9%87%97%E5%9F%9F%E9%81%936%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "c2ccd1d9-9133-4eaf-b4b0-6072f16144b0",
+      "name": "Alto Bar & Grill",
+      "nameEn": "Alto Bar & Grill",
+      "address": "登龍街18號 V Point 31樓 ",
+      "addressEn": "31/F, V Point, 18 Tang Lung Street",
+      "district": "銅鑼灣",
+      "cuisine": "扒房",
+      "website": "https://book.bistrochat.com/alto",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Alto+Bar+%26+Grill,+31%2FF%2C+V+Point%2C+18+Tang+Lung+Street,+Causeway+Bay/@22.279064,114.1815807",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.279064,
+        "lng": 114.1815807,
+        "source": "https://www.google.com/maps/search/Alto+Bar+%26+Grill,+31%2FF%2C+V+Point%2C+18+Tang+Lung+Street,+Causeway+Bay/@22.279064,114.1815807",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "e1fb7684-184f-4440-9cad-f8a4c66c518f",
+      "name": "天穴",
+      "nameEn": "ANA TEN",
+      "address": "海港城海運大廈3樓OTE 304號舖",
+      "addressEn": "Shop OTE 304, 3/F, Ocean Terminal, Harbour City",
+      "district": "尖沙咀",
+      "cuisine": "日本菜",
+      "website": "https://inline.app/booking/-M8u55k1x6WKkiK3pZnm:inline-live-1/-M8u55o2lh-dLgW7SLBF",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ANA+TEN,+Shop+OTE+304%2C+Level+3%2C+Ocean+Terminal%2C+Harbour+City,+Tsim+Sha+Tsui&query_place_id=ChIJnRKY84wABDQRXJQaFdxT3F8",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.295252,
+        "lng": 114.1680434,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B5%B7%E9%81%8B%E5%A4%A7%E5%BB%88",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "18367c0a-4cf2-4faa-b217-382c627992a5",
+      "name": "Angelini 意大利餐廳",
+      "nameEn": "Angelini",
+      "address": "麼地道64號 九龍香格里拉大酒店閣樓",
+      "addressEn": "Mezzanine Level, Kowloon Shangri-La, 64 Mody Road",
+      "district": "尖沙咀",
+      "cuisine": "意大利菜",
+      "website": "https://www.shangri-la.com/hongkong/kowloonshangrila/dining/restaurants/angelini/book-a-table/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Angelini,+Mezzanine+Level%2C+Kowloon+Shangri-La%2C+64+Mody+Road%2C+Tsim+Sha+Tsui,+Tst&query_place_id=ChIJ0alD0e8ABDQRq3c62t6wh9M",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2969952,
+        "lng": 114.1770393,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%BA%BC%E5%9C%B0%E9%81%9364%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "83297419-3b96-4943-8bdb-b03e34efb442",
+      "name": "aqua",
+      "nameEn": "aqua",
+      "address": "中間道15號 H Zentre 17樓",
+      "addressEn": "17/F, H Zentre, 15 Middle Road",
+      "district": "尖沙咀",
+      "cuisine": "日本菜 / 意大利菜",
+      "website": "https://www.sevenrooms.com/reservations/aquahk?_gl=1*1pdofgc*_gcl_au*ODI3MTUyNDQ0LjE3Mjg0NjE0ODY.*_ga*MTQ3MDc4MDMwNi4xNzI4NDYxNDg2*_ga_6KM6ZJC951*MTcyODUyNTA3MS4zLjAuMTcyODUyNTA3MS4wLjAuMA..",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/aqua,+17%2FF%2C+H+Zentre%2C+15+Middle+Road,+Tsim+Sha+Tsui/@22.2953974,114.1733859",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2953974,
+        "lng": 114.1733859,
+        "source": "https://www.google.com/maps/search/aqua,+17%2FF%2C+H+Zentre%2C+15+Middle+Road,+Tsim+Sha+Tsui/@22.2953974,114.1733859",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "67656f81-dca1-41a9-a383-1772a28fc792",
+      "name": "Beefbar Hong Kong",
+      "nameEn": "Beefbar Hong Kong",
+      "address": "雪廠街16號 西洋會所2樓",
+      "addressEn": "2/F, Club Lusitano, 16 Ice House Street",
+      "district": "中環",
+      "cuisine": "扒房",
+      "website": "https://hk.beefbar.com/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Beefbar+Hong+Kong,+2%2FF%2C+Club+Lusitano%2C+16+Ice+House+Street,+Central/@22.279982,114.1574276",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.279982,
+        "lng": 114.1574276,
+        "source": "https://www.google.com/maps/search/Beefbar+Hong+Kong,+2%2FF%2C+Club+Lusitano%2C+16+Ice+House+Street,+Central/@22.279982,114.1574276",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "9b64d2a9-8b7e-437a-a7df-9ff01cad0082",
+      "name": "Cantina",
+      "nameEn": "Cantina",
+      "address": "荷李活道10號 大館1座1樓",
+      "addressEn": "1/F, Block 1, Tai Kwun, 10 Hollywood Road",
+      "district": "中環",
+      "cuisine": "意大利菜",
+      "website": "https://www.sevenrooms.com/reservations/cantinahk/popup",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantina,+Police+Headquarters+Block+01%2C+Tai+Kwun%2C%0A10+Hollywood+Road%2C+Central,+Central&query_place_id=ChIJv14uf84BBDQRkBKJwELjuU8",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2815241,
+        "lng": 114.1541297,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%9310%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "7a0f2cfb-1d92-4148-b185-7b2180f50b77",
+      "name": "瑞樵閣",
+      "nameEn": "Chesa",
+      "address": "梳士巴利道 香港半島酒店 1樓",
+      "addressEn": "1/F,  The Peninsula Hong Kong, Salisbury Road",
+      "district": "尖沙咀",
+      "cuisine": "瑞士菜",
+      "website": "https://hq.hero-cloud.com/accounts/hshgroup/eng/tms/booking/main/url:phkchesa",
+      "phone": "+852 2696 6769",
+      "googleMapsUrl": "https://goo.gl/maps/7Mus2TBJpYineTJc7",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2952612,
+        "lng": 114.1717699,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "cc26c613-8824-4ac3-9008-749c1f0dbdb1",
+      "name": "Cucina",
+      "nameEn": "Cucina",
+      "address": "海港城廣東道3號 馬哥孛羅香港酒店6樓",
+      "addressEn": "6/F, Marco Polo Hongkong Hotel, 3 Canton Road",
+      "district": "尖沙咀",
+      "cuisine": "意大利菜",
+      "website": "https://www.cucinahk.com/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Cucina,+6%2FF%2C+Marco+Polo+Hongkong+Hotel%2C+3+Canton+Road,+Tsim+Sha+Tsui/@22.2951648,114.1688605",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2951648,
+        "lng": 114.1688605,
+        "source": "https://www.google.com/maps/search/Cucina,+6%2FF%2C+Marco+Polo+Hongkong+Hotel%2C+3+Canton+Road,+Tsim+Sha+Tsui/@22.2951648,114.1688605",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "df881dc8-8210-40b3-b707-0c6a0f092b95",
+      "name": "Estro",
+      "nameEn": "Estro",
+      "address": "都爹利街1號2樓",
+      "addressEn": "2/F, 1 Duddell Street",
+      "district": "中環",
+      "cuisine": "意大利菜",
+      "website": "https://www.sevenrooms.com/experiences/estrohk",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Estro,+2%2FF%2C+1+Duddell+Street,+Central&query_place_id=ChIJUVwefskBBDQRLp-GyShVfyA",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2801519,
+        "lng": 114.1573223,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%83%BD%E7%88%B9%E5%88%A9%E8%A1%971%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "e1e602c8-9827-47dd-a32d-446fd2ed7938",
+      "name": "Felix餐廳",
+      "nameEn": "Felix",
+      "address": "梳士巴利道 香港半島酒店 28樓",
+      "addressEn": "28/F, The Peninsula Hong Kong, Salisbury Road",
+      "district": "尖沙咀",
+      "cuisine": "歐洲菜",
+      "website": "https://www.sevenrooms.com/explore/felixpenhk/reservations/create/search?venues=chesapenhk%2Cfelixpenhk%2Cgaddispenhk%2Cspringmoonpenhk%2Cthelobbypenhk%2Ctheverandahpenhk",
+      "phone": "+852 2696 6778",
+      "googleMapsUrl": "https://www.google.com/maps/search/Felix,+28%2FF%2C+The+Peninsula+Hong+Kong%2C+Salisbury+Road,+Tsim+Sha+Tsui/@22.2951024,114.1718537",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2951024,
+        "lng": 114.1718537,
+        "source": "https://www.google.com/maps/search/Felix,+28%2FF%2C+The+Peninsula+Hong+Kong%2C+Salisbury+Road,+Tsim+Sha+Tsui/@22.2951024,114.1718537",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "8a8239e5-600b-44ec-84f4-f62777c7d792",
+      "name": "吉地士",
+      "nameEn": "Gaddi's",
+      "address": "梳士巴利道 香港半島酒店 1樓",
+      "addressEn": "1/F, The Peninsula Hong Kong, Salisbury Road",
+      "district": "尖沙咀",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/explore/gaddispenhk/reservations/create/search?_gl=1*1rqtwhv*_ga*Nzg5NDQwNjIxLjE3Nzc5Njk5NjU.*_ga_PWTSTVY132*czE3ODM1NjM0NTkkbzgkZzEkdDE3ODM1NjM2MDkkajYwJGwwJGg2MjY2NjMwNTU.*_gcl_aw*R0NMLjE3ODA2NjY1MzUuRUFJYUlRb2JDaE1JcjlMcDNadndsQU1WanFSbUFoMl9IVDBCRUFBWUFTQUFFZ0lDOF9EX0J3RQ..*_gcl_dc*R0NMLjE3ODA2NjY1MzUuRUFJYUlRb2JDaE1JcjlMcDNadndsQU1WanFSbUFoMl9IVDBCRUFBWUFTQUFFZ0lDOF9EX0J3RQ..*_gcl_au*NzcxNDI5NzEzLjE3Nzc5Njk5NzEuMTU1NzM5ODgyOC4xNzgyODEyMzYwLjE3ODI4MTIzNjM.&venues=chesapenhk%2Cfelixpenhk%2Cgaddispenhk%2Cspringmoonpenhk%2Cthelobbypenhk%2Ctheverandahpenhk",
+      "phone": "+852 2696 6763",
+      "googleMapsUrl": "https://goo.gl/maps/5qRV6Lpo2CEf9mdy8",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2952612,
+        "lng": 114.1717699,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%8A%E5%B3%B6%E9%85%92%E5%BA%97",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "42b681c1-50a2-4bfa-a1cd-92b97d32bea1",
+      "name": "Gaia Ristorante ",
+      "nameEn": "Gaia Ristorante",
+      "address": "皇后大道中181號 新紀元廣場低座地下01-05單位",
+      "addressEn": "Unit 01-05, G/F, Grand Millennium Plaza, 181 Queen’s Road",
+      "district": "中環",
+      "cuisine": "意大利菜",
+      "website": "https://gaiagroup.com.hk/restaurant/gaia-ristorante/",
+      "phone": "+852 2167 8200",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaia+Ristorante,+Unit+01-05%2C+G%2FF%2C+Grand+Millennium+Plaza%2C+181+Queen%E2%80%99s+Road,+Central&query_place_id=ChIJSZUL83wABDQRZW9zjcU_KkE",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2852717,
+        "lng": 114.1534984,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD181%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "76c9aff3-223d-4dc3-aa51-986c6b27a841",
+      "name": "Giando Italian Restaurant & Bar",
+      "nameEn": "Giando Italian Restaurant & Bar",
+      "address": "灣仔星街9號星域軒1座地舖",
+      "addressEn": "Shop 1, G/F, Tower 1, Starcrest, 9 Star Street",
+      "district": "灣仔",
+      "cuisine": "意大利菜",
+      "website": "https://www.sevenrooms.com/reservations/giandohongkong",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giando+Italian+Restaurant+%26+Bar,+Shop+1%2C+G%2FF%2C+Tower+1%2C+Starcrest%2C+9+Star+Street%2C+Wanchai%2C+Hong+Kong,+Wan+Chai&query_place_id=ChIJC5XVd14ABDQR8iQe2ccJfs4",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2763328,
+        "lng": 114.1675401,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%98%9F%E8%A1%979%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "f6ea919b-f114-4b1f-99cb-2fcf4af8a056",
+      "name": "Grissini",
+      "nameEn": "Grissini",
+      "address": "港灣道1號 香港君悅酒店2樓",
+      "addressEn": "2/F, Grand Hyatt Hong Kong, 1 Harbour Road",
+      "district": "灣仔",
+      "cuisine": "意大利菜",
+      "website": "https://www.hongkong.grand.hyattrestaurants.com/tc/restaurants-and-bars/grissini/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Grissini,+2%2FF%2C+Grand+Hyatt+Hong+Kong%2C+1+Harbour+Road,+Wan+Chai/@22.2814073,114.1721379",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2814073,
+        "lng": 114.1721379,
+        "source": "https://www.google.com/maps/search/Grissini,+2%2FF%2C+Grand+Hyatt+Hong+Kong%2C+1+Harbour+Road,+Wan+Chai/@22.2814073,114.1721379",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "5fc4c83d-031e-4d43-989f-33b8ef904bcb",
+      "name": "六公館",
+      "nameEn": "HEXA",
+      "address": "海港城海運大廈地下OTE 101號舖",
+      "addressEn": "Shop OTE 101, G/F Ocean Terminal, Harbour City",
+      "district": "尖沙咀",
+      "cuisine": "中菜",
+      "website": "",
+      "phone": "+852 2577 1668",
+      "googleMapsUrl": "https://www.google.com/maps/search/HEXA,+Shop+OTE+101%2C+G%2FF+Ocean+Terminal%2C+Harbour+City,+Tsim+Sha+Tsui/@22.2950249,114.1668799",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2950249,
+        "lng": 114.1668799,
+        "source": "https://www.google.com/maps/search/HEXA,+Shop+OTE+101%2C+G%2FF+Ocean+Terminal%2C+Harbour+City,+Tsim+Sha+Tsui/@22.2950249,114.1668799",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "4cd4a1a2-ca5b-4935-9b2d-58c02196633a",
+      "name": "胡同",
+      "nameEn": "Hu Tong",
+      "address": "中間道15號H Zentre 18樓",
+      "addressEn": "18/F, H Zentre, 15 Middle Rd",
+      "district": "尖沙咀",
+      "cuisine": "中菜",
+      "website": "https://hutong.com.hk/reservations/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Hu+Tong,+18%2FF%2C+H+Zentre%2C+15+Middle+Rd,+Tsim+Sha+Tsui/@22.2954247,114.1733149",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2954247,
+        "lng": 114.1733149,
+        "source": "https://www.google.com/maps/search/Hu+Tong,+18%2FF%2C+H+Zentre%2C+15+Middle+Rd,+Tsim+Sha+Tsui/@22.2954247,114.1733149",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "e9e714b7-0b38-476e-9570-72891d85a604",
+      "name": "蟹膳",
+      "nameEn": "Kanizen",
+      "address": "希慎道33號 利園一期1樓105號舖",
+      "addressEn": "Shop 105, 1/F, Lee Garden One, 33 Hysan Avenue",
+      "district": "銅鑼灣",
+      "cuisine": "日本菜",
+      "website": "https://www.kanizen.hk/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanizen,+Shop+105+1%2FF+Lee+Garden+One%2C+33+Hysan+Avenue,+Causeway+Bay&query_place_id=ChIJnQXBHV0ABDQRn_6KMrT2Zlw",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2784461,
+        "lng": 114.184598,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%88%A9%E5%9C%92%E4%B8%80%E6%9C%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "76599662-3ad3-4a84-a2ac-82d678048867",
+      "name": "龍蝦吧餐廳",
+      "nameEn": "Lobster Bar and Grill",
+      "address": "法院道港島香格里拉大酒店6樓",
+      "addressEn": "6/F, Island Shangri-La, Supreme Court Road",
+      "district": "金鐘",
+      "cuisine": "融合菜",
+      "website": "https://www.shangri-la.com/hongkong/islandshangrila/dining/restaurants/lobster-bar-grill/book-a-table/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Lobster+Bar+and+Grill,+6%2FF%2C+Island+Shangri-La%2C+Supreme+Court+Road,+Admiralty/@22.2773459,114.1644976",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2773459,
+        "lng": 114.1644976,
+        "source": "https://www.google.com/maps/search/Lobster+Bar+and+Grill,+6%2FF%2C+Island+Shangri-La%2C+Supreme+Court+Road,+Admiralty/@22.2773459,114.1644976",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "1c1d94bb-045b-4901-8eb1-54c5c2c7cd6a",
+      "name": "LPM Restaurant & Bar",
+      "nameEn": "LPM Restaurant & Bar",
+      "address": "H Queen's, 23-29 Stanley Street",
+      "addressEn": "H Queen's, 23-29 Stanley Street",
+      "district": "中環",
+      "cuisine": "法國菜",
+      "website": "https://lpmrestaurants.com/hongkong/menus/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LPM+Restaurant+%26+Bar,+H+Queen%27s%2C+23-29+Stanley+Street,+Central&query_place_id=ChIJOXosD_QBBDQR5BQ2IQkfaXs",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2830504,
+        "lng": 114.1552647,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=H+QUEEN%27S",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "307d886b-2d47-4ef7-aa89-bf436358ba1a",
+      "name": "龍景軒",
+      "nameEn": "Lung King Heen",
+      "address": "金融街8號 四季酒店4樓",
+      "addressEn": "4/F, Four Seasons Hotel, 8 Finance Street",
+      "district": "中環",
+      "cuisine": "中菜",
+      "website": "https://www.opentable.hk/restref/client/?restref=164555&amp;lang=en-US&amp;ot_source=Restaurant%20website&amp;corrid=4c97cf3a-831f-41df-8e53-2d6fbf65ec29",
+      "phone": "+852 3196 8882",
+      "googleMapsUrl": "https://www.google.com/maps/search/Lung+King+Heen,+4%2FF%2C+Four+Seasons+Hotel%2C+8+Finance+Street,+Central/@22.2864991,114.1570066",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2864991,
+        "lng": 114.1570066,
+        "source": "https://www.google.com/maps/search/Lung+King+Heen,+4%2FF%2C+Four+Seasons+Hotel%2C+8+Finance+Street,+Central/@22.2864991,114.1570066",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "baf70303-53be-4341-89d8-98d68608adf2",
+      "name": "文華廳",
+      "nameEn": "Man Wah",
+      "address": "干諾道中 5號 香港文華東方酒店 25樓",
+      "addressEn": "25/F, Mandarin Oriental Hong Kong, 5 Connaught Road Central",
+      "district": "中環",
+      "cuisine": "中菜",
+      "website": "https://www.sevenrooms.com/reservations/manwahmohkg",
+      "phone": "+852 2825 4003",
+      "googleMapsUrl": "https://www.google.com/maps/search/Man+Wah,+25%2FF%2C+Mandarin+Oriental+Hong+Kong%2C+5+Connaught+Road+Central,+Central/@22.2818794,114.1594433",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2818794,
+        "lng": 114.1594433,
+        "source": "https://www.google.com/maps/search/Man+Wah,+25%2FF%2C+Mandarin+Oriental+Hong+Kong%2C+5+Connaught+Road+Central,+Central/@22.2818794,114.1594433",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "22a31b46-0a38-447d-8805-b968153541f6",
+      "name": "Morton's of Chicago",
+      "nameEn": "Morton's of Chicago",
+      "address": "彌敦道20號 香港喜來登酒店4樓",
+      "addressEn": "4/F, The Sheraton Hong Kong Hotel & Towers, 20 Nathan Road",
+      "district": "尖沙咀",
+      "cuisine": "扒房",
+      "website": "https://www.mortons.com/",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/JvjumPWN8vRUW6mg6",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2952612,
+        "lng": 114.1727306,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%BD%8C%E6%95%A6%E9%81%9320%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "1ece4725-c014-460a-92cf-ad20adb0c616",
+      "name": "Mosu Hong Kong",
+      "nameEn": "MOSU Hong Kong",
+      "address": "西九文化區博物館道38號M+ 3樓",
+      "addressEn": "3/F, M+, 38 Museum Drive, West Kowloon Cultural District",
+      "district": "尖沙咀",
+      "cuisine": "韓國菜",
+      "website": "https://www.sevenrooms.com/reservations/mosuhongkong",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mosu+Hong+Kong,+3%2FF%2C+M%2B%2C+38+Museum+Drive%2C+West+Kowloon+Cultural+District,+Tsim+Sha+Tsui&query_place_id=ChIJQbEAKKgBBDQRNHV0BDwVino",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.3008593,
+        "lng": 114.1591439,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%81%9338%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "ae19e3d2-cb71-4e47-b592-6131677ca3bb",
+      "name": "卅二公館",
+      "nameEn": "Mott 32",
+      "address": "德輔道中4-4A號 渣打銀行大廈地庫",
+      "addressEn": "Basement, Standard Chartered Bank Building, 4-4A Des Vouex Road Central",
+      "district": "中環",
+      "cuisine": "中菜",
+      "website": "https://mott32.com/hk/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Mott+32,+Basement%2C+Standard+Chartered+Bank+Building%2C+4-4A+Des+Vouex+Road+Central,+Central/@22.2804491,114.1590727",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2804491,
+        "lng": 114.1590727,
+        "source": "https://www.google.com/maps/search/Mott+32,+Basement%2C+Standard+Chartered+Bank+Building%2C+4-4A+Des+Vouex+Road+Central,+Central/@22.2804491,114.1590727",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "3d0ae885-e796-4d19-88f1-d763ecd22090",
+      "name": "灘萬日本料理 (港島香格里拉)",
+      "nameEn": "Nadaman (Island Shangri-la)",
+      "address": "法院道港島香格里拉大酒店7樓",
+      "addressEn": "7/F, Island Shangri-La, Supreme Court Road",
+      "district": "金鐘",
+      "cuisine": "日本菜",
+      "website": "http://www.shangri-la.com/hongkong/islandshangrila/dining/restaurants/nadaman/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nadaman%2C+Island+Shangri-la,+Level+7%2C+Island+Shangri-La%2C+Supreme+Ct+Rd%2C+Admiralty,+Admiralty&query_place_id=ChIJ70fWMGYABDQRj6XP4rJ26z4",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2769918,
+        "lng": 114.1643283,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B8%AF%E5%B3%B6%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "0887d0ab-970a-482f-a4d1-b9f9a54f5564",
+      "name": "灘萬日本料理 (九龍香格里拉)",
+      "nameEn": "Nadaman (Kowloon Shangri-la)",
+      "address": "九龍香格里拉大酒店地下二層",
+      "addressEn": "Lower Level 2, Kowloon Shangri-La, 64 Mody Road",
+      "district": "尖沙咀",
+      "cuisine": "日本菜",
+      "website": "https://www.shangri-la.com/hongkong/kowloonshangrila/dining/restaurants/nadaman/book-a-table/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nadaman%2C+Kowloon+Shangri-la,+Lower+Level+Ii%2C+Kowloon+Shangri-La%2C+64+Mody+Road%2C+Tsim+Sha+Tsui,+Tst&query_place_id=ChIJ3SqQ0u8ABDQRXBGP9FqmvzI",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2969952,
+        "lng": 114.1770393,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%BA%BC%E5%9C%B0%E9%81%9364%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "aeda57f1-b1ae-466f-9c28-f160e55aafe4",
+      "name": "ODDS",
+      "nameEn": "ODDS",
+      "address": "德輔道中4-4A號 渣打銀行大廈地下G2舖",
+      "addressEn": "Shop G2, G/F, Standard Chartered Bank Building, 4-4A Des Voeux Road Central",
+      "district": "中環",
+      "cuisine": "日本菜",
+      "website": "https://inline.app/booking/odds/oddshk",
+      "phone": "+852 28913988",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ODDS,+Shop+G2%2C+G%2FF%2C+Standard+Chartered+Bank+Building%2C+4-4A+Des+Voeux+Road+Central%2C+Hong+Kong,+Hong+Kong&query_place_id=ChIJQSrBG-oBBDQROuIixUpsjKw",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2802604,
+        "lng": 114.1589427,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%A4%A7%E5%BB%88",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "55c2e15e-1eff-4a80-a282-5ac75379959f",
+      "name": "Ole Spanish Restaurant ",
+      "nameEn": "Ole Spanish Restaurant",
+      "address": "雪廠街24-30號 順豪商業大廈1樓",
+      "addressEn": "1/F, Shun Ho Tower, 24-30 Ice House Street",
+      "district": "中環",
+      "cuisine": "西班牙菜",
+      "website": "https://www.olespanishrestaurant.com.hk/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Ole+Spanish+Restaurant,+1%2FF%2C+Shun+Ho+Tower%2C+24-30+Ice+House+Street,+Central/@22.280307,114.156465",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.280307,
+        "lng": 114.156465,
+        "source": "https://www.google.com/maps/search/Ole+Spanish+Restaurant,+1%2FF%2C+Shun+Ho+Tower%2C+24-30+Ice+House+Street,+Central/@22.280307,114.156465",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "f8817a18-b276-4c5f-b1b5-8ab92b8e2575",
+      "name": "OMAROO Grill (中環)",
+      "nameEn": "OMAROO Grill (Central )",
+      "address": "皇后大道中80號H Queen's 26樓",
+      "addressEn": "26/F, H Queen's, 80 Queen's Road Central",
+      "district": "中環",
+      "cuisine": "扒房",
+      "website": "https://www.sevenrooms.com/explore/omaroogrill/reservations/create/search",
+      "phone": "+852 2656 6678",
+      "googleMapsUrl": "https://www.google.com/maps/search/OMAROO+Grill+%28Central+%29,+26%2FF%2C+H+Queen%27s%2C+80+Queen%27s+Road+Central,+Central/@22.2830433,114.1553407",
+      "isInHotel": false,
+      "isNew": true,
+      "coordinates": {
+        "lat": 22.2830433,
+        "lng": 114.1553407,
+        "source": "https://www.google.com/maps/search/OMAROO+Grill+%28Central+%29,+26%2FF%2C+H+Queen%27s%2C+80+Queen%27s+Road+Central,+Central/@22.2830433,114.1553407",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "77e4a899-48d1-41cf-9f8d-671c15a7df85",
+      "name": "港灣壹號",
+      "nameEn": "One Harbour Road",
+      "address": "港灣道 1 號  香港君悅酒店 7至8樓",
+      "addressEn": "7-8/F, Grand Hyatt, 1 Harbour Road",
+      "district": "灣仔",
+      "cuisine": "中菜",
+      "website": "https://www.tablecheck.com/en/grand-hyatt-hongkong-one-harbour-road/reserve/message",
+      "phone": "+852 2584 7722",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=One+Harbour+Road,+7+%E2%80%93+8th+Floor%2C+Grand+Hyatt%2C+1+Harbour+Road,+Wanchai&query_place_id=ChIJW7GJmF4ABDQR6Cn4r7eqVEY",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2814173,
+        "lng": 114.1721779,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A6%99%E6%B8%AF%E5%90%9B%E6%82%85%E9%85%92%E5%BA%97",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "dd18f2f7-3db6-4cd2-8baa-2ec2d66dd123",
+      "name": "Penna",
+      "nameEn": "PENNA",
+      "address": "太古城道18號 太古城中心3樓314號舖",
+      "addressEn": "Shop 314, Level 3, Cityplaza, 18 Taikoo Shing Road",
+      "district": "太古",
+      "cuisine": "意大利菜",
+      "website": "https://inline.app/booking/penna/pennacityplaza",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/tuC8Nw7jX1GS67NcA",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2858824,
+        "lng": 114.2173386,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A4%AA%E5%8F%A4%E5%9F%8E%E9%81%9318%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "6bc89497-43f3-4bdb-b0be-3d7fad135958",
+      "name": "Prohibition 扒房‧酒吧",
+      "nameEn": "Prohibition Grill house & Cocktail bar",
+      "address": "黃竹坑道180號海洋公園香港海洋公園萬豪酒店C區地舖",
+      "addressEn": "G/F, ( Portion C) at Club Wing, Ocean Park Marriott Hotel, 180 Wong Chuk Hang Road",
+      "district": "香港仔",
+      "cuisine": "扒房",
+      "website": "https://prohibition.hk/",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/KEGQ8BVbANgAXFY88",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2476377,
+        "lng": 114.1756797,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A6%99%E6%B8%AF%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "2ae9f678-8797-4ee3-8b9f-31b21d57b0ba",
+      "name": "Quinary",
+      "nameEn": "Quinary",
+      "address": "蘇豪荷李活道56-58號地舖",
+      "addressEn": "G/F, 56-58 Hollywood Road, Soho",
+      "district": "中環",
+      "cuisine": "酒吧",
+      "website": "",
+      "phone": "+852 2851 3223",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Quinary,+G%2FF%2C+56-58+Hollywood+Road%2C+Soho,+Central&query_place_id=ChIJTaA7dnsABDQR-Pf0MbiDwhM",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.282725,
+        "lng": 114.1528583,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E8%8D%B7%E6%9D%8E%E6%B4%BB%E9%81%9356%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "fa4c65dd-b1fa-4737-abaa-8ea650cea675",
+      "name": "Roganic",
+      "nameEn": "Roganic",
+      "address": "希慎道33號利園一期4樓402-403號舖",
+      "addressEn": "Shop 402 - 403, 4/F, Lee Garden One, 33 Hysan Avenue",
+      "district": "銅鑼灣",
+      "cuisine": "英國菜",
+      "website": "http://www.roganic.com.hk",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/8RUVSxbDKM7Av68c8",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2784461,
+        "lng": 114.184598,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%88%A9%E5%9C%92%E4%B8%80%E6%9C%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "e583e3be-9710-49e6-99b9-8cb86a0859fa",
+      "name": "SOMM",
+      "nameEn": "SOMM",
+      "address": "皇后大道中15號 置地文華東方酒店7樓",
+      "addressEn": "7/F, The Landmark Mandarin Oriental, 15 Queen's Road Central, Central",
+      "district": "中環",
+      "cuisine": "國際菜式",
+      "website": "https://www.sevenrooms.com/experiences/sommbarmandarin?src=loc.local_listing.lmhkg.yxt&adobe_mc=MCMID%3D52755153807707482520250784589523854430%7CMCORGID%3D0DD8210654E6C7380A4C98A7%2540AdobeOrg%7CTS%3D1728526683",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/SOMM,+7%2FF%2C+The+Landmark+Mandarin+Oriental%2C+15+Queen%27s+Road+Central%2C+Central,+Central/@22.28055,114.157905",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.28055,
+        "lng": 114.157905,
+        "source": "https://www.google.com/maps/search/SOMM,+7%2FF%2C+The+Landmark+Mandarin+Oriental%2C+15+Queen%27s+Road+Central%2C+Central,+Central/@22.28055,114.157905",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "fe4944ed-69d1-4785-a984-db6a0e0a6b63",
+      "name": "Spiga",
+      "nameEn": "SPIGA",
+      "address": "皇后大道中31號 陸海通大廈3樓",
+      "addressEn": "3/F, LHT Tower, 31 Queen’s Road Central",
+      "district": "中環",
+      "cuisine": "意大利菜",
+      "website": "https://book.bistrochat.com/spiga",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=SPIGA,+3%2FF%2C+LHT+Tower%2C+31+Queen%E2%80%99s+Road+Central,+Central&query_place_id=ChIJZ0OrsGQABDQRNnI9lqlZARA",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2821385,
+        "lng": 114.1566428,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%99%B8%E6%B5%B7%E9%80%9A%E5%A4%A7%E5%BB%88",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "b7c865ad-898b-43f7-b9d2-b5537f35a4e4",
+      "name": "嘉麟樓",
+      "nameEn": "Spring Moon",
+      "address": "梳士巴利道 香港半島酒店1樓",
+      "addressEn": "1/F, The Peninsula Hong Kong, Salisbury Road",
+      "district": "尖沙咀",
+      "cuisine": "中菜",
+      "website": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining/spring-moon-cantonese",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Spring+Moon,+1%2FF%2C+The+Peninsula+Hong+Kong%2C+Salisbury+Road,+Tsim+Sha+Tsui/@22.2952613,114.1714824",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2952613,
+        "lng": 114.1714824,
+        "source": "https://www.google.com/maps/search/Spring+Moon,+1%2FF%2C+The+Peninsula+Hong+Kong%2C+Salisbury+Road,+Tsim+Sha+Tsui/@22.2952613,114.1714824",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "875f1ae7-7dfc-4992-979e-c4a7df6f9a21",
+      "name": "夏宮",
+      "nameEn": "Summer Palace",
+      "address": "法院道港島香格里拉大酒店5樓",
+      "addressEn": "5/F, Island Shangri-La, Supreme Court Road",
+      "district": "金鐘",
+      "cuisine": "中菜",
+      "website": "https://www.shangri-la.com/hongkong/islandshangrila/dining/restaurants/summer-palace/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Summer+Palace,+5%2FF%2C+Island+Shangri-La%2C+Supreme+Court+Road,+Admiralty/@22.2769355,114.164603",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2769355,
+        "lng": 114.164603,
+        "source": "https://www.google.com/maps/search/Summer+Palace,+5%2FF%2C+Island+Shangri-La%2C+Supreme+Court+Road,+Admiralty/@22.2769355,114.164603",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "05ea8753-1326-4ad7-85f6-2a0c335f2360",
+      "name": "TANGO Argentinian Steakhouse ",
+      "nameEn": "TANGO Argentinian Steakhouse",
+      "address": "蘭桂坊15-16號 協興大廈2樓",
+      "addressEn": "2/F, Grand Progress Building, 15-16 Lan Kwai Fong",
+      "district": "中環",
+      "cuisine": "扒房",
+      "website": "https://book.bistrochat.com/tango-argentinian-steakhouse-lkf",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/TANGO+Argentinian+Steakhouse,+2%2FF%2C+Grand+Progress+Building%2C+15-16+Lan+Kwai+Fong,+Central/@22.2806477,114.1541221",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2806477,
+        "lng": 114.1541221,
+        "source": "https://www.google.com/maps/search/TANGO+Argentinian+Steakhouse,+2%2FF%2C+Grand+Progress+Building%2C+15-16+Lan+Kwai+Fong,+Central/@22.2806477,114.1541221",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "55ebf8f4-31b2-4230-a908-6e1a43c321e5",
+      "name": "The Orient",
+      "nameEn": "The Orient",
+      "address": "海港城海運大廈4樓OTE401號舖",
+      "addressEn": "Shop OTE401, 4/F, Ocean Terminal, Harbour City",
+      "district": "尖沙咀",
+      "cuisine": "扒房",
+      "website": "https://book.bistrochat.com/theorient",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/SX5TR8vz4ULiosKm9",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.295252,
+        "lng": 114.1680434,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%B5%B7%E9%81%8B%E5%A4%A7%E5%BB%88",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "274ada71-aef5-4419-a6a6-9f7d2ae3a4ec",
+      "name": "The Savory Project",
+      "nameEn": "The Savory Project",
+      "address": "蘇豪士丹頓街4號地舖",
+      "addressEn": "G/F, 4 Staunton Street, Soho",
+      "district": "中環",
+      "cuisine": "酒吧",
+      "website": "",
+      "phone": "+852 2318 1588",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Savory+Project,+G%2FF%2C+4+Staunton+Street%2C+Soho,+Central&query_place_id=ChIJQdmKoKMBBDQRWLj35FF1heg",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2815782,
+        "lng": 114.1531788,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A3%AB%E4%B8%B9%E9%A0%93%E8%A1%974%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "9ebf9160-52b3-48e7-b039-03c9e6349c4a",
+      "name": "波士廳",
+      "nameEn": "The Sky Boss",
+      "address": "柯士甸道西1號 環球貿易廣場(ICC)101樓B2舖",
+      "addressEn": "Shop B2, 101/F, International Commerce Centre, 1 Austin Road West",
+      "district": "尖沙咀",
+      "cuisine": "中菜",
+      "website": "",
+      "phone": "+852 39551755",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Sky+Boss,+B2+101+International+Commercial+Center%2C+1+Austin+Road+West,+Tsim+Sha+Tsui&query_place_id=ChIJt_MFFZEABDQR-zYrB-GluAI",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.3033609,
+        "lng": 114.1603082,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%92%B0%E7%90%83%E8%B2%BF%E6%98%93%E5%BB%A3%E5%A0%B4",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "1b8b9b4d-6910-4d9e-84cb-ff5796bd6d98",
+      "name": "The Steakhouse",
+      "nameEn": "The Steakhouse",
+      "address": "梳士巴利道18號 香港麗晶酒店地舖",
+      "addressEn": "G/F, Regent Hong Kong, 18 Salisbury Road",
+      "district": "尖沙咀",
+      "cuisine": "扒房",
+      "website": "https://www.sevenrooms.com/reservations/rhksteakhouse?venues=rhksteakhouse,Laichingheen,rhklobbylounge,rhknobu,rhkqura",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/saHk7dw4DiABBtKE6",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.29341,
+        "lng": 114.1739049,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E6%A2%B3%E5%A3%AB%E5%B7%B4%E5%88%A9%E9%81%9318%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "b19019b8-6c5f-4114-88ba-e9cfbedf664a",
+      "name": "露台餐廳",
+      "nameEn": "The Verandah",
+      "address": "梳士巴利道 香港半島酒店 1樓",
+      "addressEn": "1/F, The Peninsula Hong Kong, Salisbury Road",
+      "district": "尖沙咀",
+      "cuisine": "國際菜式",
+      "website": "https://www.peninsula.com/en/hong-kong/hotel-fine-dining/the-verandah-buffet",
+      "phone": "+852 2696 6766",
+      "googleMapsUrl": "https://www.google.com/maps/search/The+Verandah,+1%2FF%2C+The+Peninsula+Hong+Kong%2C+Salisbury+Road,+Tsim+Sha+Tsui/@22.29528,114.171885",
+      "isInHotel": true,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.29528,
+        "lng": 114.171885,
+        "source": "https://www.google.com/maps/search/The+Verandah,+1%2FF%2C+The+Peninsula+Hong+Kong%2C+Salisbury+Road,+Tsim+Sha+Tsui/@22.29528,114.171885",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "51e1cc21-d0c2-40a5-bd00-2c8fba7d8710",
+      "name": "露台餐廳 (淺水灣影灣園)",
+      "nameEn": "The Verandah (The Repulse Bay)",
+      "address": "淺水灣道109號",
+      "addressEn": "109 Repulse Bay Road",
+      "district": "淺水灣",
+      "cuisine": "歐洲菜",
+      "website": "http://www.therepulsebay.com/book_verandah.htm",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/The+Verandah+%28The+Repulse+Bay%29,+109+Repulse+Bay+Road,+Repulse+Bay/@22.2388683,114.1956219",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2388683,
+        "lng": 114.1956219,
+        "source": "https://www.google.com/maps/search/The+Verandah+%28The+Repulse+Bay%29,+109+Repulse+Bay+Road,+Repulse+Bay/@22.2388683,114.1956219",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "46199bcf-6512-4321-979b-fc16b3071197",
+      "name": "VEA Restaurant",
+      "nameEn": "VEA Restaurant",
+      "address": "威靈頓街198號 The Wellington30樓",
+      "addressEn": "30/F, The Wellington, 198 Wellington Street",
+      "district": "中環",
+      "cuisine": "中菜/法國菜",
+      "website": "https://vea.hk/reserve/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=VEA+Restaurant,+30%2FF%2C+The+Wellington%2C+198+Wellington+Street,+Central&query_place_id=ChIJrZRui3wABDQRzgwMfdtdkJ4",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.284784,
+        "lng": 114.1529938,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E5%A8%81%E9%9D%88%E9%A0%93%E8%A1%97198%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "4a6822f0-281e-4c16-b3f6-38b5d64708c6",
+      "name": "新榮記",
+      "nameEn": "Xin Rong Ji",
+      "address": "駱克道138號 中國海外大廈地下及一樓",
+      "addressEn": "1&G/F, China Overseas Building, 138 Lockhart Road",
+      "district": "灣仔",
+      "cuisine": "中菜",
+      "website": "http://www.xinrongji.com/list",
+      "phone": "+852 34623516",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Xin+Rong+Ji,+G%2FF+China+Overseas+Building%2C+138+Lockhart+Road,+Wanchai&query_place_id=ChIJmacJY1wABDQRmhKRRZZuikI",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2777147,
+        "lng": 114.1727408,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E9%A7%B1%E5%85%8B%E9%81%93138%E8%99%9F",
+        "precision": "building"
+      }
+    },
+    {
+      "id": "eb2c91eb-dc6d-48c4-820f-03c5fb89e315",
+      "name": "甬府",
+      "nameEn": "Yong Fu",
+      "address": "駱克道20-24號 金星大廈地下2號舖及1樓",
+      "addressEn": "Shop 2  G/F & 1/F Golden Star Building, 20-24 Lockhart Road",
+      "district": "灣仔",
+      "cuisine": "中菜",
+      "website": "https://yongfuhk.com/reservation/",
+      "phone": "+852 2881 7899",
+      "googleMapsUrl": "https://www.google.com/maps/search/Yong+Fu,+Shop+2++G%2FF+%26+1%2FF+Golden+Star+Building%2C+20-24+Lockhart+Road,+Wanchai/@22.2781102,114.1690727",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2781102,
+        "lng": 114.1690727,
+        "source": "https://www.google.com/maps/search/Yong+Fu,+Shop+2++G%2FF+%26+1%2FF+Golden+Star+Building%2C+20-24+Lockhart+Road,+Wanchai/@22.2781102,114.1690727",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "1c1bb3a7-ed55-44a1-aa4d-d168ac102c43",
+      "name": "Zuma Hong Kong",
+      "nameEn": "Zuma Hong Kong",
+      "address": "皇后大道中15號 置地廣場中庭5樓501-503號舖及6樓601-603號舖",
+      "addressEn": "Shop 601-603, 6/F & Shop 501-503, 5/F, LANDMARK ATRIUM, 15 Queen's Road Central",
+      "district": "中環",
+      "cuisine": "日本菜",
+      "website": "https://zumarestaurant.com/book/?loc=hong-kong",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zuma+Hong+Kong,+Shop+601-603%2C+6%2FF+%26+Shop+501-503%2C+5%2FF%2C+LANDMARK+ATRIUM%2C+15+Queen%27s+Road+Central,+Central&query_place_id=ChIJN9i-kn4ABDQRWC8dkEF2ln0",
+      "isInHotel": false,
+      "isNew": false,
+      "coordinates": {
+        "lat": 22.2811453,
+        "lng": 114.1578073,
+        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%BD%AE%E5%9C%B0%E5%BB%A3%E5%A0%B4",
+        "precision": "building"
+      }
+    }
+  ]
+}
