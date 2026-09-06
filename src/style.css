@@ -10,5 +10,6 @@
 .result-summary{grid-column:1/-1;font-size:11px;margin:0;color:#506361}
 .dining-cluster{border:4px solid #c2d9c7;background:var(--teal);color:white;border-radius:50%;display:grid;place-items:center;font:600 14px 'Noto Sans TC',sans-serif;box-shadow:0 2px 8px #19333e40}.dining-cluster:hover{background:var(--ink)}
 .map-empty{position:absolute;top:45%;left:12%;right:12%;z-index:400;background:#fffffff2;padding:20px;text-align:center;border:1px solid var(--line);border-radius:6px;font-size:13px;pointer-events:none}
+.leaflet-pane.leaflet-popup-pane{z-index:800}
 .empty h3{font-family:'Noto Serif TC',serif;font-size:18px}.empty p{color:var(--muted)}
 @media(max-width:700px){.filters{grid-template-columns:1fr 1fr;gap:12px;padding:14px}.search-field{grid-column:1/-1}.filters input,.filters select{font-size:16px}.clear-filters{grid-column:1/-1}.result-summary{font-size:11px}}
