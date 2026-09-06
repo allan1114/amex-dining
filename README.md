@@ -49,7 +49,7 @@ auto-close handler in `ViewControl`. The marker click assertion in
 passes reliably.
 
 ## MVP3 — overseas coverage & data refresh
-- The Amex merchant endpoint (`dining-offers-prod.amex.r53.tuimedia.com/api/country/{REGION}/merchants?origin=hk`) exposes seven working regions: **HK (51), TW (58), SG (35), TH (51), AU (82), US (60), GB (130)**. MO / CN / KR / MY return 422 and JP returns 0 rows — those regions are deliberately excluded.
+- The importer first reads Amex's official `/api/countries` metadata, then fetches the active countries visible to the Hong Kong market from `/api/country/{REGION}/merchants?origin=hk`. The current snapshot contains **1,505 participating restaurants across 15 countries or regions**: HK, AU, NZ, SG, TW, TH, AT, FR, DE, IT, ES, GB, CA, MX and US. Japan remains absent because the official HK-origin endpoint currently returns zero merchants.
 - Coordinates are extracted from each row's `googleMapsUrl` regex `@lat,lng`; the source URL is stored as `coordinates.source` and `precision` is `official-map-link`. Rows whose URL is a `maps.app.goo.gl` short link stay `null` until a reviewed override is added in `data/coordinate-overrides.json`.
 - Every restaurant row carries a `region` field. The default landing scope is **local** (HK only); a 範圍 select in the filter bar switches to 海外 or 全部, and a second 海外地區 select narrows to a specific region.
 - Overseas rows display their region label in the restaurant list tag and the result count summary.
@@ -73,13 +73,13 @@ The app fetches `public/data/restaurants.json` on startup:
 {
   sourceUrl: string;
   fetchedAt: string; // ISO date/time
-  regions: Array<'HK' | 'TW' | 'SG' | 'TH' | 'AU' | 'US' | 'GB'>;
+  regions: Array<'HK' | 'AU' | 'NZ' | 'SG' | 'TW' | 'TH' | 'AT' | 'FR' | 'DE' | 'IT' | 'ES' | 'GB' | 'CA' | 'MX' | 'US'>;
   restaurants: Array<{
     id: string; name: string; nameEn?: string;
     address: string; addressEn?: string; district?: string; cuisine?: string;
     website?: string; phone?: string; googleMapsUrl?: string;
     isInHotel?: boolean; isNew?: boolean;
-    region: 'HK' | 'TW' | 'SG' | 'TH' | 'AU' | 'US' | 'GB';
+    region: 'HK' | 'AU' | 'NZ' | 'SG' | 'TW' | 'TH' | 'AT' | 'FR' | 'DE' | 'IT' | 'ES' | 'GB' | 'CA' | 'MX' | 'US';
     coordinates: null | { lat: number; lng: number; source?: string; precision?: string };
   }>;
 }

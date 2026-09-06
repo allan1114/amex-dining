@@ -3,18 +3,21 @@ No credentials needed. Coordinates without reviewed evidence remain null.
 
 Supports multiple regions (HK + overseas dining benefit). Amex's merchant
 API endpoint `dining-offers-prod.amex.r53.tuimedia.com/api/country/{REGION}/merchants`
-returns 422 for MO/CN/KR/MY and 0 rows for JP at the time of writing —
-those regions are skipped and logged. The seven working regions currently
-return:
-  HK 51, TW 58, SG 35, TH 51, AU 82, US 60, GB 130.
+uses the official `/api/countries` metadata. The regions below are active,
+visible to the Hong Kong market, and currently return one or more merchants.
 """
 import datetime, json, pathlib, re, urllib.request, urllib.error, argparse, sys
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SOURCE = 'https://www.americanexpress.com/zh-hk/benefits/diningbenefit/'
 API_BASE = 'https://dining-offers-prod.amex.r53.tuimedia.com/api/country/{region}/merchants?origin=hk'
-# Working regions on the Amex merchant endpoint. MO / CN / KR / MY return 422
-# and JP returns 0 rows — those are deliberately excluded.
-SUPPORTED_REGIONS = ['HK', 'TW', 'SG', 'TH', 'AU', 'US', 'GB']
+# Active countries from /api/countries which are visible to the HK market and
+# currently return merchants for origin=hk. JP is active but returns zero rows,
+# so it is deliberately omitted until Amex publishes participating merchants.
+SUPPORTED_REGIONS = [
+    'HK', 'AU', 'NZ', 'SG', 'TW', 'TH',
+    'AT', 'FR', 'DE', 'IT', 'ES', 'GB',
+    'CA', 'MX', 'US',
+]
 # Loose bounding boxes that comfortably cover each region's land area.
 # Used as a sanity check on coordinates extracted from the official Google Maps
 # link (precision: official-map-link).
@@ -24,8 +27,16 @@ REGION_BBOX = {
     'SG': ( 1.10,   1.55, 103.55, 104.10),
     'TH': ( 6.85,  20.50,  97.20, 105.80),
     'AU': (-44.50, -10.50, 112.50, 154.50),
+    'NZ': (-48.00, -33.00, 165.00, 179.90),
+    'AT': (45.00, 50.00,  8.00, 18.00),
+    'FR': (41.00, 52.00, -6.00, 10.00),
+    'DE': (47.00, 56.00,  5.00, 16.00),
+    'IT': (35.00, 48.00,  6.00, 19.00),
+    'ES': (27.00, 44.50, -19.00,  5.00),
     'US': ( 18.00,  72.00, -180.00, -65.00),
     'GB': ( 49.50,  61.00,  -8.50,   2.50),
+    'CA': (41.00, 84.00, -142.00, -52.00),
+    'MX': (14.00, 33.50, -119.00, -86.00),
 }
 
 def localized(obj, field, fallback=''):
@@ -63,7 +74,8 @@ def normalize(raw, overrides, region):
         if coordinates:
             lat, lng = coordinates['lat'], coordinates['lng']
             if not (bbox[0] < lat < bbox[1] and bbox[2] < lng < bbox[3]):
-                raise ValueError(f'Coordinates outside {region} bbox ({lat},{lng}): {row["name"]}')
+                print(f'  warning {region}: ignoring out-of-bounds official coordinates ({lat},{lng}) for {row["name"]}', file=sys.stderr)
+                coordinates = None
         result.append({
             'id': row['id'],
             'name': localized(row, 'name'),
