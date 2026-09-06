@@ -101,8 +101,8 @@ test('unmapped, unsafe URLs, shared coordinates and tile failures remain usable'
   // require the map tab to be active.
   if (testInfo.project.name === 'mobile') await page.getByRole('button', { name: '餐廳名單', exact: true }).click();
   await page.locator('.restaurant-button').filter({ hasText: '測試乙' }).click();
-  await expect(page.locator('.leaflet-popup-content h3')).toHaveCount(1);
-  await expect(page.locator('.leaflet-popup-content h3')).toHaveText('測試乙');
+  // Assert count and content atomically so Leaflet's outgoing popup animation cannot race two assertions.
+  await expect(page.locator('.leaflet-popup-content h3')).toHaveText(['測試乙']);
   await expect(page.getByRole('status')).toContainText('餐廳名單及詳情仍可使用');
 });
 
