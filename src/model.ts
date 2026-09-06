@@ -1,5 +1,5 @@
 export const AMEX_URL = 'https://www.americanexpress.com/zh-hk/benefits/diningbenefit/';
-export const SUPPORTED_REGIONS = ['HK', 'TW', 'SG', 'TH', 'AU', 'US', 'GB'] as const;
+export const SUPPORTED_REGIONS = ['HK', 'AU', 'NZ', 'SG', 'TW', 'TH', 'AT', 'FR', 'DE', 'IT', 'ES', 'GB', 'CA', 'MX', 'US'] as const;
 export type Region = typeof SUPPORTED_REGIONS[number];
 export const REGION_LABELS: Record<Region, string> = {
   HK: '香港',
@@ -7,12 +7,20 @@ export const REGION_LABELS: Record<Region, string> = {
   SG: '新加坡',
   TH: '泰國',
   AU: '澳洲',
+  NZ: '新西蘭',
+  AT: '奧地利',
+  FR: '法國',
+  DE: '德國',
+  IT: '意大利',
+  ES: '西班牙',
   US: '美國',
   GB: '英國',
+  CA: '加拿大',
+  MX: '墨西哥',
 };
 export const REGION_GROUPS: Record<'local' | 'overseas', Region[]> = {
   local: ['HK'],
-  overseas: ['TW', 'SG', 'TH', 'AU', 'US', 'GB'],
+  overseas: ['AU', 'NZ', 'SG', 'TW', 'TH', 'AT', 'FR', 'DE', 'IT', 'ES', 'GB', 'CA', 'MX', 'US'],
 };
 export function isRegion(value: unknown): value is Region {
   return typeof value === 'string' && (SUPPORTED_REGIONS as readonly string[]).includes(value);

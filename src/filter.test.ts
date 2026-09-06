@@ -51,6 +51,12 @@ describe('region & scope filtering (MVP 3)', () => {
     expect(filterRestaurants(restaurants, { ...empty, scope: 'all', region: 'SG', district: 'Singapore' }).map((r) => r.id)).toEqual(['f']);
   });
   it('availableRegions preserves canonical order from SUPPORTED_REGIONS', () => {
-    expect(availableRegions(restaurants)).toEqual(['HK', 'TW', 'SG']);
+    expect(availableRegions(restaurants)).toEqual(['HK', 'SG', 'TW']);
+  });
+  it('derives district options from the current scope instead of the whole snapshot', () => {
+    const localRows = filterRestaurants(restaurants, empty);
+    expect(filterOptions(localRows, 'district')).toEqual(['中環', '尖沙咀']);
+    const overseasRows = filterRestaurants(restaurants, {...empty, scope:'overseas'});
+    expect(filterOptions(overseasRows, 'district')).toEqual(['Singapore', 'Taipei City']);
   });
 });
