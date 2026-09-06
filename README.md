@@ -33,6 +33,23 @@ Using a Vercel account authorized to access this **private GitHub repository**, 
 - Loading retry, tile-failure warning, keyboard-operable controls, visible focus states, skip link and reduced-motion support. Selected mapped restaurant details also appear below the map for easier reading and keyboard access.
 - No search or filters in MVP1; these are reserved for phase 2.
 
+## MVP2 (in review)
+- Search restaurant names and addresses (Traditional Chinese + English, NFKC-normalized, multi-term).
+- District and cuisine selects auto-populated from the snapshot. Selection clears to avoid stale popups.
+- Real Leaflet marker clustering (`leaflet.markercluster`) with spiderfy on max zoom, smaller `maxClusterRadius` (32 px) so individual markers stay accessible.
+- Map auto-fits and `⌖ 重設視野` recompute from the filtered set; clearing filters restores the unfiltered view.
+- Empty-results state with a `顯示所有餐廳` call to action.
+- Filter bar, results summary and `aria-live` count keep list and map in sync.
+
+### Known mobile interaction caveat
+On narrow viewports the map's `.map-actions` overlay (legend + `重設視野`) sits at the top of
+the map and can visually overlap a popup opened by clicking a list entry. The popup itself
+remains visible and readable; only the close button can be obscured. Closing by tapping the
+map or by re-selecting from the list still works. The automated `real snapshot renders and
+list opens pin details` Playwright case (`tests/app.spec.ts:4`) covers this and is currently
+expected to fail on the mobile project (`tests/app.spec.ts:4 mobile`). All other unit, data,
+build and E2E checks pass.
+
 ## Data contract and safety
 
 The app fetches `public/data/restaurants.json` on startup:

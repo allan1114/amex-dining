@@ -13,7 +13,13 @@ test('real snapshot renders and list opens pin details', async ({page},testInfo)
  await expect(page.locator('.leaflet-popup-content h3')).toHaveText(snapshot.restaurants[0].name);
  await page.getByRole('button',{name:'重設視野'}).click();
  await expect(page.locator('.leaflet-popup-content')).toHaveCount(0);
- await page.locator('.leaflet-marker-icon').first().click({force:true});
+ if(testInfo.project.name==='mobile')await page.getByRole('button',{name:'餐廳名單',exact:true}).click();
+ // Click the first restaurant again to bring its individual marker into view via cluster zoom
+ await page.locator('.restaurant-button').first().click();
+ await expect(page.locator('.leaflet-popup-content h3')).toHaveText(snapshot.restaurants[0].name);
+ // Close popup then click the actual map marker (now individually rendered) and verify it still opens the right restaurant
+ await page.locator('.leaflet-popup-close-button').click({force:true});
+ await page.locator('[title="' + snapshot.restaurants[0].name + '"].leaflet-interactive').first().click({force:true});
  await expect(page.locator('.leaflet-popup-content h3')).toHaveText(snapshot.restaurants[0].name);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
  await page.screenshot({path:`test-results/${testInfo.project.name}-app.png`,fullPage:true});
