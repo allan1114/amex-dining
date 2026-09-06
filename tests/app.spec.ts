@@ -17,8 +17,11 @@ test('real snapshot renders and list opens pin details', async ({page},testInfo)
  // Click the first restaurant again to bring its individual marker into view via cluster zoom
  await page.locator('.restaurant-button').first().click();
  await expect(page.locator('.leaflet-popup-content h3')).toHaveText(snapshot.restaurants[0].name);
- // Close popup then click the actual map marker (now individually rendered) and verify it still opens the right restaurant
- await page.locator('.leaflet-popup-close-button').click({force:true});
+ // Close popup then click the actual map marker (now individually rendered) and verify it still opens the right restaurant.
+ // The .map-actions overlay has been moved to the bottom of the map (see style.css) and ViewControl now
+ // auto-closes popups on outside clicks, so the marker is visible and unblocked. We still use {force:true}
+ // as defensive measure in case the click hits a parent that wraps the SVG icon.
+ await page.locator('.leaflet-popup-close-button').click();
  await page.locator('[title="' + snapshot.restaurants[0].name + '"].leaflet-interactive').first().click({force:true});
  await expect(page.locator('.leaflet-popup-content h3')).toHaveText(snapshot.restaurants[0].name);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);

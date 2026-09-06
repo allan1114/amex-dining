@@ -1,6 +1,7 @@
 import { StrictMode, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { MapContainer, TileLayer, useMap } from 'react-leaflet';
+import L from 'leaflet';
 import { AMEX_URL, hasCoordinates, parseSnapshot, safeUrl, type Restaurant, type Snapshot } from './model';
 import 'leaflet/dist/leaflet.css';
 import './style.css';
@@ -19,6 +20,19 @@ function ViewControl({restaurants, reset}: {restaurants:Restaurant[];reset:numbe
  const map = useMap();
  useEffect(() => { map.closePopup(); const points = restaurants.filter(hasCoordinates).map(r=>[r.coordinates!.lat,r.coordinates!.lng] as [number,number]); if(points.length) map.fitBounds(points,{padding:[45,45],maxZoom:14,animate:false}); else map.setView([22.31,114.17],11); },[map,restaurants,reset]);
  useEffect(()=>{ const observer = new ResizeObserver(()=>map.invalidateSize()); observer.observe(map.getContainer()); return ()=>observer.disconnect(); },[map]);
+ // Click-outside on the map (not on a marker or popup) closes any open popup.
+ // This complements the bottom-positioned .map-actions bar so neither overlay
+ // ever visually traps the popup close button on narrow viewports.
+ useEffect(() => {
+   const onMapClick = (event: L.LeafletMouseEvent) => {
+     const target = event.originalEvent.target as HTMLElement | null;
+     if (!target) { map.closePopup(); return; }
+     if (target.closest('.leaflet-popup') || target.closest('.leaflet-marker-icon') || target.closest('.map-actions')) return;
+     map.closePopup();
+   };
+   map.on('click', onMapClick);
+   return () => { map.off('click', onMapClick); };
+ }, [map]);
  return null;
 }
 function App() {
