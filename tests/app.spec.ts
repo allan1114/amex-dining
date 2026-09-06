@@ -101,8 +101,8 @@ test('unmapped, unsafe URLs, shared coordinates and tile failures remain usable'
   // require the map tab to be active.
   if (testInfo.project.name === 'mobile') await page.getByRole('button', { name: '餐廳名單', exact: true }).click();
   await page.locator('.restaurant-button').filter({ hasText: '測試乙' }).click();
-  await expect(page.locator('.leaflet-popup-content h3')).toHaveCount(1);
-  await expect(page.locator('.leaflet-popup-content h3')).toHaveText('測試乙');
+  // Assert count and content atomically so Leaflet's outgoing popup animation cannot race two assertions.
+  await expect(page.locator('.leaflet-popup-content h3')).toHaveText(['測試乙']);
   await expect(page.getByRole('status')).toContainText('餐廳名單及詳情仍可使用');
 });
 
@@ -114,9 +114,16 @@ test('scope selector switches between local, overseas and a specific region (MVP
   // Default scope is local → only HK rows are listed.
   const hkRows = snapshot.restaurants.filter((r: {region: string}) => r.region === 'HK').length;
   await expect(page.locator('.restaurant-button')).toHaveCount(hkRows);
+  const localDistricts = await page.getByLabel('地區').locator('option').allTextContents();
+  expect(localDistricts).not.toContain('Bangkok');
+  expect(localDistricts).not.toContain('Singapore');
+  expect(localDistricts).toContain('中環');
   // Switch to overseas and confirm the count changes.
   await page.getByLabel('本地或海外').selectOption('overseas');
   await expect(page.locator('.restaurant-button')).toHaveCount(overseas.length);
+  const regionOptions = await page.getByLabel('海外地區').locator('option').allTextContents();
+  expect(regionOptions).toEqual(expect.arrayContaining(['澳洲','新西蘭','新加坡','台灣','泰國','奧地利','法國','德國','意大利','西班牙','英國','加拿大','墨西哥','美國']));
+  expect(regionOptions).toHaveLength(15); // "所有海外地區" + 14 official overseas regions
   // Drill into a specific region: pick the first non-HK region the snapshot exposes.
   const firstOverseasRegion = overseas[0].region as string;
   await page.getByLabel('海外地區').selectOption(firstOverseasRegion);

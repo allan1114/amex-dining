@@ -45,19 +45,20 @@ class ImportTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             mod.normalize([self.row(), self.row()], {}, self.HK_REGION)
 
-    def test_bad_coordinates_fail(self):
+    def test_bad_coordinates_become_unmapped(self):
         row = self.row(); row['googleMapsUrl'] = 'https://www.google.com/maps/@51.50,-0.12'
-        with self.assertRaises(ValueError):
-            mod.normalize([row], {}, self.HK_REGION)
+        self.assertIsNone(mod.normalize([row], {}, self.HK_REGION)[0]['coordinates'])
 
     def test_snapshot_has_provenance_for_every_entry(self):
         data = json.loads((ROOT / 'public' / 'data' / 'restaurants.json').read_text())
         rows = data['restaurants']; self.assertTrue(rows)
         self.assertEqual(len(rows), len({r['id'] for r in rows}))
         for row in rows:
-            self.assertTrue(row['name']); self.assertTrue(row['address']); self.assertTrue(row['googleMapsUrl'])
+            self.assertTrue(row['name']); self.assertTrue(row['address'])
+            self.assertIsInstance(row['googleMapsUrl'], str)
             self.assertIn(row['region'], mod.SUPPORTED_REGIONS, f"Unexpected region: {row['region']}")
             if row['coordinates']:
+                self.assertTrue(row['googleMapsUrl'])
                 self.assertTrue(row['coordinates']['source'].startswith('https://'))
                 self.assertIn(row['coordinates']['precision'], ['building', 'official-map-link'])
 
@@ -82,8 +83,7 @@ class ImportTests(unittest.TestCase):
             id='tw-bad',
             googleMapsUrl='https://www.google.com/maps/@22.28,114.17',
         )
-        with self.assertRaises(ValueError):
-            mod.normalize([row], {}, 'TW')
+        self.assertIsNone(mod.normalize([row], {}, 'TW')[0]['coordinates'])
 
     def test_overseas_district_is_city(self):
         row = self.row(id='sg-001', city={'title': 'Singapore'}, googleMapsUrl='https://www.google.com/maps/@1.30,103.85')
@@ -92,7 +92,11 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(normalized['region'], 'SG')
 
     def test_supported_regions_include_working_codes(self):
-        self.assertEqual(set(mod.SUPPORTED_REGIONS), {'HK', 'TW', 'SG', 'TH', 'AU', 'US', 'GB'})
+        self.assertEqual(set(mod.SUPPORTED_REGIONS), {
+            'HK', 'AU', 'NZ', 'SG', 'TW', 'TH',
+            'AT', 'FR', 'DE', 'IT', 'ES', 'GB',
+            'CA', 'MX', 'US',
+        })
 
     def test_region_bbox_exists_for_every_supported_region(self):
         for r in mod.SUPPORTED_REGIONS:

@@ -9,12 +9,12 @@ describe('external URLs', () => {
 });
 
 describe('region helpers', () => {
-  it('exposes the seven working regions plus their labels', () => {
-    expect(SUPPORTED_REGIONS).toEqual(['HK', 'TW', 'SG', 'TH', 'AU', 'US', 'GB']);
+  it('exposes every active HK-market region with merchants plus their labels', () => {
+    expect(SUPPORTED_REGIONS).toEqual(['HK', 'AU', 'NZ', 'SG', 'TW', 'TH', 'AT', 'FR', 'DE', 'IT', 'ES', 'GB', 'CA', 'MX', 'US']);
     expect(REGION_LABELS.HK).toBe('香港');
     expect(REGION_LABELS.TW).toBe('台灣');
     expect(REGION_GROUPS.local).toEqual(['HK']);
-    expect(REGION_GROUPS.overseas).toEqual(['TW', 'SG', 'TH', 'AU', 'US', 'GB']);
+    expect(REGION_GROUPS.overseas).toEqual(['AU', 'NZ', 'SG', 'TW', 'TH', 'AT', 'FR', 'DE', 'IT', 'ES', 'GB', 'CA', 'MX', 'US']);
   });
   it('isRegion narrows unknown values to false', () => {
     expect(isRegion('HK')).toBe(true);
