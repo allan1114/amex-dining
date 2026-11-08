@@ -1,0 +1,39 @@
+name: Refresh AMEX data
+# Weekly pull from the official AMEX dining API. Opens/updates a PR for human
+# review (docs/DATA.md: never auto-publish). A failed fetch fails the job, so
+# GitHub emails the owner and the existing snapshot stays untouched.
+on:
+  schedule:
+    - cron: '17 2 * * 1' # Mondays 02:17 UTC (10:17 HKT)
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Fetch fresh snapshot
+        shell: bash # explicit = -eo pipefail, so a failed fetch isn't masked by tee
+        run: |
+          python3 scripts/refresh.py --all --write | tee refresh-summary.txt
+          { echo '自動從 AMEX 官方 API 更新餐廳資料，請審閱後合併。'; echo; echo '新增餐廳如無座標，需按 docs/DATA.md 人工核對後加入 override。'; echo; echo '```'; cat refresh-summary.txt; echo '```'; } > pr-body.md
+      # PRs opened with GITHUB_TOKEN don't trigger verify.yml, so check here.
+      - run: python3 scripts/test_import.py
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/refresh-amex-data
+          add-paths: public/data/restaurants.json
+          commit-message: 'data: refresh AMEX dining snapshot'
+          title: 'data: 每週更新 AMEX 餐廳資料'
+          body-path: pr-body.md
+          draft: true
