@@ -1,22 +1,22 @@
 {
   "sourceUrl": "https://www.americanexpress.com/zh-hk/benefits/diningbenefit/",
   "apiUrl": "https://dining-offers-prod.amex.r53.tuimedia.com/api/country/{region}/merchants?origin=hk",
-  "fetchedAt": "2026-09-06T17:59:55.905828+00:00",
+  "fetchedAt": "2026-11-08T10:06:14.839055+00:00",
   "regions": [
-    "HK",
+    "AT",
     "AU",
+    "CA",
+    "DE",
+    "ES",
+    "FR",
+    "GB",
+    "HK",
+    "IT",
+    "MX",
     "NZ",
     "SG",
-    "TW",
     "TH",
-    "AT",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "GB",
-    "CA",
-    "MX",
+    "TW",
     "US"
   ],
   "restaurants": [
@@ -924,27 +924,6 @@
       }
     },
     {
-      "id": "9ebf9160-52b3-48e7-b039-03c9e6349c4a",
-      "name": "波士廳",
-      "nameEn": "The Sky Boss",
-      "address": "柯士甸道西1號 環球貿易廣場(ICC)101樓B2舖",
-      "addressEn": "Shop B2, 101/F, International Commerce Centre, 1 Austin Road West",
-      "district": "尖沙咀",
-      "cuisine": "中菜",
-      "website": "",
-      "phone": "+852 39551755",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Sky+Boss,+B2+101+International+Commercial+Center%2C+1+Austin+Road+West,+Tsim+Sha+Tsui&query_place_id=ChIJt_MFFZEABDQR-zYrB-GluAI",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "HK",
-      "coordinates": {
-        "lat": 22.3033609,
-        "lng": 114.1603082,
-        "source": "https://www.map.gov.hk/gs/api/v1.0.0/locationSearch?q=%E7%92%B0%E7%90%83%E8%B2%BF%E6%98%93%E5%BB%A3%E5%A0%B4",
-        "precision": "building"
-      }
-    },
-    {
       "id": "1b8b9b4d-6910-4d9e-84cb-ff5796bd6d98",
       "name": "The Steakhouse",
       "nameEn": "The Steakhouse",
@@ -1092,6 +1071,27 @@
       }
     },
     {
+      "id": "1dead8a1-1e66-49db-a4ad-3df28933c4aa",
+      "name": "24 York",
+      "nameEn": "24 York",
+      "address": "24 York St, Sydney",
+      "addressEn": "24 York St, Sydney",
+      "district": "New South Wales",
+      "cuisine": "扒房",
+      "website": "https://www.sevenrooms.com/explore/24york/reservations/create/search/",
+      "phone": "(02) 8099 7067",
+      "googleMapsUrl": "https://www.google.com/maps/search/24+York,+24+York+St%2C+Sydney,+New+South+Wales/@-33.8681348,151.206182",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.8681348,
+        "lng": 151.206182,
+        "source": "https://www.google.com/maps/search/24+York,+24+York+St%2C+Sydney,+New+South+Wales/@-33.8681348,151.206182",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "e3a740b7-1d76-403e-a409-c30fe5c61a3b",
       "name": "6HEAD",
       "nameEn": "6HEAD",
@@ -1129,6 +1129,27 @@
       }
     },
     {
+      "id": "3bd19758-ebf8-4036-a286-c991a0a6cc07",
+      "name": "7 Alfred",
+      "nameEn": "7 Alfred",
+      "address": "7 Alfred Pl, Melbourne",
+      "addressEn": "7 Alfred Pl, Melbourne",
+      "district": "Victoria",
+      "cuisine": "扒房",
+      "website": "https://www.sevenrooms.com/explore/sevenalfred/reservations/create/search/",
+      "phone": "(03) 8648 1999",
+      "googleMapsUrl": "https://www.google.com/maps/search/7+Alfred,+7+Alfred+Pl%2C+Melbourne,+Victoria/@-37.8140525,144.9699434",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -37.8140525,
+        "lng": 144.9699434,
+        "source": "https://www.google.com/maps/search/7+Alfred,+7+Alfred+Pl%2C+Melbourne,+Victoria/@-37.8140525,144.9699434",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "e5152f51-9d85-439b-a11b-16d209ea9294",
       "name": "Agnes",
       "nameEn": "Agnes",
@@ -1146,6 +1167,27 @@
         "lat": -27.4579396,
         "lng": 153.0308917,
         "source": "https://www.google.com/maps/search/Agnes,+22+Agnes+St%2C+Fortitude+Valley,+Queensland/@-27.4579396,153.0308917",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "11829e33-4eb6-4847-8ee9-d65c693d82e2",
+      "name": "Alpha Dining",
+      "nameEn": "Alpha Dining",
+      "address": "238 Castlereagh St, Sydney",
+      "addressEn": "238 Castlereagh St, Sydney",
+      "district": "New South Wales",
+      "cuisine": "希臘菜",
+      "website": "https://www.sevenrooms.com/explore/alphaau/reservations/create/search/",
+      "phone": "(02) 9098 1111",
+      "googleMapsUrl": "https://www.google.com/maps/search/Alpha+Dining,+238+Castlereagh+St%2C+Sydney,+New+South+Wales/@-33.875305,151.209152",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.875305,
+        "lng": 151.209152,
+        "source": "https://www.google.com/maps/search/Alpha+Dining,+238+Castlereagh+St%2C+Sydney,+New+South+Wales/@-33.875305,151.209152",
         "precision": "official-map-link"
       }
     },
@@ -1248,27 +1290,6 @@
       "isNew": false,
       "region": "AU",
       "coordinates": null
-    },
-    {
-      "id": "804e0f8b-1f05-4ac2-b759-8260c6798301",
-      "name": "Bentley Restaurant & Bar",
-      "nameEn": "Bentley Restaurant & Bar",
-      "address": "27 O'Connell St, Sydney",
-      "addressEn": "27 O'Connell St, Sydney",
-      "district": "New South Wales",
-      "cuisine": "澳洲菜",
-      "website": "https://www.thebentley.com.au/",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Bentley+Restaurant+%26+Bar,+27+O%27Connell+St%2C+Sydney,+New+South+Wales/@-33.8652017,151.2088233",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "AU",
-      "coordinates": {
-        "lat": -33.8652017,
-        "lng": 151.2088233,
-        "source": "https://www.google.com/maps/search/Bentley+Restaurant+%26+Bar,+27+O%27Connell+St%2C+Sydney,+New+South+Wales/@-33.8652017,151.2088233",
-        "precision": "official-map-link"
-      }
     },
     {
       "id": "2abe015f-d5c3-4dd3-9bc8-8af5f225c127",
@@ -1387,7 +1408,7 @@
       "phone": "(02) 9071 5000",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie+1930,+Shop+2%2F4+Farrer+Pl%2C+Sydney+NSW+2000,+New+South+Wales&query_place_id=ChIJNRzIbxOvEmsRdH9TPRyAt5w",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": null
     },
@@ -1571,7 +1592,7 @@
       "phone": "(02) 9331 6601",
       "googleMapsUrl": "https://www.google.com/maps/search/Cho+Cho+San,+73+Macleay+St%2C+Potts+Point+NSW+2011,+New+South+Wales/@-33.869544,151.225318",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": {
         "lat": -33.869544,
@@ -1623,6 +1644,27 @@
       }
     },
     {
+      "id": "b536c2ef-5d17-463a-bf60-065f1a0ffa71",
+      "name": "Felix",
+      "nameEn": "Felix",
+      "address": "2 Ash St, Sydney",
+      "addressEn": "2 Ash St, Sydney",
+      "district": "New South Wales",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/explore/felixaustralia/reservations/create/search/",
+      "phone": "(02) 9114 7303",
+      "googleMapsUrl": "https://www.google.com/maps/search/Felix,+2+Ash+St%2C+Sydney,+New+South+Wales/@-33.866682,151.207768",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.866682,
+        "lng": 151.207768,
+        "source": "https://www.google.com/maps/search/Felix,+2+Ash+St%2C+Sydney,+New+South+Wales/@-33.866682,151.207768",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "ed323906-9650-4e1d-95be-ce2aab7277de",
       "name": "French Exit",
       "nameEn": "French Exit",
@@ -1634,7 +1676,7 @@
       "phone": "(07) 3495 1775",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=French+Exit,+170+Mary+Street,+Brisbane&query_place_id=ChIJC89fCJFbkWsREgYfObzhQ7k",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": null
     },
@@ -1687,12 +1729,54 @@
       "phone": "(07) 3473 0006",
       "googleMapsUrl": "https://www.google.com/maps/search/Golden+Avenue,+67+Edward+Street,+Brisbane/@-27.4708311,153.0296138",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": {
         "lat": -27.4708311,
         "lng": 153.0296138,
         "source": "https://www.google.com/maps/search/Golden+Avenue,+67+Edward+Street,+Brisbane/@-27.4708311,153.0296138",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "606fa157-b3b2-498f-b7d5-7f5bb3588b5e",
+      "name": "Good Luck Restaurant",
+      "nameEn": "Good Luck Restaurant",
+      "address": "11 Bridge St, Sydney",
+      "addressEn": "11 Bridge St, Sydney",
+      "district": "New South Wales",
+      "cuisine": "中菜",
+      "website": "https://www.sevenrooms.com/explore/goodluck/reservations/create/search",
+      "phone": "(02) 8070 1311",
+      "googleMapsUrl": "https://www.google.com/maps/search/Good+Luck+Restaurant,+11+Bridge+St%2C+Sydney,+New+South+Wales/@-33.8638369,151.2080355",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.8638369,
+        "lng": 151.2080355,
+        "source": "https://www.google.com/maps/search/Good+Luck+Restaurant,+11+Bridge+St%2C+Sydney,+New+South+Wales/@-33.8638369,151.2080355",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "b3a104ee-f84a-49e8-a4f2-f627edc6f171",
+      "name": "Gran Torino",
+      "nameEn": "Gran Torino",
+      "address": "24 Bay Street, Double Bay",
+      "addressEn": "24 Bay Street, Double Bay",
+      "district": "New South Wales",
+      "cuisine": "意大利菜",
+      "website": "https://themargaretfamily.com/venue/gran-torino/",
+      "phone": "(02) 9871 9888",
+      "googleMapsUrl": "https://www.google.com/maps/search/Gran+Torino,+24+Bay+Street%2C+Double+Bay,+New+South+Wales/@-33.877412,151.2413795",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.877412,
+        "lng": 151.2413795,
+        "source": "https://www.google.com/maps/search/Gran+Torino,+24+Bay+Street%2C+Double+Bay,+New+South+Wales/@-33.877412,151.2413795",
         "precision": "official-map-link"
       }
     },
@@ -1840,7 +1924,7 @@
       "phone": "(03) 8594 0895",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ISHIZUKA,+B01%2F139+Bourke+St%2C+Melbourne+VIC+3000,+Victoria&query_place_id=ChIJ17QsrMlC1moRFEfRwhIPejk",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": null
     },
@@ -2013,6 +2097,27 @@
       }
     },
     {
+      "id": "e4fc6190-baa8-4390-89e7-20db231d51aa",
+      "name": "Margaret",
+      "nameEn": "Margaret",
+      "address": "30-36 Bay Street, Double Bay",
+      "addressEn": "30-36 Bay Street, Double Bay",
+      "district": "New South Wales",
+      "cuisine": "現代澳洲菜",
+      "website": "https://themargaretfamily.com/booking/margaret/",
+      "phone": "(02) 9068 8888",
+      "googleMapsUrl": "https://www.google.com/maps/search/Margaret,+30-36+Bay+Street%2C+Double+Bay,+New+South+Wales/@-33.8768885,151.2414835",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.8768885,
+        "lng": 151.2414835,
+        "source": "https://www.google.com/maps/search/Margaret,+30-36+Bay+Street%2C+Double+Bay,+New+South+Wales/@-33.8768885,151.2414835",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "e9dfdf0b-9873-4f5d-be44-cfdfb6538217",
       "name": "Matilda 159 Domain",
       "nameEn": "Matilda 159 Domain",
@@ -2129,7 +2234,7 @@
       "phone": "(02) 8354 0649",
       "googleMapsUrl": "https://www.google.com/maps/search/Olympus+Dining,+Wunderlich+Lane%2C+2+Baptist+St%2C+Redfern+NSW+2016,+New+South+Wales/@-33.8918937,151.2123161",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": {
         "lat": -33.8918937,
@@ -2281,39 +2386,23 @@
       }
     },
     {
-      "id": "016256c4-251f-46af-b38a-2b266c8d5fa2",
-      "name": "Saké Restaurant & Bar Double Bay",
-      "nameEn": "Saké Restaurant & Bar Double Bay",
-      "address": "The Intercontinental Hotel, 33 Cross St, Double Bay",
-      "addressEn": "The Intercontinental Hotel, 33 Cross St, Double Bay",
+      "id": "1a8c39f8-d359-4e73-ad5a-1d986375c102",
+      "name": "Sahtein",
+      "nameEn": "Sahtein",
+      "address": "18 Argyle St, Sydney",
+      "addressEn": "18 Argyle St, Sydney",
       "district": "New South Wales",
-      "cuisine": "日本菜",
-      "website": "https://www.sevenrooms.com/reservations/sakerestaurantandbardoublebay/sake-double-bay-widget?venues=sakerestaurantandbartherocks,sakerestaurantandbardoublebay,sakerestaurantandbarmanlywharf,spicetemplesydney,rockpoolbargrillsydney&_gl=1*1wtofya*_ga*MTM0MDA2ODg0LjE3MjQxMjgyMTQ.*_ga_0BF7PQ84V7*MTcyODM2NDIyNy40LjEuMTcyODM2NDI2Ni4yMS4wLjI0NjA1NTEyNQ..*_ga_9PJKSHCVF6*MTcyODM2NDIyNy40LjEuMTcyODM2NDI2Ni4wLjAuMA..",
-      "phone": "(02) 8017 3104",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sak%C3%A9+Restaurant+%26+Bar+Double+Bay,+The+Intercontinental+Hotel%2C+33+Cross+St%2C+Double+Bay,+New+South+Wales&query_place_id=ChIJVWBDct2tEmsRN2oxwNiy5Qo",
-      "isInHotel": true,
-      "isNew": false,
-      "region": "AU",
-      "coordinates": null
-    },
-    {
-      "id": "a368f0fc-b265-4442-a9f6-359f8db37110",
-      "name": "Saké Restaurant & Bar Hammer Hall",
-      "nameEn": "Saké Restaurant & Bar Hammer Hall",
-      "address": "Hamer Hall Precinct, Southbank Promenade, Southbank",
-      "addressEn": "Hamer Hall Precinct, Southbank Promenade, Southbank",
-      "district": "Victoria",
-      "cuisine": "日本菜",
-      "website": "https://www.sevenrooms.com/reservations/sakerestaurantbarhammerhall/sake-hamer-widget?venues=rosettaristorantemelbourne,sakerestaurantbarhammerhall,spicetemplemelbournevictoria,rockpoolmelbourne&_gl=1*9o12ug*_ga*MTM0MDA2ODg0LjE3MjQxMjgyMTQ.*_ga_0BF7PQ84V7*MTcyODM2NDIyNy40LjEuMTcyODM2NDU5OC42MC4wLjI0NjA1NTEyNQ..*_ga_9PJKSHCVF6*MTcyODM2NDIyNy40LjEuMTcyODM2NDU5OC4wLjAuMA..",
-      "phone": "(03) 9119 4799",
-      "googleMapsUrl": "https://www.google.com/maps/search/Sak%C3%A9+Restaurant+%26+Bar+Hammer+Hall,+Hamer+Hall+Precinct%2C+Southbank+Promenade%2C+Southbank,+Victoria/@-37.8197514,144.9676524",
+      "cuisine": "Lebanese",
+      "website": "https://www.sevenrooms.com/explore/sahtein/reservations/create/search/",
+      "phone": "(02) 8099 7066",
+      "googleMapsUrl": "https://www.google.com/maps/search/Sahtein,+18+Argyle+St%2C+Sydney,+New+South+Wales/@-33.8587917,151.207893",
       "isInHotel": false,
-      "isNew": false,
+      "isNew": true,
       "region": "AU",
       "coordinates": {
-        "lat": -37.8197514,
-        "lng": 144.9676524,
-        "source": "https://www.google.com/maps/search/Sak%C3%A9+Restaurant+%26+Bar+Hammer+Hall,+Hamer+Hall+Precinct%2C+Southbank+Promenade%2C+Southbank,+Victoria/@-37.8197514,144.9676524",
+        "lat": -33.8587917,
+        "lng": 151.207893,
+        "source": "https://www.google.com/maps/search/Sahtein,+18+Argyle+St%2C+Sydney,+New+South+Wales/@-33.8587917,151.207893",
         "precision": "official-map-link"
       }
     },
@@ -2534,7 +2623,7 @@
       "phone": "(02) 8354 0888",
       "googleMapsUrl": "https://www.google.com/maps/search/The+Apollo+Restaurant,+44+Macleay+St%2C+Potts+Points+NSW+2011,+New+South+Wales/@-33.8708503,151.2253578",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": {
         "lat": -33.8708503,
@@ -2639,12 +2728,54 @@
       "phone": "(07) 3236 6582",
       "googleMapsUrl": "https://www.google.com/maps/search/Yoko+Dining,+2%2F5+Boundary+St%2C+Brisbane+City+QLD+4000,+Queensland/@-27.4624548,153.0353139",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AU",
       "coordinates": {
         "lat": -27.4624548,
         "lng": 153.0353139,
         "source": "https://www.google.com/maps/search/Yoko+Dining,+2%2F5+Boundary+St%2C+Brisbane+City+QLD+4000,+Queensland/@-27.4624548,153.0353139",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "2a4ecc6d-02af-4eba-8f41-3219546469b8",
+      "name": "Zushi",
+      "nameEn": "Zushi",
+      "address": "285A Crown Street, Surry Hills",
+      "addressEn": "285A Crown Street, Surry Hills",
+      "district": "New South Wales",
+      "cuisine": "日本菜",
+      "website": "https://zushi.com.au/book-online/surry-hills/",
+      "phone": "(02) 9380 8830",
+      "googleMapsUrl": "https://www.google.com/maps/search/Zushi,+285A+Crown+Street%2C+Surry+Hills,+New+South+Wales/@-33.881331,151.214503",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.881331,
+        "lng": 151.214503,
+        "source": "https://www.google.com/maps/search/Zushi,+285A+Crown+Street%2C+Surry+Hills,+New+South+Wales/@-33.881331,151.214503",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "898a27ee-b275-41ba-8236-99ecc6c15c82",
+      "name": "Zushi",
+      "nameEn": "Zushi",
+      "address": "Barangaroo Alexander, 10/33 Barangaroo Ave",
+      "addressEn": "Barangaroo Alexander, 10/33 Barangaroo Ave",
+      "district": "New South Wales",
+      "cuisine": "日本菜",
+      "website": "https://zushi.com.au/book-online/barangaroo/",
+      "phone": "(02) 8072 7383",
+      "googleMapsUrl": "https://www.google.com/maps/search/Zushi,+Barangaroo+Alexander%2C+10%2F33+Barangaroo+Ave,+New+South+Wales/@-33.8648912,151.2012965",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AU",
+      "coordinates": {
+        "lat": -33.8648912,
+        "lng": 151.2012965,
+        "source": "https://www.google.com/maps/search/Zushi,+Barangaroo+Alexander%2C+10%2F33+Barangaroo+Ave,+New+South+Wales/@-33.8648912,151.2012965",
         "precision": "official-map-link"
       }
     },
@@ -3590,6 +3721,27 @@
       "coordinates": null
     },
     {
+      "id": "4bda9f5a-eed8-4c1d-b272-123b98fd71cf",
+      "name": "Boon Tong Kee (Balestier Road)",
+      "nameEn": "Boon Tong Kee (Balestier Road)",
+      "address": "401 Balestier Road",
+      "addressEn": "401 Balestier Road",
+      "district": "Singapore",
+      "cuisine": "亞洲菜",
+      "website": "https://boontongkee.com.sg/",
+      "phone": "6254 3937",
+      "googleMapsUrl": "https://www.google.com/maps/search/Boon+Tong+Kee+%28Balestier+Road%29,+401+Balestier+Road,+Singapore/@1.3255172,103.8495448",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "SG",
+      "coordinates": {
+        "lat": 1.3255172,
+        "lng": 103.8495448,
+        "source": "https://www.google.com/maps/search/Boon+Tong+Kee+%28Balestier+Road%29,+401+Balestier+Road,+Singapore/@1.3255172,103.8495448",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "d9f79671-e929-4ece-9fa0-732da59068db",
       "name": "Brasserie Astoria",
       "nameEn": "Brasserie Astoria",
@@ -3812,6 +3964,27 @@
       "coordinates": null
     },
     {
+      "id": "34fa1026-576e-4129-922a-a7d7e5920747",
+      "name": "Luke's Oyster Bar & Chop House",
+      "nameEn": "Luke's Oyster Bar & Chop House",
+      "address": "22 Gemmill Lane",
+      "addressEn": "22 Gemmill Lane",
+      "district": "Singapore",
+      "cuisine": "西式",
+      "website": "https://www.sevenrooms.com/reservations/lukes?venues=lukes,nixtamexicangrillbar,theclubroom",
+      "phone": "8125 5256",
+      "googleMapsUrl": "https://www.google.com/maps/search/Luke%27s+Oyster+Bar+%26+Chop+House,+22+Gemmill+Lane,+Singapore/@1.282187,103.847226",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "SG",
+      "coordinates": {
+        "lat": 1.282187,
+        "lng": 103.847226,
+        "source": "https://www.google.com/maps/search/Luke%27s+Oyster+Bar+%26+Chop+House,+22+Gemmill+Lane,+Singapore/@1.282187,103.847226",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "9332cfe5-2e54-49fa-914c-b9571edf929c",
       "name": "Marguerite",
       "nameEn": "Marguerite",
@@ -3981,6 +4154,22 @@
       "website": "https://www.sevenrooms.com/experiences/somma",
       "phone": "97561590",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Somma,+New+Bahru%2C+%2304-02%2C+46+Kim+Yam+Road,+Singapore&query_place_id=ChIJgQ9JtbEZ2jERnXxDl-k6EaU",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "SG",
+      "coordinates": null
+    },
+    {
+      "id": "22d247db-99d0-4870-9188-03ae9a94db1f",
+      "name": "Sospiri",
+      "nameEn": "Sospiri",
+      "address": "2 Central Boulevard #07-02/03 IOI Central Boulevard Towers",
+      "addressEn": "2 Central Boulevard #07-02/03 IOI Central Boulevard Towers",
+      "district": "Singapore",
+      "cuisine": "意大利菜",
+      "website": "https://www.sevenrooms.com/experiences/sospiri",
+      "phone": "9478 0906",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sospiri,+2+Central+Boulevard+%2307-02%2F03+IOI+Central+Boulevard+Towers,+Singapore&query_place_id=ChIJK_76NzQZ2jERKWUjpJhq3vE",
       "isInHotel": false,
       "isNew": true,
       "region": "SG",
@@ -4167,6 +4356,22 @@
       "coordinates": null
     },
     {
+      "id": "d406e23f-6d1a-4417-9201-96167b515e10",
+      "name": "Anan Sushi",
+      "nameEn": "Anan Sushi",
+      "address": "No. 62, Sec. 1, Jiafeng South Rd., Zhongxing Vil., Zhubei City,",
+      "addressEn": "No. 62, Sec. 1, Jiafeng South Rd., Zhongxing Vil., Zhubei City,",
+      "district": "Hsinchu County",
+      "cuisine": "日本菜",
+      "website": "https://inline.app/booking/-MndiychcKkG5C7tlSFi:inline-live-2/-Mndiyn9de2Nulvq69da?language=zh-tw",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/baoWgxHtFE1hU8ny6",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "TW",
+      "coordinates": null
+    },
+    {
       "id": "af3e4366-0692-44e4-8136-aaf353390a89",
       "name": "Aosugi Yakiniku",
       "nameEn": "Aosugi Yakiniku",
@@ -4178,7 +4383,7 @@
       "phone": "886984189958",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aosugi+Yakiniku,+No.+8%2C+Aly.+4%2C+Ln.+345%2C+Sec.+4%2C+Ren%E2%80%99ai+Rd.%2C+Da%E2%80%99an+Dist.,+Taipei+City&query_place_id=ChIJ0T4eQzarQjQRg74zdaclK2o",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": null
     },
@@ -4231,7 +4436,7 @@
       "phone": "886227155133",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaud+Doux,+No.+11%2C+Aly.+6%2C+Ln.+113%2C+Sec.+3%2C+Minsheng+E.+Rd.%2C+Songshan+Dist.,+Taipei+City&query_place_id=ChIJ_WPmRQCrQjQRV740cm9ceos",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": null
     },
@@ -4283,6 +4488,22 @@
       "website": "",
       "phone": "886227790146",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%89CRU+French+Restaurant,+No.+19%2C+Ln.+177%2C+Sec.+1%2C+Dunhua+S.+Rd.%2C+Da%E2%80%99an+Dist.,+Taipei+City&query_place_id=ChIJpfZabJqrQjQR2bzES-1a1ow",
+      "isInHotel": false,
+      "isNew": false,
+      "region": "TW",
+      "coordinates": null
+    },
+    {
+      "id": "a151b301-1913-461b-a2ee-ea9d4431bea2",
+      "name": "Firoo",
+      "nameEn": "Firoo",
+      "address": "No. 66, Shengli 6th St., Shixing Vil., Zhubei City,",
+      "addressEn": "No. 66, Shengli 6th St., Shixing Vil., Zhubei City,",
+      "district": "Hsinchu County",
+      "cuisine": "融合菜",
+      "website": "https://inline.app/booking/-OFoW-iEqQ_cMlTK4BVI:inline-live-3/-OFoW-vY9Grt7iOtIr5y",
+      "phone": "886 3 668 1557",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Firoo,+No.+66%2C+Shengli+6th+St.%2C+Shixing+Vil.%2C+Zhubei+City%2C,+Hsinchu+County&query_place_id=ChIJjbbgW-Q2aDQRiKTiWX5j680",
       "isInHotel": false,
       "isNew": true,
       "region": "TW",
@@ -4347,6 +4568,27 @@
       }
     },
     {
+      "id": "4252be93-aa3d-4e53-83f7-374e6fee94fa",
+      "name": "FUKAI",
+      "nameEn": "FUKAI",
+      "address": "No. 2, Ln. 512, Dongning Rd., East Dist.,",
+      "addressEn": "No. 2, Ln. 512, Dongning Rd., East Dist.,",
+      "district": "Tainan City",
+      "cuisine": "現代料理",
+      "website": "https://inline.app/booking/-OCpbgkyToeXBuNYyt-D:inline-live-3/-OCpbgrhKQ4slR95jJB2?language=zh-tw",
+      "phone": "886 6 238 7366",
+      "googleMapsUrl": "https://www.google.com/maps/search/FUKAI,+No.+2%2C+Ln.+512%2C+Dongning+Rd.%2C+East+Dist.%2C,+Tainan+City/@22.9889201,120.2306919",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "TW",
+      "coordinates": {
+        "lat": 22.9889201,
+        "lng": 120.2306919,
+        "source": "https://www.google.com/maps/search/FUKAI,+No.+2%2C+Ln.+512%2C+Dongning+Rd.%2C+East+Dist.%2C,+Tainan+City/@22.9889201,120.2306919",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "1ed8e92d-667f-4041-b0b4-39fc553c5b3b",
       "name": "Go eat Tapas Dining BAR",
       "nameEn": "Go eat Tapas Dining BAR",
@@ -4379,7 +4621,7 @@
       "phone": "886911861029",
       "googleMapsUrl": "https://maps.app.goo.gl/qUVygobEF6EnmxKCA",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": null
     },
@@ -4432,7 +4674,7 @@
       "phone": "886422584668",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Infiore,+1F.%2C+No.+891%2C+Sec.+2%2C+Liming+Rd.%2C+Xitun+Dist.,+Taichung+City&query_place_id=ChIJnWqGFCk9aTQR6xXOtotxKkE",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": null
     },
@@ -4454,6 +4696,27 @@
         "lat": 25.0494643,
         "lng": 121.5362687,
         "source": "https://www.google.com/maps/search/J+Garden,+No.+80%2C+Sec.+1%2C+Jianguo+N.+Rd.%2C+Zhongshan+Dist.,+Taipei+City/@25.0494643,121.5362687",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "27543aeb-9f4d-4683-9816-e1a6707e4a43",
+      "name": "J parc",
+      "nameEn": "J parc",
+      "address": "No. 1, Dexing St., Sanmin Dist.,",
+      "addressEn": "No. 1, Dexing St., Sanmin Dist.,",
+      "district": "Kaohsiung City",
+      "cuisine": "法國菜",
+      "website": "https://inline.app/booking/-NQ93vCUcc2MvOHG_0il:inline-live-3/-NQ93vP5xozK_oxl6bMA",
+      "phone": "886 7 323 0600",
+      "googleMapsUrl": "https://www.google.com/maps/search/J+parc,+No.+1%2C+Dexing+St.%2C+Sanmin+Dist.%2C,+Kaohsiung+City/@22.6466529,120.2905596",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "TW",
+      "coordinates": {
+        "lat": 22.6466529,
+        "lng": 120.2905596,
+        "source": "https://www.google.com/maps/search/J+parc,+No.+1%2C+Dexing+St.%2C+Sanmin+Dist.%2C,+Kaohsiung+City/@22.6466529,120.2905596",
         "precision": "official-map-link"
       }
     },
@@ -4544,6 +4807,38 @@
       "googleMapsUrl": "https://goo.gl/maps/9iELZaYwsgDZJugx6",
       "isInHotel": false,
       "isNew": false,
+      "region": "TW",
+      "coordinates": null
+    },
+    {
+      "id": "a8f9f5fc-f86e-4563-b191-80ca65dc16ab",
+      "name": "Li Yueh",
+      "nameEn": "Li Yueh",
+      "address": "No. 101, Xianzheng 13th Rd., Beilun Vil., Zhubei City,",
+      "addressEn": "No. 101, Xianzheng 13th Rd., Beilun Vil., Zhubei City,",
+      "district": "Hsinchu County",
+      "cuisine": "日本菜",
+      "website": "https://inline.app/booking/-NVi9s9pHaZe0NxmSgLu:inline-live-3/-NVi9sOPSn6s1ylEdpKr",
+      "phone": "886 3 553 0222",
+      "googleMapsUrl": "https://maps.app.goo.gl/UeJ6nY1DizNC31nY6",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "TW",
+      "coordinates": null
+    },
+    {
+      "id": "95dd1da7-d75b-4eac-84f0-3541a7ad3159",
+      "name": "Lin.nu",
+      "nameEn": "Lin.nu",
+      "address": "No. 802, Zhonghua 5th Rd., Jianlong Vil., Cianjhen Dist.,",
+      "addressEn": "No. 802, Zhonghua 5th Rd., Jianlong Vil., Cianjhen Dist.,",
+      "district": "Kaohsiung City",
+      "cuisine": "現代料理",
+      "website": "https://inline.app/booking/-M7l2YE8Z6DGMDm-e2VZ:inline-live-1/-M7l2YI4X22m69rO54KN?language=zh-tw",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/nJNAM4ErvKkCw3EM9",
+      "isInHotel": false,
+      "isNew": true,
       "region": "TW",
       "coordinates": null
     },
@@ -4670,7 +4965,7 @@
       "phone": "886422518246",
       "googleMapsUrl": "https://maps.app.goo.gl/jWpHvBnohJgNxF1g7",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": null
     },
@@ -4702,7 +4997,7 @@
       "phone": "886266057576",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ORIGEN+%28Authentic+Spanish+Restaurant%29,+B1%2C+No.+25%2C+Sec.+3%2C+Bade+Rd.%2C+Songshan+Dist.,+Taipei+City&query_place_id=ChIJJ9QDRgCrQjQR2-XDd6Oz4xc",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": null
     },
@@ -4718,7 +5013,7 @@
       "phone": "886423225108",
       "googleMapsUrl": "https://www.google.com/maps/search/PI+restaurant,+No.+373%2C+Dajin+St.%2C+Nantun+Dist.,+Taichung+City/@24.1493343,120.6512223",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": {
         "lat": 24.1493343,
@@ -4807,6 +5102,22 @@
       }
     },
     {
+      "id": "1cf76dc1-63ee-486a-8866-82d0f9d4c4a4",
+      "name": "SABI",
+      "nameEn": "SABI",
+      "address": "1F, No. 92, Chenggong 10th St., Luchang Vil., Zhubei City,",
+      "addressEn": "1F, No. 92, Chenggong 10th St., Luchang Vil., Zhubei City,",
+      "district": "Hsinchu County",
+      "cuisine": "融合菜",
+      "website": "https://inline.app/booking/-NLtdHgjGRuzOF5kG4LK:inline-live-3",
+      "phone": "886 3 657 8650",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=SABI,+1F%2C+No.+92%2C+Chenggong+10th+St.%2C+Luchang+Vil.%2C+Zhubei+City%2C,+Hsinchu+County&query_place_id=ChIJ0wMCYVM3aDQRSaABLzBPJkU",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "TW",
+      "coordinates": null
+    },
+    {
       "id": "4dd8c624-bed5-45e5-a0a4-9c18fd1f0ef4",
       "name": "SHO",
       "nameEn": "SHO",
@@ -4892,7 +5203,7 @@
       "phone": "886225084577",
       "googleMapsUrl": "https://www.google.com/maps/search/Torichikara,+No.+125%2C+Sec.+2%2C+Jianguo+N.+Rd.%2C+Zhongshan+Dist.,+Taipei+City/@25.0598332,121.5373479",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TW",
       "coordinates": {
         "lat": 25.0598332,
@@ -5104,6 +5415,27 @@
         "lat": 13.7245013,
         "lng": 100.516239,
         "source": "https://www.google.com/maps/search/Aksorn,+1266+Charoenkrung+Rd.%2C+Bangrak%2C+Bangrak,+Bangkok/@13.7245013,100.516239",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "d3e78d31-6907-42db-acdc-887ac3418d03",
+      "name": "Armenio's Modern Grandma",
+      "nameEn": "Armenio's Modern Grandma",
+      "address": "48 Saphan Khu Alley, Thung Maha Mek, Sathon",
+      "addressEn": "48 Saphan Khu Alley, Thung Maha Mek, Sathon",
+      "district": "Bangkok",
+      "cuisine": "意大利菜",
+      "website": "https://armeniosmoderngrandma.com/reservation/",
+      "phone": "096-948-4389",
+      "googleMapsUrl": "https://www.google.com/maps/search/Armenio%27s+Modern+Grandma,+48+Saphan+Khu+Alley%2C+Thung+Maha+Mek%2C+Sathon,+Bangkok/@13.7219907,100.5479364",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "TH",
+      "coordinates": {
+        "lat": 13.7219907,
+        "lng": 100.5479364,
+        "source": "https://www.google.com/maps/search/Armenio%27s+Modern+Grandma,+48+Saphan+Khu+Alley%2C+Thung+Maha+Mek%2C+Sathon,+Bangkok/@13.7219907,100.5479364",
         "precision": "official-map-link"
       }
     },
@@ -5388,7 +5720,7 @@
       "phone": "+66 9 2441 6547",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=KHAAN,+14%2F3+Soi+Somkid%2C+Lumphini%2C+Pathum+Wan,+Bangkok&query_place_id=ChIJm68HaIqf4jARhHLocwFgtyg",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": null
     },
@@ -5483,7 +5815,7 @@
       "phone": "+66 92 976 6995",
       "googleMapsUrl": "https://www.google.com/maps/search/Marigold,+502+Gaysorn+Amarin%2C+3rd+Floor%2C+Phloenchit+Rd.%2C+Lumphini%2C+Pathumwan,+Bangkok/@13.7439979,100.5413947",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": {
         "lat": 13.7439979,
@@ -5525,7 +5857,7 @@
       "phone": "098-8629659",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MIA+Bangkok,+29+Soi+Atthakrawi+1%2C+Khlongtan%2C+Khlongtoei,+Bangkok&query_place_id=ChIJTbzH3iWf4jARdfwR4GLGTZ8",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": null
     },
@@ -5647,7 +5979,7 @@
       "phone": "+66 92 976 6995",
       "googleMapsUrl": "https://www.google.com/maps/search/Raynue,+502+Gaysorn+Amarin%2C+3rd+Floor%2C+Phloenchit+Rd.%2C+Lumphini%2C+Pathumwan,+Bangkok/@13.7440214,100.5413333",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": {
         "lat": 13.7440214,
@@ -5705,7 +6037,7 @@
       "phone": "+66 2 256 6551",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal+Osha,+99+Wireless+Rd%2C+Lumphini%2C+Pathum+Wan,+Bangkok&query_place_id=ChIJH2rBq9ie4jAR2kriHxu0cJ4",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": null
     },
@@ -5763,7 +6095,7 @@
       "phone": "+66 88 269 4474",
       "googleMapsUrl": "https://maps.app.goo.gl/LN8wLsXyed7PzmMg7",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": null
     },
@@ -5800,7 +6132,7 @@
       "phone": "+66 81 542 8941",
       "googleMapsUrl": "https://www.google.com/maps/search/Sushi+Olderchef,+14%2C+16+Soi+Lat+Phrao+71%2C+Saphansong%2C+Wangthonglang,+Bangkok/@13.789174,100.6083308",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": {
         "lat": 13.789174,
@@ -5837,7 +6169,7 @@
       "phone": "064-5693798",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapori,+22%2F2+Sukhumvit+47%2C+Sukhumvit+Rd.%2C+Khlongtoei+Nuea%2C+Wattana,+Bangkok&query_place_id=ChIJ8ynAp7mf4jAR1d2faDTx7RA",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": null
     },
@@ -5858,6 +6190,27 @@
       "coordinates": null
     },
     {
+      "id": "de3562dd-8909-4214-9669-4f248b601844",
+      "name": "The China House by Chef Fei",
+      "nameEn": "The China House by Chef Fei",
+      "address": "Mandarin Oriental, 48 Oriental Avenue",
+      "addressEn": "Mandarin Oriental, 48 Oriental Avenue",
+      "district": "Bangkok",
+      "cuisine": "中菜",
+      "website": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/dine/the-china-house-by-chef-fei",
+      "phone": "+66 (0) 2 659 9000",
+      "googleMapsUrl": "https://www.google.com/maps/search/The+China+House+by+Chef+Fei,+Mandarin+Oriental%2C+48+Oriental+Avenue,+Bangkok/@13.723973,100.514249",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "TH",
+      "coordinates": {
+        "lat": 13.723973,
+        "lng": 100.514249,
+        "source": "https://www.google.com/maps/search/The+China+House+by+Chef+Fei,+Mandarin+Oriental%2C+48+Oriental+Avenue,+Bangkok/@13.723973,100.514249",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "59e64a4b-984f-4a07-8b92-b74c62a7107d",
       "name": "The Pablo Bangkok",
       "nameEn": "The Pablo Bangkok",
@@ -5869,7 +6222,7 @@
       "phone": "+66 63 272 3819",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Pablo+Bangkok,+2%2C+Quant+Tower%2C+1st+Floor%2C+Soi+Sukhumvit+25%2C+Khlong+Toei+Nuea%2C+Watthana,+Bangkok&query_place_id=ChIJecgVhlOf4jAR8vNon4xfBfs",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": null
     },
@@ -5885,7 +6238,7 @@
       "phone": "+66 (0) 76 580 333 / +66 (0) 62 245 7745",
       "googleMapsUrl": "https://www.google.com/maps/search/The+SEASONS,+33%2C+Khok+Kloi%2C+Takua+Thung+District,+Phang+Nga/@8.254472,98.2813612",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": {
         "lat": 8.254472,
@@ -5922,7 +6275,7 @@
       "phone": "+66 84 237 1636",
       "googleMapsUrl": "https://www.google.com/maps/search/XIAN+YUAN,+946+5th+Floor%2C+Rama+IV+Rd%2C+Si+Lom%2C+Bang+Rak,+Bangkok/@13.7281923,100.5381611",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "TH",
       "coordinates": {
         "lat": 13.7281923,
@@ -6016,6 +6369,27 @@
       }
     },
     {
+      "id": "10301a4d-4b32-40ea-8b13-e096d4f6fc43",
+      "name": "Atelier Fischer",
+      "nameEn": "Atelier Fischer",
+      "address": "Ischlerstraße 16",
+      "addressEn": "Ischlerstraße 16",
+      "district": "Stankt Gilgen",
+      "cuisine": "高級餐廳",
+      "website": "https://www.atelier-fischer.at/",
+      "phone": "0043 6642661710",
+      "googleMapsUrl": "https://www.google.com/maps/search/Atelier+Fischer,+Ischlerstra%C3%9Fe+16,+Stankt+Gilgen/@47.765944,13.3679344",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 47.765944,
+        "lng": 13.3679344,
+        "source": "https://www.google.com/maps/search/Atelier+Fischer,+Ischlerstra%C3%9Fe+16,+Stankt+Gilgen/@47.765944,13.3679344",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "54cbc002-f2e8-49e9-b005-f4cdcce3e573",
       "name": "AUSTRIA STUBEN",
       "nameEn": "AUSTRIA STUBEN",
@@ -6027,7 +6401,7 @@
       "phone": "0043 5256 6511",
       "googleMapsUrl": "https://www.google.com/maps/search/AUSTRIA+STUBEN,+Kressbrunnenweg+3-4,+Obergurgl/@46.8710658,11.0286111",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.8710658,
@@ -6069,7 +6443,7 @@
       "phone": "0043 1 99 74 155",
       "googleMapsUrl": "https://www.google.com/maps/search/beef+%26+glory+-+Steakerei,+Florianigasse+35,+Wien/@48.211805,16.3488167",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.211805,
@@ -6090,7 +6464,7 @@
       "phone": "+43 1 4050370",
       "googleMapsUrl": "https://www.google.com/maps/search/BOLENA,+Lange+Gasse+61,+Wien/@48.2138824,16.350935",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2138824,
@@ -6174,7 +6548,7 @@
       "phone": "0043 5444 5633",
       "googleMapsUrl": "https://www.google.com/maps/search/Champagnerhuette,+Dorfstra%C3%9Fe+85,+Ischgl/@47.0084425,10.287862",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.0084425,
@@ -6211,7 +6585,7 @@
       "phone": "0043 6542 5410506",
       "googleMapsUrl": "https://www.google.com/maps/search/DAS+VOGL,+Kirchenweg+11,+Zell+am+See/@47.3037971,12.7944926",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.3037971,
@@ -6232,7 +6606,7 @@
       "phone": "0043 4254 21910",
       "googleMapsUrl": "https://www.google.com/maps/search/DER+TSCHEBULL,+Egger+Seeuferstra%C3%9Fe+26,+Egg+am+Faaker+See/@46.5866738,13.935017",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.5866738,
@@ -6253,7 +6627,7 @@
       "phone": "+43 3453 22291",
       "googleMapsUrl": "https://www.google.com/maps/search/Die+Weinbank,+Hauptstra%C3%9Fe+44,+Ehrenhausen+an+der+Weinstra%C3%9Fe/@46.7243022,15.5858936",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.7243022,
@@ -6295,7 +6669,7 @@
       "phone": "0043 1 5269448",
       "googleMapsUrl": "https://www.google.com/maps/search/DURCHHAUS,+Neustiftgasse+16,+Wien/@48.2054531,16.3532644",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2054531,
@@ -6316,7 +6690,7 @@
       "phone": "0043 1 3203218",
       "googleMapsUrl": "https://www.google.com/maps/search/ECKEL,+Sieveringerstra%C3%9Fe+46,+Wien/@48.2470381,16.3334771",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2470381,
@@ -6437,7 +6811,7 @@
       "phone": "0043 664 3437779",
       "googleMapsUrl": "https://www.google.com/maps/search/Everybody%C2%B4s+Darling+Esszimmer,+Tuchlauben+22,+Wien/@48.2109781,16.3717238",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2109781,
@@ -6542,7 +6916,7 @@
       "phone": "+43 7682 42996",
       "googleMapsUrl": "https://www.google.com/maps/search/Gasthaus+die+Schmiede,+Pfaffing+7,+Pfaffing/@48.0179599,13.4821326",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.0179599,
@@ -6563,7 +6937,7 @@
       "phone": "0043 1 3583069",
       "googleMapsUrl": "https://www.google.com/maps/search/Gasthaus+Fat+George,+Esslinger+Hauptstra%C3%9Fe+2,+Wien/@48.2144087,16.5106425",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2144087,
@@ -6605,7 +6979,7 @@
       "phone": "0043 3385 260",
       "googleMapsUrl": "https://www.google.com/maps/search/Gasthaus+Haberl,+Walkersdorf+23,+Ilz/@47.0548096,15.9254624",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.0548096,
@@ -6710,7 +7084,7 @@
       "phone": "+43 664 4081515",
       "googleMapsUrl": "https://www.google.com/maps/search/GASTOHF+SCHLOSS+AIGEN,+Schwarzenbergpromenade+37,+Salzburg/@47.7864308,13.0887575",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.7864308,
@@ -6747,7 +7121,7 @@
       "phone": "+43 6132 23722",
       "googleMapsUrl": "https://www.google.com/maps/search/Grand+Caf%C3%A9+%26+Restaurant+Esplanade,+Hasnerallee+2,+Bad+Ischl/@47.7095352,13.61847",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.7095352,
@@ -6757,20 +7131,25 @@
       }
     },
     {
-      "id": "e80f5bdd-38fb-42c3-a6eb-79ffa407127b",
-      "name": "Hari1090 by Kumar’s Kitchen",
-      "nameEn": "Hari1090 by Kumar’s Kitchen",
-      "address": "Althanstraße 51",
-      "addressEn": "Althanstraße 51",
-      "district": "Wien",
-      "cuisine": "印度融合菜",
-      "website": "https://hari1090.com/",
-      "phone": "",
-      "googleMapsUrl": "https://maps.app.goo.gl/tKmqk4ybNZ7Vczg99",
-      "isInHotel": false,
-      "isNew": false,
+      "id": "a67ce428-6d72-4f78-a0a8-bf36a83cccea",
+      "name": "Gutshofrestaurant",
+      "nameEn": "Gutshofrestaurant",
+      "address": "Prandtauerplatz 36",
+      "addressEn": "Prandtauerplatz 36",
+      "district": "Weißenkirchen in der Wachau",
+      "cuisine": "奧地利菜",
+      "website": "https://www.holzapfel.at/gutshofrestaurant/",
+      "phone": "+43 2715 2310",
+      "googleMapsUrl": "https://www.google.com/maps/search/Gutshofrestaurant,+Prandtauerplatz+36,+Wei%C3%9Fenkirchen+in+der+Wachau/@48.385687,15.4603228",
+      "isInHotel": true,
+      "isNew": true,
       "region": "AT",
-      "coordinates": null
+      "coordinates": {
+        "lat": 48.385687,
+        "lng": 15.4603228,
+        "source": "https://www.google.com/maps/search/Gutshofrestaurant,+Prandtauerplatz+36,+Wei%C3%9Fenkirchen+in+der+Wachau/@48.385687,15.4603228",
+        "precision": "official-map-link"
+      }
     },
     {
       "id": "41c88518-44a6-4dd9-b1fd-11496ec17820",
@@ -6826,7 +7205,7 @@
       "phone": "+43 664 6113167",
       "googleMapsUrl": "https://www.google.com/maps/search/HOSPIZ+ALM,+St.+Christoph+18,+St.+Anton+am+Arlberg/@47.1276136,10.2159323",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.1276136,
@@ -6884,7 +7263,7 @@
       "phone": "0043 2176 2610800",
       "googleMapsUrl": "https://www.google.com/maps/search/INFINITY+-+The+Restaurant,+Resortplatz+1,+Andau/@48.0229978,12.9137996",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.0229978,
@@ -6989,7 +7368,7 @@
       "phone": "0043 2714 6384",
       "googleMapsUrl": "https://www.google.com/maps/search/Landgasthaus+Essl,+R%C3%BChrsdorf+17,+R%C3%BChrsdorf/@48.3989988,15.4845268",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.3989988,
@@ -7031,7 +7410,7 @@
       "phone": "+43 1 5121172",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loca,+Stubenbastei+10%2F1,+Wien&query_place_id=ChIJKwf3NpkHbUcRmGgVNdvnk5Q",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": null
     },
@@ -7163,7 +7542,7 @@
       "phone": "+43 6542 72 9110",
       "googleMapsUrl": "https://www.google.com/maps/search/Mayer%27s+Restaurant,+Hofmannsthalstra%C3%9Fe+10,+Zell+am+See/@47.3425886,12.8057478",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.3425886,
@@ -7211,6 +7590,48 @@
         "lat": 48.3053154,
         "lng": 14.2842314,
         "source": "https://www.google.com/maps/search/OX+in+the+City,+Altstadt+10,+Linz/@48.3053154,14.2842314",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "35b7fc32-3f06-4b82-a789-c6268e5802a9",
+      "name": "Papageno",
+      "nameEn": "Papageno",
+      "address": "Ischlerstraße 16",
+      "addressEn": "Ischlerstraße 16",
+      "district": "Stankt Gilgen",
+      "cuisine": "意大利菜",
+      "website": "https://www.atelier-fischer.at/papageno",
+      "phone": "0043 6227 7040",
+      "googleMapsUrl": "https://www.google.com/maps/search/Papageno,+Ischlerstra%C3%9Fe+16,+Stankt+Gilgen/@47.7659316,13.367918",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 47.7659316,
+        "lng": 13.367918,
+        "source": "https://www.google.com/maps/search/Papageno,+Ischlerstra%C3%9Fe+16,+Stankt+Gilgen/@47.7659316,13.367918",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "f0047a89-da60-4458-bf30-0c7d21cbd03a",
+      "name": "Paul & Vitos",
+      "nameEn": "Paul & Vitos",
+      "address": "Petersplatz 11",
+      "addressEn": "Petersplatz 11",
+      "district": "Wien",
+      "cuisine": "國際菜式",
+      "website": "https://paulundvitos.wien/",
+      "phone": "+43 1 53 23 766",
+      "googleMapsUrl": "https://www.google.com/maps/search/Paul+%26+Vitos,+Petersplatz+11,+Wien/@48.2092942,16.3703921",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 48.2092942,
+        "lng": 16.3703921,
+        "source": "https://www.google.com/maps/search/Paul+%26+Vitos,+Petersplatz+11,+Wien/@48.2092942,16.3703921",
         "precision": "official-map-link"
       }
     },
@@ -7410,7 +7831,7 @@
       "phone": "+43 1 8908797",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+DEVAL,+Doblhoffgasse+5,+Wien/@48.2082466,16.3562417",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2082466,
@@ -7431,7 +7852,7 @@
       "phone": "0043 660 6254163",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Fat+George,+Gartenheimstra%C3%9Fe+1,+Wien/@48.2148087,16.5249096",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2148087,
@@ -7452,7 +7873,7 @@
       "phone": "0043 3132 2629",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+GENUSSTREFFPUNKT,+H%C3%B6henweg+22,+Weinitzen/@47.133808,15.518087",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.133808,
@@ -7473,7 +7894,7 @@
       "phone": "0043 2715 22931",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Hofmeisterei+Hirtzberger,+Hauptstra%C3%9Fe+74,+W%C3%B6sendorf+in+der+Wachau/@48.3806966,15.455585",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.3806966,
@@ -7494,9 +7915,30 @@
       "phone": "0043 7239 6225",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Holzpoldl,+Am+Holzpoldlgut+2%2F+2,+Lichtenberg&query_place_id=ChIJHTgqG9Kbc0cR0g2gnGsF_B4",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": null
+    },
+    {
+      "id": "1ad905be-777e-4cc6-aa72-c7d07e7d8c4e",
+      "name": "Restaurant KLIEMSTEIN-VinoVitis Vinothek",
+      "nameEn": "Restaurant KLIEMSTEIN-VinoVitis Vinothek",
+      "address": "Obere Donaulände 15 - im Salzamt Linz",
+      "addressEn": "Obere Donaulände 15 - im Salzamt Linz",
+      "district": "Linz",
+      "cuisine": "國際菜式",
+      "website": "https://www.kliemstein-linz.at/",
+      "phone": " +43 732 99 70 79  ",
+      "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+KLIEMSTEIN-VinoVitis+Vinothek,+Obere+Donaul%C3%A4nde+15+-+im+Salzamt+Linz,+Linz/@48.3063889,14.2833333",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 48.3063889,
+        "lng": 14.2833333,
+        "source": "https://www.google.com/maps/search/Restaurant+KLIEMSTEIN-VinoVitis+Vinothek,+Obere+Donaul%C3%A4nde+15+-+im+Salzamt+Linz,+Linz/@48.3063889,14.2833333",
+        "precision": "official-map-link"
+      }
     },
     {
       "id": "7e87ff11-eee1-4754-8404-3ec78be4466c",
@@ -7552,7 +7994,7 @@
       "phone": "0043 664 14 18 116",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Lieperts,+Arnfelser+Strasse+2,+Leutschach/@46.6674726,15.4676976",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.6674726,
@@ -7573,7 +8015,7 @@
       "phone": " +43 664 3848978",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Lounge+81,+Steinbach+81a,+Bad+Gleichenberg/@46.864866,15.9279858",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.864866,
@@ -7594,7 +8036,7 @@
       "phone": "0043 1 4380095",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+MAMA+KONSTANTINA,+D%C3%B6blinger+Hauptstra%C3%9Fe+17,+Wien/@48.235617,16.3530563",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.235617,
@@ -7667,6 +8109,27 @@
       }
     },
     {
+      "id": "d9636436-0ac9-4c0c-87c8-b4dd0d337073",
+      "name": "Restaurant Oscar",
+      "nameEn": "Restaurant Oscar",
+      "address": "Sankt Veiter Ring 43",
+      "addressEn": "Sankt Veiter Ring 43",
+      "district": "Klagenfurt",
+      "cuisine": "地中海菜式",
+      "website": "https://oscar-restaurant.at",
+      "phone": " +43 463 502300",
+      "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Oscar,+Sankt+Veiter+Ring+43,+Klagenfurt/@46.6283187,14.3095607",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 46.6283187,
+        "lng": 14.3095607,
+        "source": "https://www.google.com/maps/search/Restaurant+Oscar,+Sankt+Veiter+Ring+43,+Klagenfurt/@46.6283187,14.3095607",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "54262d77-a7f4-49a1-82fd-881c67ff5b9d",
       "name": "Restaurant Pfefferschiff",
       "nameEn": "Restaurant Pfefferschiff",
@@ -7678,7 +8141,7 @@
       "phone": "+43 662 661242",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Pfefferschiff,+Soellheim+3,+Hallwang/@47.8381575,13.078567",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.8381575,
@@ -7720,7 +8183,7 @@
       "phone": "+43 5223 25 122",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Schwarzer+Adler,+Eugenstra%C3%9Fe+3,+Hall+in+Tirol/@47.281198,11.5083379",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.281198,
@@ -7778,12 +8241,33 @@
       "phone": "+43 699 1111 22 12",
       "googleMapsUrl": "https://www.google.com/maps/search/ROSSO+DI+AQUA+E+SOLE,+Weingartshofstra%C3%9Fe+29,+Linz/@48.292223,14.2892174",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.292223,
         "lng": 14.2892174,
         "source": "https://www.google.com/maps/search/ROSSO+DI+AQUA+E+SOLE,+Weingartshofstra%C3%9Fe+29,+Linz/@48.292223,14.2892174",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "61a1d5eb-3f92-4261-84f9-b86102751799",
+      "name": "Rouge Noir",
+      "nameEn": "Rouge Noir",
+      "address": "Neusach 1",
+      "addressEn": "Neusach 1",
+      "district": "Weissensee",
+      "cuisine": "高級餐廳",
+      "website": "https://www.rougenoir.at/",
+      "phone": "+43 664 21 78 570",
+      "googleMapsUrl": "https://www.google.com/maps/search/Rouge+Noir,+Neusach+1,+Weissensee/@46.7163872,13.3114069",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 46.7163872,
+        "lng": 13.3114069,
+        "source": "https://www.google.com/maps/search/Rouge+Noir,+Neusach+1,+Weissensee/@46.7163872,13.3114069",
         "precision": "official-map-link"
       }
     },
@@ -7820,7 +8304,7 @@
       "phone": "0043 2715 22931",
       "googleMapsUrl": "https://www.google.com/maps/search/Schlosskeller+S%C3%BCdsteiermark,+Seggaubergstra%C3%9Fe+5,+Leibnitz/@46.7781437,15.5244761",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.7781437,
@@ -7841,7 +8325,7 @@
       "phone": "0043 676 7558746",
       "googleMapsUrl": "https://www.google.com/maps/search/schwarzer+ADLER,+Im+Dorf+13,+Jochberg/@47.3796569,12.4197696",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.3796569,
@@ -7962,7 +8446,7 @@
       "phone": "0043 316 834300",
       "googleMapsUrl": "https://www.google.com/maps/search/Starcke+Haus+Gourmet-Restaurant+Wein+%26+Caf%C3%A9,+Schlo%C3%9Fberg+4,+Graz/@47.074931,15.4363744",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.074931,
@@ -8020,7 +8504,7 @@
       "phone": "0043 5357 2778",
       "googleMapsUrl": "https://www.google.com/maps/search/Stubn+1972.,+Brandseitweg+26,+Kirchberg+in+Tirol/@47.447547,12.3317931",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.447547,
@@ -8062,7 +8546,7 @@
       "phone": "0043 3453 2508",
       "googleMapsUrl": "https://www.google.com/maps/search/Thaller,+Am+Kirchplatz+4,+St.+Veit+%2F+Vogau/@46.746564,15.625657",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 46.746564,
@@ -8083,7 +8567,7 @@
       "phone": "0043 2176 2610400",
       "googleMapsUrl": "https://www.google.com/maps/search/THE+QUARTER,+Langegasse+21,+Andau/@47.7762791,17.0293971",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.7762791,
@@ -8167,7 +8651,7 @@
       "phone": "0043 2646 8317",
       "googleMapsUrl": "https://www.google.com/maps/search/Triad,+%C3%96dh%C3%B6fen+25,+Bad+Sch%C3%B6nau/@47.4988029,16.2250643",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.4988029,
@@ -8188,7 +8672,7 @@
       "phone": "0043 7248 62308",
       "googleMapsUrl": "https://www.google.com/maps/search/Waldsch%C3%A4nke+Restaurant,+Kickendorf+15,+Grieskirchen/@48.2450714,13.8353858",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 48.2450714,
@@ -8636,12 +9120,33 @@
       "phone": "0043 6432 6601",
       "googleMapsUrl": "https://www.google.com/maps/search/Weitmoser+Schloessl,+Schlossgasse+14,+Bad+Hofgastein/@47.1626297,13.0994025",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "AT",
       "coordinates": {
         "lat": 47.1626297,
         "lng": 13.0994025,
         "source": "https://www.google.com/maps/search/Weitmoser+Schloessl,+Schlossgasse+14,+Bad+Hofgastein/@47.1626297,13.0994025",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "6dfbbe42-c7c4-4d70-b15e-a2d458323ac7",
+      "name": "Wirtshaus Bergpfeffer",
+      "nameEn": "Wirtshaus Bergpfeffer",
+      "address": "Dorf 197",
+      "addressEn": "Dorf 197",
+      "district": "Vorderstoder",
+      "cuisine": "奧地利菜",
+      "website": "https://www.bergpfeffer.at/",
+      "phone": "+43 (0) 7564 20059",
+      "googleMapsUrl": "https://www.google.com/maps/search/Wirtshaus+Bergpfeffer,+Dorf+197,+Vorderstoder/@47.7119266,14.2211801",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "AT",
+      "coordinates": {
+        "lat": 47.7119266,
+        "lng": 14.2211801,
+        "source": "https://www.google.com/maps/search/Wirtshaus+Bergpfeffer,+Dorf+197,+Vorderstoder/@47.7119266,14.2211801",
         "precision": "official-map-link"
       }
     },
@@ -8720,7 +9225,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/19.20+by+Norbert+Tarayre,+33+avenue+George+V,+Paris/@48.869143,2.3006579",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.869143,
@@ -8778,7 +9283,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Abysse+Monaco,+1+square+Beaumarchais,+Monaco&query_place_id=ChIJ7bXwexPDzRIRL7H479f89sY",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -8794,7 +9299,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/African+queen,+Port+de+Plaisance,+Beaulieu-sur-Mer/@43.7101237,7.3356406",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.7101237,
@@ -8836,7 +9341,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Alain+Ducasse+Baccarat,+11+place+des+Etats-Unis,+Paris/@48.8677998,2.2938918",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8677998,
@@ -8915,7 +9420,7 @@
       "phone": "+377 98 06 14 14",
       "googleMapsUrl": "https://www.google.com/maps/search/Amaz%C3%B3nico+Monte-Carlo,+Place+du+Casino,+Monaco/@43.739762,7.4279702",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.739762,
@@ -8936,7 +9441,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Anahi,+49+Rue+Volta,+Paris/@48.8670496,2.3582183",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8670496,
@@ -8978,7 +9483,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Anne,+28+place+des+Vosges,+Paris/@48.8562978,2.3660312",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8562978,
@@ -9173,7 +9678,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Baronne,+11+Rue+Berryer,+Paris/@48.8753414,2.3036447",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8753414,
@@ -9215,7 +9720,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/BeauCoCo+Lyon,+13+place+Jules+Ferry,+Lyon/@45.7672627,4.8598029",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 45.7672627,
@@ -9244,6 +9749,22 @@
         "source": "https://www.google.com/maps/search/BeauCoCo+Paris,+Palais+Garnier+-+1+place+Jacques+Rouch%C3%A9,+Paris/@48.8718936,2.3324214",
         "precision": "official-map-link"
       }
+    },
+    {
+      "id": "eb2d8abb-f8d3-4541-8821-42b5677ae60a",
+      "name": "Beauvallon Sur Mer by Yannick Alléno",
+      "nameEn": "Beauvallon Sur Mer by Yannick Alléno",
+      "address": "COMO Le Beauvallon, Boulevard des Collines",
+      "addressEn": "COMO Le Beauvallon, Boulevard des Collines",
+      "district": "Grimaud ",
+      "cuisine": "融合菜",
+      "website": "https://www.sevenrooms.com/explore/beauvallonsurmer/reservations/create/search/",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beauvallon+Sur+Mer+by+Yannick+All%C3%A9no,+COMO+Le+Beauvallon%2C+Boulevard+des+Collines,+Grimaud%C2%A0&query_place_id=ChIJIcmyAtXHzhIR_PagCdn3w2k",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": null
     },
     {
       "id": "83735f65-c72f-4c92-97b7-69da328a0574",
@@ -9394,7 +9915,7 @@
       "phone": "0033 1 42 65 30 30",
       "googleMapsUrl": "",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -9426,7 +9947,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Boubal%C3%A9,+6+rue+des+Archives,+Paris/@48.8573066,2.354373",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8573066,
@@ -9510,7 +10031,7 @@
       "phone": "00377 98 06 19 19",
       "googleMapsUrl": "https://www.google.com/maps/place/Buddha-Bar+Monte-Carlo/data=!4m2!3m1!1s0x12cdc287df80d623:0x7a372485c904e418?sa=X&ved=1t:242&ictx=111",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -9647,7 +10168,7 @@
       "phone": "",
       "googleMapsUrl": "https://maps.app.goo.gl/Q4EYshupHzCHNZ4m7",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -9663,7 +10184,7 @@
       "phone": "+377 98 06 14 14",
       "googleMapsUrl": "https://www.google.com/maps/search/Cherry+Paris,+1+Rue+du+Sabot,+Paris/@48.8530971,2.331478",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8530971,
@@ -9826,7 +10347,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/COYA+Monte-Carlo,+26+Av.+Princesse+Gr%C3%A2ce,+Monaco/@43.7467613,7.4358511",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.7467613,
@@ -9989,7 +10510,7 @@
       "phone": "+33 4 79 04 04 17",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Django,+15+Rue+de+la+Croisette%2C+Le+Forum,+Courchevel+1850&query_place_id=ChIJ5yBwo0B5iUcRvhyT02CYxiU",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -10137,7 +10658,7 @@
       "phone": "+33 4 79 04 04 15",
       "googleMapsUrl": "https://www.google.com/maps/search/Fifty+Seats,+154+Rue+de+Park+City,+Courchevel+1850/@45.415187,6.6315734",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 45.415187,
@@ -10158,7 +10679,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Fontaine+Gaillon,+1+Rue+de+la+Michodi%C3%A8re,+Paris/@48.869092,2.334237",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.869092,
@@ -10342,7 +10863,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Hakuba,+8+quai+du+Louvre,+Paris/@48.8589067,2.341838",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8589067,
@@ -10363,7 +10884,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Hanabi,+17+rue+du+Quatre-Septembre,+Paris/@48.8694881,2.3353365",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8694881,
@@ -10384,7 +10905,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Hollywood+savoy,+44+Rue+Notre+Dame+Des+Victoires,+Paris/@48.8691067,2.3423135",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8691067,
@@ -10447,7 +10968,7 @@
       "phone": "+33 (0)4 94 79 81 04",
       "googleMapsUrl": "https://www.google.com/maps/search/Indie+Beach,+Route+de+Bonne+Terrasse,+Ramatuelle/@43.2135391,6.6628694",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.2135391,
@@ -10468,7 +10989,7 @@
       "phone": "0033 1 84 75 13 15",
       "googleMapsUrl": "",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -10600,7 +11121,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/L%27ambroisie,+9+place+des+Vosges,+Paris/@48.8553396,2.3643541",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8553396,
@@ -10794,22 +11315,6 @@
       }
     },
     {
-      "id": "56eacd54-aaf3-49b3-971c-7d083013540c",
-      "name": "La Bauhinia",
-      "nameEn": "La Bauhinia",
-      "address": "10 avenue d'Iéna",
-      "addressEn": "10 avenue d'Iéna",
-      "district": "Paris",
-      "cuisine": "亞洲菜",
-      "website": "https://module.lafourchette.com/fr_FR/module/8975-ef709",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Bauhinia,+10+avenue+d%27I%C3%A9na,+Paris&query_place_id=ChIJB7rdOORv5kcR87CdvIlBvX4",
-      "isInHotel": true,
-      "isNew": false,
-      "region": "FR",
-      "coordinates": null
-    },
-    {
       "id": "d0c2e0df-a257-4c25-a368-30c8f998877a",
       "name": "La Chambre Bleue",
       "nameEn": "La Chambre Bleue",
@@ -10868,6 +11373,27 @@
       "coordinates": null
     },
     {
+      "id": "ad57f5ba-4c92-4871-bdcc-6da0aa6858f9",
+      "name": "La Cuisine",
+      "nameEn": "La Cuisine",
+      "address": "Hotel Royal Monceau, 37 avenue Hoche",
+      "addressEn": "Hotel Royal Monceau, 37 avenue Hoche",
+      "district": "Paris",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/reservations/lacuisine?venues=ilcarpaccio,lacuisine,lebarlong,matsuhisaparis",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/La+Cuisine,+Hotel+Royal+Monceau%2C+37+avenue+Hoche,+Paris/@48.8758263,2.3004069",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": {
+        "lat": 48.8758263,
+        "lng": 2.3004069,
+        "source": "https://www.google.com/maps/search/La+Cuisine,+Hotel+Royal+Monceau%2C+37+avenue+Hoche,+Paris/@48.8758263,2.3004069",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "11eb8004-e493-4a72-b3f6-c79784b03642",
       "name": "La Fruitière La Folie Douce",
       "nameEn": "La Fruitière La Folie Douce",
@@ -10882,6 +11408,27 @@
       "isNew": false,
       "region": "FR",
       "coordinates": null
+    },
+    {
+      "id": "563d1ff3-c9cf-4b28-b661-d91f58006f2f",
+      "name": "La Galerie",
+      "nameEn": "La Galerie",
+      "address": "Hôtel Plaza Athénée, 25 avenue Montaigne",
+      "addressEn": "Hôtel Plaza Athénée, 25 avenue Montaigne",
+      "district": "Paris",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/explore/jeanimbertauplazaathenee/reservations/create/search",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/La+Galerie,+H%C3%B4tel+Plaza+Ath%C3%A9n%C3%A9e%2C+25+avenue+Montaigne,+Paris/@48.8662354,2.3043737",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": {
+        "lat": 48.8662354,
+        "lng": 2.3043737,
+        "source": "https://www.google.com/maps/search/La+Galerie,+H%C3%B4tel+Plaza+Ath%C3%A9n%C3%A9e%2C+25+avenue+Montaigne,+Paris/@48.8662354,2.3043737",
+        "precision": "official-map-link"
+      }
     },
     {
       "id": "6fb38c93-e567-41e0-a15e-d67b4bd52cf3",
@@ -10979,7 +11526,7 @@
       "phone": "0033 4 93 38 60 95",
       "googleMapsUrl": "",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -11100,7 +11647,7 @@
       "phone": "+33 (0)4 22 47 08 08",
       "googleMapsUrl": "https://www.google.com/maps/search/La+Sauvageonne+Ramatuelle,+Route+de+Bonne+Terrasse,+Ramatuelle/@43.2101778,6.6498476",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.2101778,
@@ -11158,7 +11705,7 @@
       "phone": "33494559100",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Terrasse,+Plage+de+la+Bouillabaisse,+Saint-Tropez&query_place_id=ChIJqVaRrw7HzhIR6YRx1Rx3-Gc",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -11405,7 +11952,7 @@
       "phone": "+33 4 79 08 33 10",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Cap+Horn,+2029+Route+de+l%E2%80%99Altiport,+Courchevel&query_place_id=ChIJAVOSsK14iUcRr3GNlivpUro",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -11547,6 +12094,27 @@
       }
     },
     {
+      "id": "70ed2f11-9dcf-411c-92cd-dd6f91aef900",
+      "name": "Le Grand Véfour",
+      "nameEn": "Le Grand Véfour",
+      "address": "17 rue du beaujolais",
+      "addressEn": "17 rue du beaujolais",
+      "district": "Paris",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/experiences/grandevefour",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Le+Grand+V%C3%A9four,+17+rue+du+beaujolais,+Paris/@48.8661299,2.3379859",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": {
+        "lat": 48.8661299,
+        "lng": 2.3379859,
+        "source": "https://www.google.com/maps/search/Le+Grand+V%C3%A9four,+17+rue+du+beaujolais,+Paris/@48.8661299,2.3379859",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "c4a7df81-2b2a-46c7-a2d4-7aa8608ad93f",
       "name": "Le Jardin de Cheval Blanc Paris",
       "nameEn": "Le Jardin de Cheval Blanc Paris",
@@ -11558,7 +12126,7 @@
       "phone": "",
       "googleMapsUrl": "https://maps.app.goo.gl/gMFw5iyBr931x6cZA",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -11582,6 +12150,22 @@
         "source": "https://www.google.com/maps/search/Le+Laurent,+41+avenue+Gabriel,+Paris/@48.8692529,2.3131794",
         "precision": "official-map-link"
       }
+    },
+    {
+      "id": "91ab9d41-38a6-47e6-bf67-e877f92a37f8",
+      "name": "Le Lobby",
+      "nameEn": "Le Lobby",
+      "address": "Hotel Peninsula, 19 avenue Kléber",
+      "addressEn": "Hotel Peninsula, 19 avenue Kléber",
+      "district": "Paris",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/explore/lelobby/reservations/create/search",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Lobby,+Hotel+Peninsula%0A19+avenue+Kl%C3%A9ber,+Paris&query_place_id=ChIJC41X6-5v5kcRNEwbRS37uIE",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": null
     },
     {
       "id": "a2c77c92-ef2c-4a89-9010-2f7b08d7e02d",
@@ -11711,7 +12295,7 @@
       "phone": "+33 (0)4 93 58 02 02",
       "googleMapsUrl": "https://www.google.com/maps/search/Le+Saint-Martin,+Le+Saint-Martin+au+Ch%C3%A2teau+Saint-Martin+%26+Spa+-+2490+Avenue+des+Templiers,+Vence/@43.7309221,7.1062463",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.7309221,
@@ -11719,6 +12303,22 @@
         "source": "https://www.google.com/maps/search/Le+Saint-Martin,+Le+Saint-Martin+au+Ch%C3%A2teau+Saint-Martin+%26+Spa+-+2490+Avenue+des+Templiers,+Vence/@43.7309221,7.1062463",
         "precision": "official-map-link"
       }
+    },
+    {
+      "id": "6698c401-0775-4980-b034-94600d7a3e4e",
+      "name": "Le Salon Proust",
+      "nameEn": "Le Salon Proust",
+      "address": "Hotel Ritz Paris, 15 place vendôme",
+      "addressEn": "Hotel Ritz Paris, 15 place vendôme",
+      "district": "Paris",
+      "cuisine": "法國菜",
+      "website": "https://www.ritzparis.com/fr/hotel/reservation-bars-restaurants/brunch/le-grand-brunch",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/VRDdMi1dsE1rAWiFA",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": null
     },
     {
       "id": "7686976c-2370-4f1e-9c32-76dbe02e0850",
@@ -11879,7 +12479,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Les+Parisiens,+1+Rue+du+Pr%C3%A9+aux+Clercs,+Paris/@48.8566609,2.3303688",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8566609,
@@ -11942,7 +12542,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Lucia+Cannes,+Bd+de+la+Croisette,+Cannes/@43.5495287,7.0253502",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.5495287,
@@ -11979,12 +12579,49 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Maison+Revka+St+tropez,+17+place+du+15%C3%A8me+Corps,+Saint-Tropez/@43.2688007,6.6399786",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.2688007,
         "lng": 6.6399786,
         "source": "https://www.google.com/maps/search/Maison+Revka+St+tropez,+17+place+du+15%C3%A8me+Corps,+Saint-Tropez/@43.2688007,6.6399786",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "56eacd54-aaf3-49b3-971c-7d083013540c",
+      "name": "Maison Roland",
+      "nameEn": "Maison Roland",
+      "address": "10 avenue d'Iéna",
+      "addressEn": "10 avenue d'Iéna",
+      "district": "Paris",
+      "cuisine": "亞洲菜",
+      "website": "https://module.lafourchette.com/fr_FR/module/8975-ef709",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Bauhinia,+10+avenue+d%27I%C3%A9na,+Paris&query_place_id=ChIJB7rdOORv5kcR87CdvIlBvX4",
+      "isInHotel": true,
+      "isNew": false,
+      "region": "FR",
+      "coordinates": null
+    },
+    {
+      "id": "edf1c1e1-ef6d-43fb-bfc5-859228a985ac",
+      "name": "Maison Roland",
+      "nameEn": "Maison Roland",
+      "address": "Hotel Shangri La, 10 avenue d'Iena",
+      "addressEn": "Hotel Shangri La, 10 avenue d'Iena",
+      "district": "Paris",
+      "cuisine": "法國菜",
+      "website": "https://www.sevenrooms.com/experiences/shangri-la-paris/brunch-shangri-la-paris-6313985584349184?lang=fr",
+      "phone": "",
+      "googleMapsUrl": "https://www.google.com/maps/search/Maison+Roland,+Hotel+Shangri+La%2C+10+avenue+d%27Iena,+Paris/@48.8637405,2.2933437",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": {
+        "lat": 48.8637405,
+        "lng": 2.2933437,
+        "source": "https://www.google.com/maps/search/Maison+Roland,+Hotel+Shangri+La%2C+10+avenue+d%27Iena,+Paris/@48.8637405,2.2933437",
         "precision": "official-map-link"
       }
     },
@@ -12100,7 +12737,7 @@
       "phone": "+377 98 06 56 00",
       "googleMapsUrl": "https://www.google.com/maps/search/Maona+Monte-Carlo,+Av.+Princesse+Grace,+Roquebrune-Cap-Martin/@43.7508135,7.4410627",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.7508135,
@@ -12121,7 +12758,7 @@
       "phone": "+377 98 06 14 00",
       "googleMapsUrl": "https://www.google.com/maps/search/Marlow,+5+Place+Princesse+Gabriella,+Monaco/@43.7414054,7.426784",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.7414054,
@@ -12184,7 +12821,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Maxim%27s,+3+Rue+Royale,+Paris/@48.8674428,2.3223256",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8674428,
@@ -12226,27 +12863,6 @@
       "coordinates": null
     },
     {
-      "id": "acd18f55-b55f-4e0d-b6bd-9639ec31b154",
-      "name": "Mido",
-      "nameEn": "Mido",
-      "address": "64 Avenue Marceau",
-      "addressEn": "64 Avenue Marceau",
-      "district": "Paris",
-      "cuisine": "融合菜",
-      "website": "https://bookings.zenchef.com/results?rid=365933&pid=1001",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Mido,+64+Avenue+Marceau,+Paris/@48.8706353,2.2981126",
-      "isInHotel": false,
-      "isNew": true,
-      "region": "FR",
-      "coordinates": {
-        "lat": 48.8706353,
-        "lng": 2.2981126,
-        "source": "https://www.google.com/maps/search/Mido,+64+Avenue+Marceau,+Paris/@48.8706353,2.2981126",
-        "precision": "official-map-link"
-      }
-    },
-    {
       "id": "6fd4272b-e142-4b0c-b137-5a4b58903291",
       "name": "Midô Cannes",
       "nameEn": "Midô Cannes",
@@ -12258,7 +12874,7 @@
       "phone": "0033 4 93 39 39 38",
       "googleMapsUrl": "",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -12295,7 +12911,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Mirazur,+30+avenue+Aristide+Briand,+Menton/@43.7858386,7.5279147",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.7858386,
@@ -12442,7 +13058,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Nikki+Beach+Monte+Carlo,+Fairmont+Monte+Carlo%0A12+Avenue+des+Sp%C3%A9lugues,+Monaco/@43.739825,7.4299619",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.739825,
@@ -12463,7 +13079,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Nikki+Beach+Saint-Tropez,+1093+Route+de+l%E2%80%99%C3%89pi,+Ramatuelle/@43.2208139,6.6600511",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.2208139,
@@ -12563,7 +13179,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Noto+Nice,+20+Rue+Saint-Fran%C3%A7ois+de+Paule,+Nice/@43.6956183,7.2704918",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.6956183,
@@ -12605,7 +13221,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Onor,+258+rue+du+Faubourg+St+Honor%C3%A9,+Paris/@48.8773647,2.3005429",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8773647,
@@ -12647,7 +13263,7 @@
       "phone": "",
       "googleMapsUrl": "https://maps.app.goo.gl/kvWHGtpWCFsbWZzi9",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -12663,7 +13279,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Palme+d%27or,+73+boulevard+de+la+Croisette,+Cannes/@43.5483819,7.0308582",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 43.5483819,
@@ -12726,7 +13342,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pavyllon+Monte-Carlo,+1+square+Beaumarchais,+Monaco&query_place_id=ChIJBWPKPYjCzRIR4WqdFUJ_Cfo",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -12874,7 +13490,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Ressources,+126+rue+Fondaud%C3%A8ge,+Bordeaux/@44.8488807,-0.583612",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 44.8488807,
@@ -12895,7 +13511,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+19+Saint+Roch,+19+Saint-Roch,+Paris/@48.8654006,2.3321869",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.8654006,
@@ -12916,7 +13532,7 @@
       "phone": "00 33 01 70 60 12 00",
       "googleMapsUrl": "",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -13032,7 +13648,7 @@
       "phone": "(0)4 92 93 32 00.",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Louroc,+167-165+Boulevard+J.+F.+Kennedy%2C+CS+10029,+Antibes&query_place_id=ChIJSallrNd_zhIRwKjLpCRE4uo",
       "isInHotel": true,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -13111,7 +13727,7 @@
       "phone": "04 85 30 02 70",
       "googleMapsUrl": "https://www.google.com/maps/search/Rural+by+Marc+Veyrat,+3461+Rte+de+la+C%C3%B4t%C3%A9+2000,+Meg%C3%A8ve/@45.8173979,6.6526603",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 45.8173979,
@@ -13195,7 +13811,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Song+Qi,+7+Avenue+Princesse+Grace,+Monaco&query_place_id=ChIJwbAMU3zCzRIRudPCksh1rko",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": null
     },
@@ -13274,7 +13890,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/Zeffirino+Paris,+9+Rue+Marbeuf,+Paris/@48.867804,2.3022033",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "FR",
       "coordinates": {
         "lat": 48.867804,
@@ -13282,6 +13898,22 @@
         "source": "https://www.google.com/maps/search/Zeffirino+Paris,+9+Rue+Marbeuf,+Paris/@48.867804,2.3022033",
         "precision": "official-map-link"
       }
+    },
+    {
+      "id": "e241f401-3723-4d2c-b35d-bd592510206d",
+      "name": "Zia at Odyssey",
+      "nameEn": "Zia at Odyssey",
+      "address": "Hotel Metropole Monte-Carlo, 4 avenue de la Madone",
+      "addressEn": "Hotel Metropole Monte-Carlo, 4 avenue de la Madone",
+      "district": "Monaco",
+      "cuisine": "地中海菜式",
+      "website": "https://widget.thefork.com/en-GB/fc7c2539-0134-4783-b62a-bd7cacfec85b?step=date&utm_source=metropole.com",
+      "phone": "",
+      "googleMapsUrl": "https://maps.app.goo.gl/4g6MfWC8enUv4GEP7",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "FR",
+      "coordinates": null
     },
     {
       "id": "cacf0498-4916-4c4b-9eb0-d4ddef7ed7d5",
@@ -13316,7 +13948,7 @@
       "phone": "+49 211 1717361",
       "googleMapsUrl": "https://www.google.com/maps/search/1876+Daniel+Dal-Ben,+Grunerstr.+42+A,+D%C3%BCsseldorf/@51.24356,6.802185",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.24356,
@@ -13437,7 +14069,7 @@
       "phone": "+49 351 4810426",
       "googleMapsUrl": "https://www.google.com/maps/search/Alte+Meister+Caf%C3%A9+%26+Restaurant,+Theaterplatz+1A,+Dresden/@51.0538723,13.7338996",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.0538723,
@@ -13647,27 +14279,6 @@
       "coordinates": null
     },
     {
-      "id": "a9ad9103-e960-44cc-b3cc-65bfd0e324cc",
-      "name": "Brasserie Stadthaus",
-      "nameEn": "Brasserie Stadthaus",
-      "address": "Mühlenstr. 31",
-      "addressEn": "Mühlenstr. 31",
-      "district": "Düsseldorf",
-      "cuisine": "法國菜",
-      "website": "https://brasserie-stadthaus.de/",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Brasserie+Stadthaus,+M%C3%BChlenstr.+31,+D%C3%BCsseldorf/@51.2274435,6.7742452",
-      "isInHotel": true,
-      "isNew": false,
-      "region": "DE",
-      "coordinates": {
-        "lat": 51.2274435,
-        "lng": 6.7742452,
-        "source": "https://www.google.com/maps/search/Brasserie+Stadthaus,+M%C3%BChlenstr.+31,+D%C3%BCsseldorf/@51.2274435,6.7742452",
-        "precision": "official-map-link"
-      }
-    },
-    {
       "id": "a68368a0-89f9-4a2a-8889-a565a3060f97",
       "name": "Brauhaus Zwiebel",
       "nameEn": "Brauhaus Zwiebel",
@@ -13810,6 +14421,27 @@
       "coordinates": null
     },
     {
+      "id": "2b1897f5-574a-4cd5-940b-f8cf80692d76",
+      "name": "Chefs Atelier",
+      "nameEn": "Chefs Atelier",
+      "address": "Im Löwental 60 A",
+      "addressEn": "Im Löwental 60 A",
+      "district": "Essen",
+      "cuisine": "高級餐廳",
+      "website": "https://www.chefsatelier.de/",
+      "phone": "0201 - 64 61 33 66",
+      "googleMapsUrl": "https://www.google.com/maps/search/Chefs+Atelier,+Im+L%C3%B6wental+60+A,+Essen/@51.3836651,6.9955784",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 51.3836651,
+        "lng": 6.9955784,
+        "source": "https://www.google.com/maps/search/Chefs+Atelier,+Im+L%C3%B6wental+60+A,+Essen/@51.3836651,6.9955784",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "4825fb3b-ee36-408d-9c37-a3e1c12d814d",
       "name": "Chinaski Studio & Bar",
       "nameEn": "Chinaski Studio & Bar",
@@ -13821,7 +14453,7 @@
       "phone": "+49 176 34488349",
       "googleMapsUrl": "https://www.google.com/maps/search/Chinaski+Studio+%26+Bar,+Bockenheimer+Landstr.+1,+Frankfurt+am+Main/@50.1153362,8.6704961",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 50.1153362,
@@ -13890,6 +14522,27 @@
         "lat": 50.108197,
         "lng": 8.670626,
         "source": "https://www.google.com/maps/search/Club+Michel,+M%C3%BCnchner+Str.+12,+Frankfurt+am+Main/@50.108197,8.670626",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "7342be8a-f403-4699-bedd-104c777bae19",
+      "name": "Clubhaus Bachmair Weissach",
+      "nameEn": "Clubhaus Bachmair Weissach",
+      "address": "Hauptstraße 45",
+      "addressEn": "Hauptstraße 45",
+      "district": "Tegernsee",
+      "cuisine": "國際菜式",
+      "website": "https://clubhaus-tegernsee.com/",
+      "phone": "+49 8022 278393",
+      "googleMapsUrl": "https://www.google.com/maps/search/Clubhaus+Bachmair+Weissach,+Hauptstra%C3%9Fe+45,+Tegernsee/@47.7130266,11.7522648",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 47.7130266,
+        "lng": 11.7522648,
+        "source": "https://www.google.com/maps/search/Clubhaus+Bachmair+Weissach,+Hauptstra%C3%9Fe+45,+Tegernsee/@47.7130266,11.7522648",
         "precision": "official-map-link"
       }
     },
@@ -13989,7 +14642,7 @@
       "phone": "496151272441",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Das+Kr%C3%BC,+Ludwigstra%C3%9Fe+8,+Darmstadt&query_place_id=ChIJ15f_wmRwvUcRr9HjABc5hrU",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": null
     },
@@ -14068,7 +14721,7 @@
       "phone": "+49 89 24224104",
       "googleMapsUrl": "https://www.google.com/maps/search/El+Gaucho+am+Viktualienmarkt,+Frauenstrasse+7-9,+M%C3%BCnchen/@48.1345222,11.5778335",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 48.1345222,
@@ -14236,7 +14889,7 @@
       "phone": "034156108648",
       "googleMapsUrl": "https://www.google.com/maps/search/FRIEDA+Restaurant,+Menckestr.+48-50,+Leipzig/@51.3592336,12.3625887",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.3592336,
@@ -14278,7 +14931,7 @@
       "phone": "+49 681 9582682",
       "googleMapsUrl": "https://www.google.com/maps/search/G%C3%A4steHaus+Klaus+Erfort,+Mainzer+Str.+95,+Saarbr%C3%BCcken/@49.2294566,7.0075822",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 49.2294566,
@@ -14299,7 +14952,7 @@
       "phone": "+49 89 74982910",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=G%C3%A4stst%C3%A4tte+Sollner+Hof,+Herterichstra%C3%9Fe+65,+M%C3%BCnchen&query_place_id=ChIJm7xLMgDZnUcRQeimZkdNHmw",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": null
     },
@@ -14430,6 +15083,27 @@
       }
     },
     {
+      "id": "17878125-8e6e-4f58-87b6-ebfa07d2912e",
+      "name": "Hattersheimer Ölmühle",
+      "nameEn": "Hattersheimer Ölmühle",
+      "address": "An der Ölmühle 1",
+      "addressEn": "An der Ölmühle 1",
+      "district": "Hattersheim am Main",
+      "cuisine": "德國菜",
+      "website": "http://www.hattersheimer-oelmuehle.de",
+      "phone": "+49 6190 9180501",
+      "googleMapsUrl": "https://www.google.com/maps/search/Hattersheimer+%C3%96lm%C3%BChle,+An+der+%C3%96lm%C3%BChle+1,+Hattersheim+am+Main/@50.0635821,8.4958701",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 50.0635821,
+        "lng": 8.4958701,
+        "source": "https://www.google.com/maps/search/Hattersheimer+%C3%96lm%C3%BChle,+An+der+%C3%96lm%C3%BChle+1,+Hattersheim+am+Main/@50.0635821,8.4958701",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "34d93a28-edda-42f5-ade3-cc64cbd6b147",
       "name": "Haus Stemberg",
       "nameEn": "Haus Stemberg",
@@ -14525,7 +15199,7 @@
       "phone": "+49 30 20605540",
       "googleMapsUrl": "https://www.google.com/maps/search/Il+Punto,+Neust%C3%A4dtische+Kirchstr.+6,+Berlin/@52.5188823,13.3856348",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 52.5188823,
@@ -14850,6 +15524,27 @@
       }
     },
     {
+      "id": "b1971f76-d73e-4ddf-ac51-4f75c67f62d2",
+      "name": "Les Deux",
+      "nameEn": "Les Deux",
+      "address": "Maffeistraße 3A",
+      "addressEn": "Maffeistraße 3A",
+      "district": "München",
+      "cuisine": "高級餐廳",
+      "website": "https://lesdeux-muc.de/",
+      "phone": "089710407373",
+      "googleMapsUrl": "https://www.google.com/maps/search/Les+Deux,+Maffeistra%C3%9Fe+3A,+M%C3%BCnchen/@48.1393859,11.5747171",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 48.1393859,
+        "lng": 11.5747171,
+        "source": "https://www.google.com/maps/search/Les+Deux,+Maffeistra%C3%9Fe+3A,+M%C3%BCnchen/@48.1393859,11.5747171",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "fea0029a-2d23-4358-9e09-ca48ce6a6e6b",
       "name": "Little London",
       "nameEn": "Little London",
@@ -14861,7 +15556,7 @@
       "phone": "49089122239470",
       "googleMapsUrl": "https://www.google.com/maps/search/Little+London,+Tal+31,+M%C3%BCnchen/@48.1356903,11.5808985",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 48.1356903,
@@ -15039,6 +15734,27 @@
       }
     },
     {
+      "id": "f4969485-1767-4277-9a13-204f783fab0d",
+      "name": "MUHIS",
+      "nameEn": "MUHIS",
+      "address": "Johannes-Janssen Straße 7",
+      "addressEn": "Johannes-Janssen Straße 7",
+      "district": "Recklinghausen",
+      "cuisine": "歐洲菜",
+      "website": "https://muhis.de",
+      "phone": "+49 2361 9379707",
+      "googleMapsUrl": "https://www.google.com/maps/search/MUHIS,+Johannes-Janssen+Stra%C3%9Fe+7,+Recklinghausen/@51.6152234,7.1966637",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 51.6152234,
+        "lng": 7.1966637,
+        "source": "https://www.google.com/maps/search/MUHIS,+Johannes-Janssen+Stra%C3%9Fe+7,+Recklinghausen/@51.6152234,7.1966637",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "b1e1da39-f419-454f-951a-116f9bc7bef2",
       "name": "MÜLLERS auf der RÜ by Nelson Müller",
       "nameEn": "MÜLLERS auf der RÜ by Nelson Müller",
@@ -15071,7 +15787,7 @@
       "phone": "03415906309",
       "googleMapsUrl": "https://www.google.com/maps/search/M%C3%BCnsters+Leipzig,+Platnerstr.+13,+Leipzig/@51.3585422,12.3605244",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.3585422,
@@ -15134,33 +15850,12 @@
       "phone": "+49 69 92020510",
       "googleMapsUrl": "https://www.google.com/maps/search/OJOFrankfurt,+Hochstr.+27,+Frankfurt+am+Main/@50.1161359,8.6762724",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 50.1161359,
         "lng": 8.6762724,
         "source": "https://www.google.com/maps/search/OJOFrankfurt,+Hochstr.+27,+Frankfurt+am+Main/@50.1161359,8.6762724",
-        "precision": "official-map-link"
-      }
-    },
-    {
-      "id": "796980e7-ecf8-4ed0-a38f-39ace4d33011",
-      "name": "Olbrick",
-      "nameEn": "Olbrick",
-      "address": "Frankfurter Str. 67",
-      "addressEn": "Frankfurter Str. 67",
-      "district": "Darmstadt",
-      "cuisine": "亞洲菜",
-      "website": "https://olbrick-darmstadt.de/seite/",
-      "phone": "+49 6151 6290160",
-      "googleMapsUrl": "https://www.google.com/maps/search/Olbrick,+Frankfurter+Str.+67,+Darmstadt/@49.8855532,8.6521544",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "DE",
-      "coordinates": {
-        "lat": 49.8855532,
-        "lng": 8.6521544,
-        "source": "https://www.google.com/maps/search/Olbrick,+Frankfurter+Str.+67,+Darmstadt/@49.8855532,8.6521544",
         "precision": "official-map-link"
       }
     },
@@ -15228,27 +15923,6 @@
       }
     },
     {
-      "id": "00536c3c-67b3-4edf-8b8e-8d329fef4e1a",
-      "name": "Park Cafe München",
-      "nameEn": "Park Cafe München",
-      "address": "Sophienstraße 7",
-      "addressEn": "Sophienstraße 7",
-      "district": "München",
-      "cuisine": "德國菜",
-      "website": "https://www.parkcafe089.de/",
-      "phone": "089 51617980",
-      "googleMapsUrl": "https://www.google.com/maps/search/Park+Cafe+M%C3%BCnchen,+Sophienstra%C3%9Fe+7,+M%C3%BCnchen/@48.1423542,11.5645988",
-      "isInHotel": false,
-      "isNew": true,
-      "region": "DE",
-      "coordinates": {
-        "lat": 48.1423542,
-        "lng": 11.5645988,
-        "source": "https://www.google.com/maps/search/Park+Cafe+M%C3%BCnchen,+Sophienstra%C3%9Fe+7,+M%C3%BCnchen/@48.1423542,11.5645988",
-        "precision": "official-map-link"
-      }
-    },
-    {
       "id": "32a23f46-37d1-4cbe-95a7-f442e4773e8c",
       "name": "Parmigiano Restaurant",
       "nameEn": "Parmigiano Restaurant",
@@ -15302,7 +15976,7 @@
       "phone": "+49 511 8071800",
       "googleMapsUrl": "https://www.google.com/maps/search/Pier+51,+Rudolf-von-Bennigsen+Ufer+51,+Hannover/@52.3541148,9.7458215",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 52.3541148,
@@ -15323,7 +15997,7 @@
       "phone": "+49 341 1234567",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ratskeller+Leipzig,+Lotterstr.+1,+Leipzig&query_place_id=ChIJjw2oeib4pkcRn6O1GK_pJ6E",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": null
     },
@@ -15360,7 +16034,7 @@
       "phone": "+49 351 25028337",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Genuss-Atelier,+Bautzner+Str.+149,+Dresden/@51.0676276,13.7760473",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.0676276,
@@ -15402,7 +16076,7 @@
       "phone": "0201534506",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Hannappel,+Dahlhauser+Str.+173,+Essen/@51.4372222,7.1052778",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.4372222,
@@ -15486,12 +16160,33 @@
       "phone": "+49 351 48484801",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Kastenmeiers,+Taschenberg+3,+Dresden/@51.0520775,13.7359538",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.0520775,
         "lng": 13.7359538,
         "source": "https://www.google.com/maps/search/Restaurant+Kastenmeiers,+Taschenberg+3,+Dresden/@51.0520775,13.7359538",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "359afac7-1cc1-46d0-bfa0-14d801561c97",
+      "name": "Restaurant La Bohème",
+      "nameEn": "Restaurant La Bohème",
+      "address": "Leopoldstraße 180",
+      "addressEn": "Leopoldstraße 180",
+      "district": "München",
+      "cuisine": "法國菜",
+      "website": "https://www.boheme-schwabing.de/en",
+      "phone": "+49 89 23762323",
+      "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+La+Boh%C3%A8me,+Leopoldstra%C3%9Fe+180,+M%C3%BCnchen/@48.1730342,11.5867684",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 48.1730342,
+        "lng": 11.5867684,
+        "source": "https://www.google.com/maps/search/Restaurant+La+Boh%C3%A8me,+Leopoldstra%C3%9Fe+180,+M%C3%BCnchen/@48.1730342,11.5867684",
         "precision": "official-map-link"
       }
     },
@@ -15507,7 +16202,7 @@
       "phone": "03022432529",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Louis+Laurent,+Giesebrechtstr.+16,+Berlin/@52.5022268,13.3099587",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 52.5022268,
@@ -15528,7 +16223,7 @@
       "phone": "+49 341 99997638",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Max+Enk,+Neumarkt+9,+Leipzig&query_place_id=ChIJPR4eQyT4pkcRqkHoP8w8H_w",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": null
     },
@@ -15602,7 +16297,7 @@
       "phone": "+49 351 8211900",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Petit+Frank,+B%C3%BCrgerstr.+14,+Dresden/@51.0767344,13.7276831",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.0767344,
@@ -15644,7 +16339,7 @@
       "phone": "+49 221 27736883",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Poisson,+Wolfsstr.+6,+K%C3%B6ln/@50.9378642,6.9468619",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 50.9378642,
@@ -15665,7 +16360,7 @@
       "phone": "+49 231 95000653",
       "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Rodenberg+1770,+Rodenbergstr.50,+Dortmund/@51.4934707,7.5534017",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 51.4934707,
@@ -15801,6 +16496,22 @@
       }
     },
     {
+      "id": "10a36536-64be-40f8-a876-c21f8532e5ab",
+      "name": "Restaurant Zeik",
+      "nameEn": "Restaurant Zeik",
+      "address": "Sierichstr. 112",
+      "addressEn": "Sierichstr. 112",
+      "district": "Hamburg",
+      "cuisine": "高級餐廳",
+      "website": "https://zeik.de/",
+      "phone": "04046653531",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Zeik,+Sierichstr.+112,+Hamburg&query_place_id=ChIJ4TtMXdCIsUcRAcmdiwyZVD0",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": null
+    },
+    {
       "id": "5042b5a0-c85d-4bfa-ac4e-005bcdf79968",
       "name": "Ristorante Al Porto",
       "nameEn": "Ristorante Al Porto",
@@ -15885,6 +16596,27 @@
       }
     },
     {
+      "id": "57d854de-bab1-4dc3-a682-f6e0f704462b",
+      "name": "Salt & Silver Restaurant",
+      "nameEn": "Salt & Silver Restaurant",
+      "address": "Hafenstraße 136",
+      "addressEn": "Hafenstraße 136",
+      "district": "Hamburg",
+      "cuisine": "國際菜式",
+      "website": "https://saltandsilver.de",
+      "phone": "017687991497",
+      "googleMapsUrl": "https://www.google.com/maps/search/Salt+%26+Silver+Restaurant,+Hafenstra%C3%9Fe+136,+Hamburg/@53.5465361,9.9587091",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 53.5465361,
+        "lng": 9.9587091,
+        "source": "https://www.google.com/maps/search/Salt+%26+Silver+Restaurant,+Hafenstra%C3%9Fe+136,+Hamburg/@53.5465361,9.9587091",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "71ce168e-7175-4eac-a6c8-db15e0a2fa30",
       "name": "SANJI'S Steak, Grill & Bar",
       "nameEn": "SANJI'S Steak, Grill & Bar",
@@ -15933,7 +16665,7 @@
       "phone": "+49 69 557337",
       "googleMapsUrl": "https://www.google.com/maps/search/Schandis,+Nordendstr.+2,+Frankfurt+am+Main/@50.1292959,8.6914575",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": {
         "lat": 50.1292959,
@@ -15996,7 +16728,7 @@
       "phone": "+49 341 9769160",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=SHIKI,+Klostergasse+18,+Leipzig&query_place_id=ChIJDVWRdr35pkcRLlDEHn5qiaQ",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "DE",
       "coordinates": null
     },
@@ -16185,27 +16917,6 @@
       }
     },
     {
-      "id": "087c704f-923e-4621-a2d7-ae250897c006",
-      "name": "Via Monte Napoleone",
-      "nameEn": "Via Monte Napoleone",
-      "address": "Bockenheimer Landstraße 55",
-      "addressEn": "Bockenheimer Landstraße 55",
-      "district": "Frankfurt am Main",
-      "cuisine": "意大利菜",
-      "website": "https://via-montenapoleone.de/",
-      "phone": "+49 69 27275561",
-      "googleMapsUrl": "https://www.google.com/maps/search/Via+Monte+Napoleone,+Bockenheimer+Landstra%C3%9Fe+55,+Frankfurt+am+Main/@50.1175119,8.6636906",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "DE",
-      "coordinates": {
-        "lat": 50.1175119,
-        "lng": 8.6636906,
-        "source": "https://www.google.com/maps/search/Via+Monte+Napoleone,+Bockenheimer+Landstra%C3%9Fe+55,+Frankfurt+am+Main/@50.1175119,8.6636906",
-        "precision": "official-map-link"
-      }
-    },
-    {
       "id": "a27cd7cb-7a11-45b7-a1fc-d4c2c3296764",
       "name": "Villa Amalfi - Bogenhauser Hof",
       "nameEn": "Villa Amalfi - Bogenhauser Hof",
@@ -16264,27 +16975,6 @@
       }
     },
     {
-      "id": "3ca0dc63-07a2-4dbc-94f1-56384103f7a0",
-      "name": "Vinothek by Geisel",
-      "nameEn": "Vinothek by Geisel",
-      "address": "Schützenstr 11",
-      "addressEn": "Schützenstr 11",
-      "district": "München",
-      "cuisine": "酒吧",
-      "website": "https://www.geisel-privathotels.de/vinothek",
-      "phone": "089 551377140",
-      "googleMapsUrl": "https://www.google.com/maps/search/Vinothek+by+Geisel,+Sch%C3%BCtzenstr+11,+M%C3%BCnchen/@48.1397941,11.5622524",
-      "isInHotel": true,
-      "isNew": false,
-      "region": "DE",
-      "coordinates": {
-        "lat": 48.1397941,
-        "lng": 11.5622524,
-        "source": "https://www.google.com/maps/search/Vinothek+by+Geisel,+Sch%C3%BCtzenstr+11,+M%C3%BCnchen/@48.1397941,11.5622524",
-        "precision": "official-map-link"
-      }
-    },
-    {
       "id": "11114aff-0bad-47ab-a848-202d8a0682ca",
       "name": "Votum",
       "nameEn": "Votum",
@@ -16302,6 +16992,27 @@
         "lat": 52.3704515,
         "lng": 9.7336926,
         "source": "https://www.google.com/maps/search/Votum,+Hannah-Arendt-Platz+1,+Hannover/@52.3704515,9.7336926",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "03868d3a-9c5a-4730-b3b3-a167f9b9a315",
+      "name": "Web Christel",
+      "nameEn": "Web Christel",
+      "address": "Süderstr 11",
+      "addressEn": "Süderstr 11",
+      "district": "Westerland / Sylt",
+      "cuisine": "德國菜",
+      "website": "https://webchristel.de/",
+      "phone": "04651 / 22900",
+      "googleMapsUrl": "https://www.google.com/maps/search/Web+Christel,+S%C3%BCderstr+11,+Westerland+%2F+Sylt/@54.903231,8.3064418",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "DE",
+      "coordinates": {
+        "lat": 54.903231,
+        "lng": 8.3064418,
+        "source": "https://www.google.com/maps/search/Web+Christel,+S%C3%BCderstr+11,+Westerland+%2F+Sylt/@54.903231,8.3064418",
         "precision": "official-map-link"
       }
     },
@@ -16675,12 +17386,33 @@
       "phone": "+39 02 2222 0081",
       "googleMapsUrl": "https://www.google.com/maps/search/Carnissage,+Via+Varese%2C+4,+Milano/@45.478843,9.1846346",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "IT",
       "coordinates": {
         "lat": 45.478843,
         "lng": 9.1846346,
         "source": "https://www.google.com/maps/search/Carnissage,+Via+Varese%2C+4,+Milano/@45.478843,9.1846346",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "754d46c6-9262-4df5-a69e-d692eb9fcddc",
+      "name": "Casa Fiori Chiari",
+      "nameEn": "Casa Fiori Chiari",
+      "address": "Via Fiori Chiari, 8",
+      "addressEn": "Via Fiori Chiari, 8",
+      "district": "Milano",
+      "cuisine": "意大利菜",
+      "website": "https://casafiorichiari.com/",
+      "phone": "+39 02 4962 3564",
+      "googleMapsUrl": "https://www.google.com/maps/search/Casa+Fiori+Chiari,+Via+Fiori+Chiari%2C+8,+Milano/@45.4723496,9.1870506",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "IT",
+      "coordinates": {
+        "lat": 45.4723496,
+        "lng": 9.1870506,
+        "source": "https://www.google.com/maps/search/Casa+Fiori+Chiari,+Via+Fiori+Chiari%2C+8,+Milano/@45.4723496,9.1870506",
         "precision": "official-map-link"
       }
     },
@@ -16936,27 +17668,6 @@
       "isNew": false,
       "region": "IT",
       "coordinates": null
-    },
-    {
-      "id": "ef68eef6-054f-4e84-bf6f-2ca9c1afd4bc",
-      "name": "Gucci Osteria Da Massimo Bottura",
-      "nameEn": "Gucci Osteria Da Massimo Bottura",
-      "address": "Piazza Della Signoria 10",
-      "addressEn": "Piazza Della Signoria 10",
-      "district": "Firenze",
-      "cuisine": "意大利菜",
-      "website": "https://www.gucciosteria.com/it/florence/reservation",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Gucci+Osteria+Da+Massimo+Bottura,+Piazza+Della+Signoria+10,+Firenze/@43.769737,11.2568188",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "IT",
-      "coordinates": {
-        "lat": 43.769737,
-        "lng": 11.2568188,
-        "source": "https://www.google.com/maps/search/Gucci+Osteria+Da+Massimo+Bottura,+Piazza+Della+Signoria+10,+Firenze/@43.769737,11.2568188",
-        "precision": "official-map-link"
-      }
     },
     {
       "id": "9e4a507f-6637-49c2-af43-8a8bfed98a4d",
@@ -17338,7 +18049,7 @@
       "phone": "+39 02 3663 1450",
       "googleMapsUrl": "https://www.google.com/maps/search/Locanda+Perbellini+Bistrot+Milano,+Via+Moscova%2C+25,+Milano/@45.4766971,9.1895921",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "IT",
       "coordinates": {
         "lat": 45.4766971,
@@ -17359,7 +18070,7 @@
       "phone": "+39 06 4559 7350",
       "googleMapsUrl": "https://www.google.com/maps/search/Marco+Martini,+Viale+Aventino%2C+121,+Roma/@41.8805477,12.4847413",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "IT",
       "coordinates": {
         "lat": 41.8805477,
@@ -17527,6 +18238,48 @@
       "coordinates": null
     },
     {
+      "id": "8d411438-1aab-481c-a8cd-bca8d619ed60",
+      "name": "SACHI Milano",
+      "nameEn": "SACHI Milano",
+      "address": "Via Orefici, 26",
+      "addressEn": "Via Orefici, 26",
+      "district": "Milano",
+      "cuisine": "日本菜",
+      "website": "https://sachirestaurants.com/it/milan-2/",
+      "phone": "+39 351 761 8591",
+      "googleMapsUrl": "https://www.google.com/maps/search/SACHI+Milano,+Via+Orefici%2C+26,+Milano/@45.4649508,9.1867829",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "IT",
+      "coordinates": {
+        "lat": 45.4649508,
+        "lng": 9.1867829,
+        "source": "https://www.google.com/maps/search/SACHI+Milano,+Via+Orefici%2C+26,+Milano/@45.4649508,9.1867829",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "39ee105e-fa91-4189-b1e0-1750ed4e6a72",
+      "name": "Saporium Firenze",
+      "nameEn": "Saporium Firenze",
+      "address": "Lungarno Benvenuto Cellini, 63/R",
+      "addressEn": "Lungarno Benvenuto Cellini, 63/R",
+      "district": "Firenze",
+      "cuisine": "意大利菜",
+      "website": "https://www.saporium.com/firenze/",
+      "phone": "+39 338 362 3945",
+      "googleMapsUrl": "https://www.google.com/maps/search/Saporium+Firenze,+Lungarno+Benvenuto+Cellini%2C+63%2FR,+Firenze/@43.764527,11.265742",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "IT",
+      "coordinates": {
+        "lat": 43.764527,
+        "lng": 11.265742,
+        "source": "https://www.google.com/maps/search/Saporium+Firenze,+Lungarno+Benvenuto+Cellini%2C+63%2FR,+Firenze/@43.764527,11.265742",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "dc8a23c7-0c85-4046-84f2-5f4fa9ae07df",
       "name": "Taverna Estia",
       "nameEn": "Taverna Estia",
@@ -17565,6 +18318,27 @@
         "lat": 45.4854813,
         "lng": 9.2015995,
         "source": "https://www.google.com/maps/search/Terrazza+Gallia,+Piazza+Duca+D%27+Aosta+9,+Milano/@45.4854813,9.2015995",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "7dd160d2-0a42-4284-b9db-6ba6244d839d",
+      "name": "Vesta Fiori Chiari",
+      "nameEn": "Vesta Fiori Chiari",
+      "address": "Via Fiori Chiari, 1A",
+      "addressEn": "Via Fiori Chiari, 1A",
+      "district": "Milano",
+      "cuisine": "意大利菜",
+      "website": "https://vestafiorichiari.com/",
+      "phone": "+39 02 4950 0590",
+      "googleMapsUrl": "https://www.google.com/maps/search/Vesta+Fiori+Chiari,+Via+Fiori+Chiari%2C+1A,+Milano/@45.4721417,9.1869672",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "IT",
+      "coordinates": {
+        "lat": 45.4721417,
+        "lng": 9.1869672,
+        "source": "https://www.google.com/maps/search/Vesta+Fiori+Chiari,+Via+Fiori+Chiari%2C+1A,+Milano/@45.4721417,9.1869672",
         "precision": "official-map-link"
       }
     },
@@ -17680,7 +18454,7 @@
       "phone": "´+343304258",
       "googleMapsUrl": "https://www.google.com/maps/search/%C3%81urea,+Plz.+de+La+Moraleja+2%2C+Alcobendas,+Madrid/@40.5150968,-3.6515332",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "ES",
       "coordinates": {
         "lat": 40.5150968,
@@ -17760,6 +18534,22 @@
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cala+Bassa+Beach+Club+Chiringuito,+Cr+Sant+Joan+Km1800+Pg+Can+Bernat,+Ibiza.+Balearic+Islands&query_place_id=ChIJcxI9HchKmRIRiaBk-KCsGwA",
       "isInHotel": false,
       "isNew": false,
+      "region": "ES",
+      "coordinates": null
+    },
+    {
+      "id": "6501a91e-78ec-4049-b6f6-c36a0a85f033",
+      "name": "Campero Madrid",
+      "nameEn": "Campero Madrid",
+      "address": "Maria de Molina, 25",
+      "addressEn": "Maria de Molina, 25",
+      "district": "Madrid",
+      "cuisine": "Andalusian cuisine, seafood",
+      "website": "https://restauranteelcampero.es/madrid/reserva/",
+      "phone": "91 959 70 50",
+      "googleMapsUrl": "https://maps.app.goo.gl/aerGtcu4WNoFMZ7o9",
+      "isInHotel": false,
+      "isNew": true,
       "region": "ES",
       "coordinates": null
     },
@@ -17875,7 +18665,7 @@
       "phone": "(+34)934100020",
       "googleMapsUrl": "https://www.google.com/maps/search/Cocina+Hermanos+Torres,+Carrer+del+Taquigraf+Serra%2C+20%2C+Les+Corts,+Barcelona/@41.3864925,2.1401248",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "ES",
       "coordinates": {
         "lat": 41.3864925,
@@ -17920,6 +18710,27 @@
       "isNew": false,
       "region": "ES",
       "coordinates": null
+    },
+    {
+      "id": "44c3f40f-b344-470d-99c4-4742d021b464",
+      "name": "Disfrutar Barcelona",
+      "nameEn": "Disfrutar Barcelona",
+      "address": "C. de Villarroel, 163,",
+      "addressEn": "C. de Villarroel, 163,",
+      "district": "Barcelona",
+      "cuisine": "地中海菜式",
+      "website": "https://www.disfrutarbarcelona.com/bookings",
+      "phone": "933 486 896",
+      "googleMapsUrl": "https://www.google.com/maps/search/Disfrutar+Barcelona,+C.+de+Villarroel%2C+163%2C,+Barcelona/@41.3878056,2.1531881",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": {
+        "lat": 41.3878056,
+        "lng": 2.1531881,
+        "source": "https://www.google.com/maps/search/Disfrutar+Barcelona,+C.+de+Villarroel%2C+163%2C,+Barcelona/@41.3878056,2.1531881",
+        "precision": "official-map-link"
+      }
     },
     {
       "id": "fec25443-8ccf-43c5-94e0-eb68d0dfd8dd",
@@ -18038,6 +18849,27 @@
       "coordinates": null
     },
     {
+      "id": "9f7b073a-3818-4df6-b371-1ab3af52cd02",
+      "name": "Leña Ibiza",
+      "nameEn": "Leña Ibiza",
+      "address": "Ctra Playa d en Bossa 13",
+      "addressEn": "Ctra Playa d en Bossa 13",
+      "district": "Ibiza",
+      "cuisine": "扒房",
+      "website": "https://lenarestaurants.com/en/ibiza/",
+      "phone": "871621240",
+      "googleMapsUrl": "https://www.google.com/maps/search/Le%C3%B1a+Ibiza,+Ctra+Playa+d+en+Bossa+13,+Ibiza/@38.8840273,1.4059791",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": {
+        "lat": 38.8840273,
+        "lng": 1.4059791,
+        "source": "https://www.google.com/maps/search/Le%C3%B1a+Ibiza,+Ctra+Playa+d+en+Bossa+13,+Ibiza/@38.8840273,1.4059791",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "992b372c-b65c-4577-9fed-6f7096af601e",
       "name": "Lobito de Mar",
       "nameEn": "Lobito de Mar",
@@ -18049,12 +18881,33 @@
       "phone": "(+34)951554554",
       "googleMapsUrl": "https://www.google.com/maps/search/Lobito+de+Mar,+Avenida+Principe+Alfonso+de+Hohenlohe%2C+KM+178,+Marbella/@36.5078004,-4.9170543",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "ES",
       "coordinates": {
         "lat": 36.5078004,
         "lng": -4.9170543,
         "source": "https://www.google.com/maps/search/Lobito+de+Mar,+Avenida+Principe+Alfonso+de+Hohenlohe%2C+KM+178,+Marbella/@36.5078004,-4.9170543",
+        "precision": "official-map-link"
+      }
+    },
+    {
+      "id": "bb734f2e-a70c-4354-856b-86637b9dca4c",
+      "name": "Lobito de Mar Ibiza",
+      "nameEn": "Lobito de Mar Ibiza",
+      "address": "Platja d en Bossa 10",
+      "addressEn": "Platja d en Bossa 10",
+      "district": "Ibiza",
+      "cuisine": "海鮮",
+      "website": "https://lobitorestaurants.com/en/ibiza/book-a-table/",
+      "phone": "871 62 15 58",
+      "googleMapsUrl": "https://www.google.com/maps/search/Lobito+de+Mar+Ibiza,+Platja+d+en+Bossa+10,+Ibiza/@38.8835016,1.4051609",
+      "isInHotel": true,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": {
+        "lat": 38.8835016,
+        "lng": 1.4051609,
+        "source": "https://www.google.com/maps/search/Lobito+de+Mar+Ibiza,+Platja+d+en+Bossa+10,+Ibiza/@38.8835016,1.4051609",
         "precision": "official-map-link"
       }
     },
@@ -18296,6 +19149,27 @@
       }
     },
     {
+      "id": "69ad7735-40e9-4cae-b628-751696e37930",
+      "name": "Restaurante Arzak",
+      "nameEn": "Restaurante Arzak",
+      "address": "Avenida Alcalde Jose Elosegui, 273",
+      "addressEn": "Avenida Alcalde Jose Elosegui, 273",
+      "district": "San Sebastian",
+      "cuisine": "Rest Basque/Navarra",
+      "website": "https://www.arzak.es/",
+      "phone": "943278465",
+      "googleMapsUrl": "https://www.google.com/maps/search/Restaurante+Arzak,+Avenida+Alcalde+Jose+Elosegui%2C+273,+San+Sebastian/@43.3214573,-1.9493146",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": {
+        "lat": 43.3214573,
+        "lng": -1.9493146,
+        "source": "https://www.google.com/maps/search/Restaurante+Arzak,+Avenida+Alcalde+Jose+Elosegui%2C+273,+San+Sebastian/@43.3214573,-1.9493146",
+        "precision": "official-map-link"
+      }
+    },
+    {
       "id": "ae5e422b-5ac4-482c-9f33-17073a1e55f7",
       "name": "Restaurante Juan Y Andrea",
       "nameEn": "Restaurante Juan Y Andrea",
@@ -18310,6 +19184,27 @@
       "isNew": false,
       "region": "ES",
       "coordinates": null
+    },
+    {
+      "id": "7c2aa4dc-94c4-46cb-9782-cb9d6f0d5fb2",
+      "name": "Restaurante Martin Berasategui",
+      "nameEn": "Restaurante Martin Berasategui",
+      "address": "Loidi Kalea 4",
+      "addressEn": "Loidi Kalea 4",
+      "district": "Lasarte Oria (Guipuzcoa)",
+      "cuisine": "Rest Basque",
+      "website": "https://www.martinberasategui.com",
+      "phone": "943366471",
+      "googleMapsUrl": "https://www.google.com/maps/search/Restaurante+Martin+Berasategui,+Loidi+Kalea+4,+Lasarte+Oria+%28Guipuzcoa%29/@43.2667898,-2.0155288",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": {
+        "lat": 43.2667898,
+        "lng": -2.0155288,
+        "source": "https://www.google.com/maps/search/Restaurante+Martin+Berasategui,+Loidi+Kalea+4,+Lasarte+Oria+%28Guipuzcoa%29/@43.2667898,-2.0155288",
+        "precision": "official-map-link"
+      }
     },
     {
       "id": "724d4e99-586b-4033-be32-ed23dc589a20",
@@ -18328,6 +19223,22 @@
       "coordinates": null
     },
     {
+      "id": "1c75032b-0d64-4946-9f1a-263555e619cc",
+      "name": "Sixty One Madrid",
+      "nameEn": "Sixty One Madrid",
+      "address": "Jose Abascal 61",
+      "addressEn": "Jose Abascal 61",
+      "district": "Madrid",
+      "cuisine": "Art Dining Club",
+      "website": "https://sixtyonemadrid.com/",
+      "phone": "919771061",
+      "googleMapsUrl": "https://maps.app.goo.gl/aerGtcu4WNoFMZ7o9",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": null
+    },
+    {
       "id": "4454e9c9-b91c-4a5b-851f-3d3b33177ffe",
       "name": "Sublimotion Ibiza",
       "nameEn": "Sublimotion Ibiza",
@@ -18342,6 +19253,27 @@
       "isNew": false,
       "region": "ES",
       "coordinates": null
+    },
+    {
+      "id": "8fd345e1-381f-43ab-a6e8-756e61b35863",
+      "name": "Tatel Madrid",
+      "nameEn": "Tatel Madrid",
+      "address": "Paseo Castellana 36",
+      "addressEn": "Paseo Castellana 36",
+      "district": "Madrid",
+      "cuisine": "Haute",
+      "website": "https://tatelrestaurants.com/en/madrid-booking/",
+      "phone": "911 72 18 41",
+      "googleMapsUrl": "https://www.google.com/maps/search/Tatel+Madrid,+Paseo+Castellana+36,+Madrid/@40.4324618,-3.6878034",
+      "isInHotel": false,
+      "isNew": true,
+      "region": "ES",
+      "coordinates": {
+        "lat": 40.4324618,
+        "lng": -3.6878034,
+        "source": "https://www.google.com/maps/search/Tatel+Madrid,+Paseo+Castellana+36,+Madrid/@40.4324618,-3.6878034",
+        "precision": "official-map-link"
+      }
     },
     {
       "id": "f13dbd94-b87a-4006-a71a-09df6e026f02",
@@ -18392,7 +19324,7 @@
       "phone": "´+343304262",
       "googleMapsUrl": "https://www.google.com/maps/search/The+Library,+Calle+Serrano+2,+Madrid/@40.4207438,-3.68837",
       "isInHotel": false,
-      "isNew": true,
+      "isNew": false,
       "region": "ES",
       "coordinates": {
         "lat": 40.4207438,
@@ -21036,27 +21968,6 @@
       "isNew": false,
       "region": "GB",
       "coordinates": null
-    },
-    {
-      "id": "03a6b107-9d17-4c64-baca-952b84858cab",
-      "name": "Yauatcha Soho",
-      "nameEn": "Yauatcha Soho",
-      "address": "15-17 Broadwick Street",
-      "addressEn": "15-17 Broadwick Street",
-      "district": "London",
-      "cuisine": "廣東菜",
-      "website": "https://www.sevenrooms.com/reservations/yauatchasoholondon?venues=yauatchasoholondon,yauatchacitylondon",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Yauatcha+Soho,+15-17+Broadwick+Street,+London/@51.513587,-0.1351682",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "GB",
-      "coordinates": {
-        "lat": 51.513587,
-        "lng": -0.1351682,
-        "source": "https://www.google.com/maps/search/Yauatcha+Soho,+15-17+Broadwick+Street,+London/@51.513587,-0.1351682",
-        "precision": "official-map-link"
-      }
     },
     {
       "id": "4c8931da-e750-4d1c-bc13-5920f1c84b7e",
@@ -24930,27 +25841,6 @@
       }
     },
     {
-      "id": "54b20760-67c4-4083-ac36-7c5f59512eb6",
-      "name": "Pompette",
-      "nameEn": "Pompette",
-      "address": "597 College St",
-      "addressEn": "597 College St",
-      "district": "Toronto",
-      "cuisine": "法國菜",
-      "website": "https://www.pompette.ca/restaurant",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Pompette,+597+College+St,+Toronto/@43.6550376,-79.4139296",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "CA",
-      "coordinates": {
-        "lat": 43.6550376,
-        "lng": -79.4139296,
-        "source": "https://www.google.com/maps/search/Pompette,+597+College+St,+Toronto/@43.6550376,-79.4139296",
-        "precision": "official-map-link"
-      }
-    },
-    {
       "id": "13333020-f289-4d12-8cd7-751d169f1541",
       "name": "Pop Wine Bar",
       "nameEn": "Pop Wine Bar",
@@ -26086,22 +26976,6 @@
       }
     },
     {
-      "id": "82946bda-9e4b-40e4-ad8f-b377eb6c9052",
-      "name": "Wild Blue",
-      "nameEn": "Wild Blue",
-      "address": "4005 Whistler Way",
-      "addressEn": "4005 Whistler Way",
-      "district": "Whistler",
-      "cuisine": "海鮮",
-      "website": "http://wildbluerestaurant.com",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wild+Blue,+4005+Whistler+Way,+Whistler&query_place_id=ChIJC42-bvsjh1QRt0dkdZ2Rf5o",
-      "isInHotel": false,
-      "isNew": true,
-      "region": "CA",
-      "coordinates": null
-    },
-    {
       "id": "3b099965-7b47-49ae-834d-20efc98ff500",
       "name": "Wild Blue Restaurant + Bar",
       "nameEn": "Wild Blue Restaurant + Bar",
@@ -26113,7 +26987,7 @@
       "phone": "",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wild+Blue+Restaurant+%2B+Bar,+4005+Whistler+Way,+Whistler&query_place_id=ChIJC42-bvsjh1QRt0dkdZ2Rf5o",
       "isInHotel": false,
-      "isNew": false,
+      "isNew": true,
       "region": "CA",
       "coordinates": null
     },
@@ -29233,22 +30107,22 @@
     },
     {
       "id": "c6392851-ef52-4b69-a88d-11b5a1c33e16",
-      "name": "Dear Irving",
-      "nameEn": "Dear Irving",
+      "name": "Dear Irving Gramercy",
+      "nameEn": "Dear Irving Gramercy",
       "address": "55 Irving Place",
       "addressEn": "55 Irving Place",
       "district": "New York",
       "cuisine": "雞尾酒吧",
-      "website": "https://www.dearirving.com/homepage",
+      "website": "https://resy.com/cities/new-york-ny/venues/dear-irving-gramercy?date=2026-08-21&seats=2",
       "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Dear+Irving,+55+Irving+Place,+New+York/@40.7362234,-73.9874495",
+      "googleMapsUrl": "https://www.google.com/maps/search/Dear+Irving+Gramercy,+55+Irving+Place,+New+York/@40.7362234,-73.9874495",
       "isInHotel": false,
       "isNew": false,
       "region": "US",
       "coordinates": {
         "lat": 40.7362234,
         "lng": -73.9874495,
-        "source": "https://www.google.com/maps/search/Dear+Irving,+55+Irving+Place,+New+York/@40.7362234,-73.9874495",
+        "source": "https://www.google.com/maps/search/Dear+Irving+Gramercy,+55+Irving+Place,+New+York/@40.7362234,-73.9874495",
         "precision": "official-map-link"
       }
     },
@@ -29317,22 +30191,22 @@
     },
     {
       "id": "ac039e13-eded-4ff6-bf0d-5ccbe88c097a",
-      "name": "Fish Cheeks",
-      "nameEn": "Fish Cheeks",
+      "name": "Fish Cheeks NoHo",
+      "nameEn": "Fish Cheeks NoHo",
       "address": "55 Bond Street",
       "addressEn": "55 Bond Street",
       "district": "New York",
       "cuisine": "泰國菜",
-      "website": "https://www.fishcheeksnyc.com",
+      "website": "https://resy.com/cities/new-york-ny/venues/fish-cheeks?seats=2&date=2026-08-21",
       "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Fish+Cheeks,+55+Bond+Street,+New+York/@40.725709,-73.992682",
+      "googleMapsUrl": "https://www.google.com/maps/search/Fish+Cheeks+NoHo,+55+Bond+Street,+New+York/@40.725709,-73.992682",
       "isInHotel": false,
       "isNew": false,
       "region": "US",
       "coordinates": {
         "lat": 40.725709,
         "lng": -73.992682,
-        "source": "https://www.google.com/maps/search/Fish+Cheeks,+55+Bond+Street,+New+York/@40.725709,-73.992682",
+        "source": "https://www.google.com/maps/search/Fish+Cheeks+NoHo,+55+Bond+Street,+New+York/@40.725709,-73.992682",
         "precision": "official-map-link"
       }
     },
@@ -29452,7 +30326,7 @@
       "website": "https://www.kateenla.com/",
       "phone": "",
       "googleMapsUrl": "https://goo.gl/maps/UciDWavpAMKJHtMw6",
-      "isInHotel": false,
+      "isInHotel": true,
       "isNew": false,
       "region": "US",
       "coordinates": null
@@ -29512,27 +30386,6 @@
         "lat": 41.9196163,
         "lng": -87.6970726,
         "source": "https://www.google.com/maps/search/Lonesome+Rose,+2101+N+California+Avenue,+Chicago/@41.9196163,-87.6970726",
-        "precision": "official-map-link"
-      }
-    },
-    {
-      "id": "6b8a923a-47ef-4bfd-a2a6-a8741a78164f",
-      "name": "Loring Place",
-      "nameEn": "Loring Place",
-      "address": "21 West 8th Street",
-      "addressEn": "21 West 8th Street",
-      "district": "New York",
-      "cuisine": "美國菜",
-      "website": "https://www.loringplacenyc.com",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Loring+Place,+21+West+8th+Street,+New+York/@40.7329277,-73.9975837",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "US",
-      "coordinates": {
-        "lat": 40.7329277,
-        "lng": -73.9975837,
-        "source": "https://www.google.com/maps/search/Loring+Place,+21+West+8th+Street,+New+York/@40.7329277,-73.9975837",
         "precision": "official-map-link"
       }
     },
@@ -29701,27 +30554,6 @@
         "lat": 42.3482041,
         "lng": -71.0833693,
         "source": "https://www.google.com/maps/search/Rochambeau,+900+Boylston+Street,+Boston/@42.3482041,-71.0833693",
-        "precision": "official-map-link"
-      }
-    },
-    {
-      "id": "9c45f1b9-6896-4b05-ac9a-b51cb108b59e",
-      "name": "Roots Pizza - South Loop",
-      "nameEn": "Roots Pizza - South Loop",
-      "address": "744 South Dearborn Street",
-      "addressEn": "744 South Dearborn Street",
-      "district": "Chicago",
-      "cuisine": "美國菜",
-      "website": "https://www.rootspizza.com/",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Roots+Pizza+-+South+Loop,+744+South+Dearborn+Street,+Chicago/@41.8724667,-87.6293611",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "US",
-      "coordinates": {
-        "lat": 41.8724667,
-        "lng": -87.6293611,
-        "source": "https://www.google.com/maps/search/Roots+Pizza+-+South+Loop,+744+South+Dearborn+Street,+Chicago/@41.8724667,-87.6293611",
         "precision": "official-map-link"
       }
     },
@@ -30002,41 +30834,20 @@
       "id": "091a2adf-c674-4648-afbd-6de5940542c4",
       "name": "Torien",
       "nameEn": "Torien",
-      "address": "624 Broadway",
-      "addressEn": "624 Broadway",
+      "address": "292 Elizabeth Street",
+      "addressEn": "292 Elizabeth Street",
       "district": "New York",
       "cuisine": "日本菜",
       "website": "https://torien-nyc.com",
       "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Torien,+624+Broadway,+New+York/@40.7247436,-73.9931265",
+      "googleMapsUrl": "https://www.google.com/maps/search/Torien,+292+Elizabeth+Street,+New+York/@40.7247436,-73.9931265",
       "isInHotel": false,
       "isNew": false,
       "region": "US",
       "coordinates": {
         "lat": 40.7247436,
         "lng": -73.9931265,
-        "source": "https://www.google.com/maps/search/Torien,+624+Broadway,+New+York/@40.7247436,-73.9931265",
-        "precision": "official-map-link"
-      }
-    },
-    {
-      "id": "3e67d209-b441-4a0b-bdee-4a47c3f6fbd7",
-      "name": "Tribeca Grill",
-      "nameEn": "Tribeca Grill",
-      "address": "375 Greenwich Street",
-      "addressEn": "375 Greenwich Street",
-      "district": "New York",
-      "cuisine": "新美國菜",
-      "website": "https://www.tribecagrill.com",
-      "phone": "",
-      "googleMapsUrl": "https://www.google.com/maps/search/Tribeca+Grill,+375+Greenwich+Street,+New+York/@40.7196368,-74.009776",
-      "isInHotel": false,
-      "isNew": false,
-      "region": "US",
-      "coordinates": {
-        "lat": 40.7196368,
-        "lng": -74.009776,
-        "source": "https://www.google.com/maps/search/Tribeca+Grill,+375+Greenwich+Street,+New+York/@40.7196368,-74.009776",
+        "source": "https://www.google.com/maps/search/Torien,+292+Elizabeth+Street,+New+York/@40.7247436,-73.9931265",
         "precision": "official-map-link"
       }
     },
