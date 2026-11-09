@@ -1,7 +1,7 @@
 {
   "sourceUrl": "https://www.americanexpress.com/zh-hk/benefits/diningbenefit/",
   "apiUrl": "https://dining-offers-prod.amex.r53.tuimedia.com/api/country/{region}/merchants?origin=hk",
-  "fetchedAt": "2026-11-08T10:06:14.839055+00:00",
+  "fetchedAt": "2026-11-09T09:50:22.393581+00:00",
   "regions": [
     "AT",
     "AU",
